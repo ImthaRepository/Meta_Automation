@@ -1,0 +1,971 @@
+2025-06-25 14:59:00,441 INFO  Meta_Master_Code - URL Entered
+2025-06-25 14:59:00,493 INFO  Meta_Master_Code - Entered country is - India
+2025-06-25 14:59:00,495 INFO  Meta_Master_Code - India has been Choosen
+2025-06-25 14:59:00,745 INFO  Meta_Master_Code - Data Found
+2025-06-25 14:59:00,754 INFO  Meta_Master_Code - The Number of Scroll count Entered is - 150
+2025-06-25 14:59:00,755 INFO  Meta_Master_Code - Scroll: 0
+2025-06-25 14:59:06,838 INFO  Meta_Master_Code - Scroll: 1
+2025-06-25 14:59:13,247 INFO  Meta_Master_Code - Scroll: 2
+2025-06-25 14:59:20,179 INFO  Meta_Master_Code - Scroll: 3
+2025-06-25 14:59:26,795 INFO  Meta_Master_Code - Scroll: 4
+2025-06-25 14:59:33,024 INFO  Meta_Master_Code - Scroll: 5
+2025-06-25 14:59:39,602 INFO  Meta_Master_Code - Scroll: 6
+2025-06-25 14:59:45,761 INFO  Meta_Master_Code - Scroll: 7
+2025-06-25 14:59:51,816 INFO  Meta_Master_Code - Scroll: 8
+2025-06-25 14:59:57,954 INFO  Meta_Master_Code - Scroll: 9
+2025-06-25 15:00:04,135 INFO  Meta_Master_Code - Scroll: 10
+2025-06-25 15:00:10,568 INFO  Meta_Master_Code - Scroll: 11
+2025-06-25 15:00:16,646 INFO  Meta_Master_Code - Scroll: 12
+2025-06-25 15:00:22,747 INFO  Meta_Master_Code - Scroll: 13
+2025-06-25 15:00:28,850 INFO  Meta_Master_Code - Scroll: 14
+2025-06-25 15:00:34,919 INFO  Meta_Master_Code - Scroll: 15
+2025-06-25 15:00:41,325 INFO  Meta_Master_Code - Scroll: 16
+2025-06-25 15:00:47,532 INFO  Meta_Master_Code - Scroll: 17
+2025-06-25 15:00:53,956 INFO  Meta_Master_Code - Scroll: 18
+2025-06-25 15:01:00,629 INFO  Meta_Master_Code - Scroll: 19
+2025-06-25 15:01:06,707 INFO  Meta_Master_Code - Scroll: 20
+2025-06-25 15:01:13,531 INFO  Meta_Master_Code - Scroll: 21
+2025-06-25 15:01:19,804 INFO  Meta_Master_Code - Scroll: 22
+2025-06-25 15:01:26,068 INFO  Meta_Master_Code - Scroll: 23
+2025-06-25 15:01:32,175 INFO  Meta_Master_Code - Scroll: 24
+2025-06-25 15:01:38,383 INFO  Meta_Master_Code - Scroll: 25
+2025-06-25 15:01:44,517 INFO  Meta_Master_Code - Scroll: 26
+2025-06-25 15:01:50,861 INFO  Meta_Master_Code - Scroll: 27
+2025-06-25 15:01:57,581 INFO  Meta_Master_Code - Scroll: 28
+2025-06-25 15:02:03,888 INFO  Meta_Master_Code - Scroll: 29
+2025-06-25 15:02:10,251 INFO  Meta_Master_Code - Scroll: 30
+2025-06-25 15:02:16,451 INFO  Meta_Master_Code - Scroll: 31
+2025-06-25 15:02:22,693 INFO  Meta_Master_Code - Scroll: 32
+2025-06-25 15:02:28,816 INFO  Meta_Master_Code - Scroll: 33
+2025-06-25 15:02:35,004 INFO  Meta_Master_Code - Scroll: 34
+2025-06-25 15:02:41,205 INFO  Meta_Master_Code - Scroll: 35
+2025-06-25 15:02:47,380 INFO  Meta_Master_Code - Scroll: 36
+2025-06-25 15:02:53,537 INFO  Meta_Master_Code - Scroll: 37
+2025-06-25 15:02:59,809 INFO  Meta_Master_Code - Scroll: 38
+2025-06-25 15:03:05,949 INFO  Meta_Master_Code - Scroll: 39
+2025-06-25 15:03:12,070 INFO  Meta_Master_Code - Scroll: 40
+2025-06-25 15:03:18,533 INFO  Meta_Master_Code - Scroll: 41
+2025-06-25 15:03:24,822 INFO  Meta_Master_Code - Scroll: 42
+2025-06-25 15:03:31,268 INFO  Meta_Master_Code - Scroll: 43
+2025-06-25 15:03:37,635 INFO  Meta_Master_Code - Scroll: 44
+2025-06-25 15:03:43,935 INFO  Meta_Master_Code - Scroll: 45
+2025-06-25 15:03:50,310 INFO  Meta_Master_Code - Scroll: 46
+2025-06-25 15:03:56,550 INFO  Meta_Master_Code - Scroll: 47
+2025-06-25 15:04:02,819 INFO  Meta_Master_Code - Scroll: 48
+2025-06-25 15:04:09,078 INFO  Meta_Master_Code - Scroll: 49
+2025-06-25 15:04:15,308 INFO  Meta_Master_Code - Scroll: 50
+2025-06-25 15:04:21,648 INFO  Meta_Master_Code - Scroll: 51
+2025-06-25 15:04:28,161 INFO  Meta_Master_Code - Scroll: 52
+2025-06-25 15:04:34,703 INFO  Meta_Master_Code - Scroll: 53
+2025-06-25 15:04:41,136 INFO  Meta_Master_Code - Scroll: 54
+2025-06-25 15:04:47,304 INFO  Meta_Master_Code - Scroll: 55
+2025-06-25 15:04:53,614 INFO  Meta_Master_Code - Scroll: 56
+2025-06-25 15:04:59,915 INFO  Meta_Master_Code - Scroll: 57
+2025-06-25 15:05:06,276 INFO  Meta_Master_Code - Scroll: 58
+2025-06-25 15:05:12,604 INFO  Meta_Master_Code - Scroll: 59
+2025-06-25 15:05:19,268 INFO  Meta_Master_Code - Scroll: 60
+2025-06-25 15:05:25,553 INFO  Meta_Master_Code - Scroll: 61
+2025-06-25 15:05:32,046 INFO  Meta_Master_Code - Scroll: 62
+2025-06-25 15:05:38,329 INFO  Meta_Master_Code - Scroll: 63
+2025-06-25 15:05:44,671 INFO  Meta_Master_Code - Scroll: 64
+2025-06-25 15:05:51,498 INFO  Meta_Master_Code - Scroll: 65
+2025-06-25 15:05:57,837 INFO  Meta_Master_Code - Scroll: 66
+2025-06-25 15:06:04,664 INFO  Meta_Master_Code - Scroll: 67
+2025-06-25 15:06:11,249 INFO  Meta_Master_Code - Scroll: 68
+2025-06-25 15:06:17,563 INFO  Meta_Master_Code - Scroll: 69
+2025-06-25 15:06:24,563 INFO  Meta_Master_Code - Scroll: 70
+2025-06-25 15:06:31,250 INFO  Meta_Master_Code - Scroll: 71
+2025-06-25 15:06:38,175 INFO  Meta_Master_Code - Scroll: 72
+2025-06-25 15:06:47,321 INFO  Meta_Master_Code - Scroll: 73
+2025-06-25 15:06:54,902 INFO  Meta_Master_Code - Scroll: 74
+2025-06-25 15:07:03,074 INFO  Meta_Master_Code - Scroll: 75
+2025-06-25 15:07:09,739 INFO  Meta_Master_Code - Scroll: 76
+2025-06-25 15:07:17,960 INFO  Meta_Master_Code - Scroll: 77
+2025-06-25 15:07:28,574 INFO  Meta_Master_Code - Scroll: 78
+2025-06-25 15:07:36,872 INFO  Meta_Master_Code - Scroll: 79
+2025-06-25 15:07:45,033 INFO  Meta_Master_Code - Scroll: 80
+2025-06-25 15:07:52,394 INFO  Meta_Master_Code - Scroll: 81
+2025-06-25 15:08:01,218 INFO  Meta_Master_Code - Scroll: 82
+2025-06-25 15:08:08,416 INFO  Meta_Master_Code - Scroll: 83
+2025-06-25 15:08:15,720 INFO  Meta_Master_Code - Scroll: 84
+2025-06-25 15:08:22,259 INFO  Meta_Master_Code - Scroll: 85
+2025-06-25 15:08:28,543 INFO  Meta_Master_Code - Scroll: 86
+2025-06-25 15:08:37,793 INFO  Meta_Master_Code - Scroll: 87
+2025-06-25 15:08:45,191 INFO  Meta_Master_Code - Scroll: 88
+2025-06-25 15:08:52,792 INFO  Meta_Master_Code - Scroll: 89
+2025-06-25 15:09:00,332 INFO  Meta_Master_Code - Scroll: 90
+2025-06-25 15:09:06,697 INFO  Meta_Master_Code - Scroll: 91
+2025-06-25 15:09:13,342 INFO  Meta_Master_Code - Scroll: 92
+2025-06-25 15:09:20,141 INFO  Meta_Master_Code - Scroll: 93
+2025-06-25 15:09:27,854 INFO  Meta_Master_Code - Scroll: 94
+2025-06-25 15:09:34,433 INFO  Meta_Master_Code - Scroll: 95
+2025-06-25 15:09:41,901 INFO  Meta_Master_Code - Scroll: 96
+2025-06-25 15:09:50,354 INFO  Meta_Master_Code - Scroll: 97
+2025-06-25 15:09:59,105 INFO  Meta_Master_Code - Scroll: 98
+2025-06-25 15:10:07,848 INFO  Meta_Master_Code - Scroll: 99
+2025-06-25 15:10:14,969 INFO  Meta_Master_Code - Scroll: 100
+2025-06-25 15:10:22,107 INFO  Meta_Master_Code - Scroll: 101
+2025-06-25 15:10:30,266 INFO  Meta_Master_Code - Scroll: 102
+2025-06-25 15:10:37,910 INFO  Meta_Master_Code - Scroll: 103
+2025-06-25 15:10:52,022 INFO  Meta_Master_Code - Scroll: 104
+2025-06-25 15:10:59,995 INFO  Meta_Master_Code - Scroll: 105
+2025-06-25 15:11:07,588 INFO  Meta_Master_Code - Scroll: 106
+2025-06-25 15:11:16,320 INFO  Meta_Master_Code - Scroll: 107
+2025-06-25 15:11:24,273 INFO  Meta_Master_Code - Scroll: 108
+2025-06-25 15:11:31,624 INFO  Meta_Master_Code - Scroll: 109
+2025-06-25 15:11:39,077 INFO  Meta_Master_Code - Scroll: 110
+2025-06-25 15:11:45,488 INFO  Meta_Master_Code - Scroll: 111
+2025-06-25 15:11:52,351 INFO  Meta_Master_Code - Scroll: 112
+2025-06-25 15:12:00,052 INFO  Meta_Master_Code - Scroll: 113
+2025-06-25 15:12:07,532 INFO  Meta_Master_Code - Scroll: 114
+2025-06-25 15:12:13,864 INFO  Meta_Master_Code - Scroll: 115
+2025-06-25 15:12:20,365 INFO  Meta_Master_Code - Scroll: 116
+2025-06-25 15:12:31,031 INFO  Meta_Master_Code - Scroll: 117
+2025-06-25 15:12:42,401 INFO  Meta_Master_Code - Scroll: 118
+2025-06-25 15:12:59,514 INFO  Meta_Master_Code - Scroll: 119
+2025-06-25 15:13:07,229 INFO  Meta_Master_Code - Scroll: 120
+2025-06-25 15:13:14,350 INFO  Meta_Master_Code - Scroll: 121
+2025-06-25 15:13:20,905 INFO  Meta_Master_Code - Scroll: 122
+2025-06-25 15:13:34,794 INFO  Meta_Master_Code - Scroll: 123
+2025-06-25 15:13:41,671 INFO  Meta_Master_Code - Scroll: 124
+2025-06-25 15:13:48,493 INFO  Meta_Master_Code - Scroll: 125
+2025-06-25 15:13:54,768 INFO  Meta_Master_Code - Scroll: 126
+2025-06-25 15:14:01,197 INFO  Meta_Master_Code - Scroll: 127
+2025-06-25 15:14:13,859 INFO  Meta_Master_Code - Scroll: 128
+2025-06-25 15:14:26,771 INFO  Meta_Master_Code - Scroll: 129
+2025-06-25 15:14:34,302 INFO  Meta_Master_Code - Scroll: 130
+2025-06-25 15:14:47,354 INFO  Meta_Master_Code - Scroll: 131
+2025-06-25 15:15:02,987 INFO  Meta_Master_Code - Scroll: 132
+2025-06-25 15:15:10,311 INFO  Meta_Master_Code - Scroll: 133
+2025-06-25 15:15:16,806 INFO  Meta_Master_Code - Scroll: 134
+2025-06-25 15:15:23,533 INFO  Meta_Master_Code - Scroll: 135
+2025-06-25 15:15:30,464 INFO  Meta_Master_Code - Scroll: 136
+2025-06-25 15:15:36,989 INFO  Meta_Master_Code - Scroll: 137
+2025-06-25 15:15:51,859 INFO  Meta_Master_Code - Scroll: 138
+2025-06-25 15:15:58,932 INFO  Meta_Master_Code - Scroll: 139
+2025-06-25 15:16:11,915 INFO  Meta_Master_Code - Scroll: 140
+2025-06-25 15:16:25,943 INFO  Meta_Master_Code - Scroll: 141
+2025-06-25 15:16:32,810 INFO  Meta_Master_Code - Scroll: 142
+2025-06-25 15:16:40,182 INFO  Meta_Master_Code - Scroll: 143
+2025-06-25 15:16:48,376 INFO  Meta_Master_Code - Scroll: 144
+2025-06-25 15:17:00,070 INFO  Meta_Master_Code - Scroll: 145
+2025-06-25 15:17:07,160 INFO  Meta_Master_Code - Scroll: 146
+2025-06-25 15:17:14,014 INFO  Meta_Master_Code - Scroll: 147
+2025-06-25 15:17:20,665 INFO  Meta_Master_Code - Scroll: 148
+2025-06-25 15:17:27,678 INFO  Meta_Master_Code - Scroll: 149
+2025-06-25 15:17:35,784 INFO  Meta_Master_Code - Scroll: 150
+2025-06-25 15:17:51,087 INFO  Meta_Master_Code - 2025.06.25.14.58.54 - Excel file created successfully!
+2025-06-25 15:17:51,377 INFO  Meta_Master_Code - Total link is 232
+2025-06-25 15:17:51,776 INFO  Meta_Master_Code - 1 - Data written successfully.
+2025-06-25 15:17:51,936 INFO  Meta_Master_Code - 2 - Data written successfully.
+2025-06-25 15:17:52,105 INFO  Meta_Master_Code - 3 - Data written successfully.
+2025-06-25 15:17:52,274 INFO  Meta_Master_Code - 4 - Data written successfully.
+2025-06-25 15:17:52,427 INFO  Meta_Master_Code - 5 - Data written successfully.
+2025-06-25 15:17:52,511 WARN  Meta_Master_Code - 6 - Link is disabled
+2025-06-25 15:17:52,638 INFO  Meta_Master_Code - 7 - Data written successfully.
+2025-06-25 15:17:52,714 WARN  Meta_Master_Code - 8 - Link is disabled
+2025-06-25 15:17:52,790 WARN  Meta_Master_Code - 9 - Link is disabled
+2025-06-25 15:17:52,877 WARN  Meta_Master_Code - 10 - Link is disabled
+2025-06-25 15:17:52,982 WARN  Meta_Master_Code - 11 - Link is disabled
+2025-06-25 15:17:53,063 WARN  Meta_Master_Code - 12 - Link is disabled
+2025-06-25 15:17:53,142 WARN  Meta_Master_Code - 13 - Link is disabled
+2025-06-25 15:17:53,272 INFO  Meta_Master_Code - 14 - Data written successfully.
+2025-06-25 15:17:53,857 INFO  Meta_Master_Code - 15 - Data written successfully.
+2025-06-25 15:17:54,779 WARN  Meta_Master_Code - 16 - Link is disabled
+2025-06-25 15:17:55,347 WARN  Meta_Master_Code - 17 - Link is disabled
+2025-06-25 15:17:55,706 INFO  Meta_Master_Code - 18 - Data written successfully.
+2025-06-25 15:17:55,801 WARN  Meta_Master_Code - 19 - Link is disabled
+2025-06-25 15:17:55,996 INFO  Meta_Master_Code - 20 - Data written successfully.
+2025-06-25 15:17:56,189 INFO  Meta_Master_Code - 21 - Data written successfully.
+2025-06-25 15:17:56,328 WARN  Meta_Master_Code - 22 - Link is disabled
+2025-06-25 15:17:56,533 INFO  Meta_Master_Code - 23 - Data written successfully.
+2025-06-25 15:17:56,695 INFO  Meta_Master_Code - 24 - Data written successfully.
+2025-06-25 15:17:56,881 INFO  Meta_Master_Code - 25 - Data written successfully.
+2025-06-25 15:17:57,039 INFO  Meta_Master_Code - 26 - Data written successfully.
+2025-06-25 15:17:57,196 INFO  Meta_Master_Code - 27 - Data written successfully.
+2025-06-25 15:17:57,295 WARN  Meta_Master_Code - 28 - Link is disabled
+2025-06-25 15:17:57,447 INFO  Meta_Master_Code - 29 - Data written successfully.
+2025-06-25 15:17:57,622 INFO  Meta_Master_Code - 30 - Data written successfully.
+2025-06-25 15:17:57,791 INFO  Meta_Master_Code - 31 - Data written successfully.
+2025-06-25 15:17:57,979 INFO  Meta_Master_Code - 32 - Data written successfully.
+2025-06-25 15:17:58,157 INFO  Meta_Master_Code - 33 - Data written successfully.
+2025-06-25 15:17:58,318 INFO  Meta_Master_Code - 34 - Data written successfully.
+2025-06-25 15:17:58,538 INFO  Meta_Master_Code - 35 - Data written successfully.
+2025-06-25 15:17:59,286 INFO  Meta_Master_Code - 36 - Data written successfully.
+2025-06-25 15:18:00,730 INFO  Meta_Master_Code - 37 - Data written successfully.
+2025-06-25 15:18:00,896 INFO  Meta_Master_Code - 38 - Data written successfully.
+2025-06-25 15:18:01,126 INFO  Meta_Master_Code - 39 - Data written successfully.
+2025-06-25 15:18:01,434 INFO  Meta_Master_Code - 40 - Data written successfully.
+2025-06-25 15:18:01,585 INFO  Meta_Master_Code - 41 - Data written successfully.
+2025-06-25 15:18:01,733 INFO  Meta_Master_Code - 42 - Data written successfully.
+2025-06-25 15:18:01,863 INFO  Meta_Master_Code - 43 - Data written successfully.
+2025-06-25 15:18:02,001 INFO  Meta_Master_Code - 44 - Data written successfully.
+2025-06-25 15:18:02,131 INFO  Meta_Master_Code - 45 - Data written successfully.
+2025-06-25 15:18:02,279 INFO  Meta_Master_Code - 46 - Data written successfully.
+2025-06-25 15:18:02,463 INFO  Meta_Master_Code - 47 - Data written successfully.
+2025-06-25 15:18:02,641 INFO  Meta_Master_Code - 48 - Data written successfully.
+2025-06-25 15:18:02,770 INFO  Meta_Master_Code - 49 - Data written successfully.
+2025-06-25 15:18:02,853 WARN  Meta_Master_Code - 50 - Link is disabled
+2025-06-25 15:18:02,935 WARN  Meta_Master_Code - 51 - Link is disabled
+2025-06-25 15:18:03,021 WARN  Meta_Master_Code - 52 - Link is disabled
+2025-06-25 15:18:03,146 INFO  Meta_Master_Code - 53 - Data written successfully.
+2025-06-25 15:18:03,277 INFO  Meta_Master_Code - 54 - Data written successfully.
+2025-06-25 15:18:03,417 INFO  Meta_Master_Code - 55 - Data written successfully.
+2025-06-25 15:18:03,951 INFO  Meta_Master_Code - 56 - Data written successfully.
+2025-06-25 15:18:05,535 INFO  Meta_Master_Code - 57 - Data written successfully.
+2025-06-25 15:18:05,674 INFO  Meta_Master_Code - 58 - Data written successfully.
+2025-06-25 15:18:05,773 WARN  Meta_Master_Code - 59 - Link is disabled
+2025-06-25 15:18:05,853 WARN  Meta_Master_Code - 60 - Link is disabled
+2025-06-25 15:18:05,970 INFO  Meta_Master_Code - 61 - Data written successfully.
+2025-06-25 15:18:06,096 INFO  Meta_Master_Code - 62 - Data written successfully.
+2025-06-25 15:18:06,261 INFO  Meta_Master_Code - 63 - Data written successfully.
+2025-06-25 15:18:06,410 INFO  Meta_Master_Code - 64 - Data written successfully.
+2025-06-25 15:18:06,566 INFO  Meta_Master_Code - 65 - Data written successfully.
+2025-06-25 15:18:06,708 INFO  Meta_Master_Code - 66 - Data written successfully.
+2025-06-25 15:18:06,844 INFO  Meta_Master_Code - 67 - Data written successfully.
+2025-06-25 15:18:07,000 INFO  Meta_Master_Code - 68 - Data written successfully.
+2025-06-25 15:18:07,137 INFO  Meta_Master_Code - 69 - Data written successfully.
+2025-06-25 15:18:07,219 WARN  Meta_Master_Code - 70 - Link is disabled
+2025-06-25 15:18:07,302 WARN  Meta_Master_Code - 71 - Link is disabled
+2025-06-25 15:18:07,384 WARN  Meta_Master_Code - 72 - Link is disabled
+2025-06-25 15:18:07,463 WARN  Meta_Master_Code - 73 - Link is disabled
+2025-06-25 15:18:07,575 INFO  Meta_Master_Code - 74 - Data written successfully.
+2025-06-25 15:18:07,681 INFO  Meta_Master_Code - 75 - Data written successfully.
+2025-06-25 15:18:07,793 INFO  Meta_Master_Code - 76 - Data written successfully.
+2025-06-25 15:18:08,233 INFO  Meta_Master_Code - 77 - Data written successfully.
+2025-06-25 15:18:09,451 INFO  Meta_Master_Code - 78 - Data written successfully.
+2025-06-25 15:18:09,548 INFO  Meta_Master_Code - 79 - Data written successfully.
+2025-06-25 15:18:09,649 INFO  Meta_Master_Code - 80 - Data written successfully.
+2025-06-25 15:18:09,751 INFO  Meta_Master_Code - 81 - Data written successfully.
+2025-06-25 15:18:09,846 INFO  Meta_Master_Code - 82 - Data written successfully.
+2025-06-25 15:18:09,941 INFO  Meta_Master_Code - 83 - Data written successfully.
+2025-06-25 15:18:10,064 INFO  Meta_Master_Code - 84 - Data written successfully.
+2025-06-25 15:18:10,173 INFO  Meta_Master_Code - 85 - Data written successfully.
+2025-06-25 15:18:10,305 INFO  Meta_Master_Code - 86 - Data written successfully.
+2025-06-25 15:18:10,411 INFO  Meta_Master_Code - 87 - Data written successfully.
+2025-06-25 15:18:10,511 INFO  Meta_Master_Code - 88 - Data written successfully.
+2025-06-25 15:18:10,611 INFO  Meta_Master_Code - 89 - Data written successfully.
+2025-06-25 15:18:10,709 INFO  Meta_Master_Code - 90 - Data written successfully.
+2025-06-25 15:18:10,807 INFO  Meta_Master_Code - 91 - Data written successfully.
+2025-06-25 15:18:10,904 INFO  Meta_Master_Code - 92 - Data written successfully.
+2025-06-25 15:18:11,006 INFO  Meta_Master_Code - 93 - Data written successfully.
+2025-06-25 15:18:11,101 INFO  Meta_Master_Code - 94 - Data written successfully.
+2025-06-25 15:18:11,191 INFO  Meta_Master_Code - 95 - Data written successfully.
+2025-06-25 15:18:11,285 INFO  Meta_Master_Code - 96 - Data written successfully.
+2025-06-25 15:18:11,379 INFO  Meta_Master_Code - 97 - Data written successfully.
+2025-06-25 15:18:11,485 INFO  Meta_Master_Code - 98 - Data written successfully.
+2025-06-25 15:18:11,997 INFO  Meta_Master_Code - 99 - Data written successfully.
+2025-06-25 15:18:13,233 INFO  Meta_Master_Code - 100 - Data written successfully.
+2025-06-25 15:18:13,325 INFO  Meta_Master_Code - 101 - Data written successfully.
+2025-06-25 15:18:13,424 INFO  Meta_Master_Code - 102 - Data written successfully.
+2025-06-25 15:18:13,496 WARN  Meta_Master_Code - 103 - Link is disabled
+2025-06-25 15:18:13,568 WARN  Meta_Master_Code - 104 - Link is disabled
+2025-06-25 15:18:13,641 WARN  Meta_Master_Code - 105 - Link is disabled
+2025-06-25 15:18:13,732 INFO  Meta_Master_Code - 106 - Data written successfully.
+2025-06-25 15:18:13,822 INFO  Meta_Master_Code - 107 - Data written successfully.
+2025-06-25 15:18:13,917 INFO  Meta_Master_Code - 108 - Data written successfully.
+2025-06-25 15:18:14,016 INFO  Meta_Master_Code - 109 - Data written successfully.
+2025-06-25 15:18:14,113 INFO  Meta_Master_Code - 110 - Data written successfully.
+2025-06-25 15:18:14,204 INFO  Meta_Master_Code - 111 - Data written successfully.
+2025-06-25 15:18:14,304 INFO  Meta_Master_Code - 112 - Data written successfully.
+2025-06-25 15:18:14,396 INFO  Meta_Master_Code - 113 - Data written successfully.
+2025-06-25 15:18:14,487 INFO  Meta_Master_Code - 114 - Data written successfully.
+2025-06-25 15:18:14,584 INFO  Meta_Master_Code - 115 - Data written successfully.
+2025-06-25 15:18:14,700 INFO  Meta_Master_Code - 116 - Data written successfully.
+2025-06-25 15:18:14,826 INFO  Meta_Master_Code - 117 - Data written successfully.
+2025-06-25 15:18:14,918 INFO  Meta_Master_Code - 118 - Data written successfully.
+2025-06-25 15:18:15,027 INFO  Meta_Master_Code - 119 - Data written successfully.
+2025-06-25 15:18:15,118 INFO  Meta_Master_Code - 120 - Data written successfully.
+2025-06-25 15:18:15,583 INFO  Meta_Master_Code - 121 - Data written successfully.
+2025-06-25 15:18:16,574 WARN  Meta_Master_Code - 122 - Link is disabled
+2025-06-25 15:18:16,816 WARN  Meta_Master_Code - 123 - Link is disabled
+2025-06-25 15:18:16,913 INFO  Meta_Master_Code - 124 - Data written successfully.
+2025-06-25 15:18:17,004 INFO  Meta_Master_Code - 125 - Data written successfully.
+2025-06-25 15:18:17,075 WARN  Meta_Master_Code - 126 - Link is disabled
+2025-06-25 15:18:17,147 WARN  Meta_Master_Code - 127 - Link is disabled
+2025-06-25 15:18:17,239 INFO  Meta_Master_Code - 128 - Data written successfully.
+2025-06-25 15:18:17,327 INFO  Meta_Master_Code - 129 - Data written successfully.
+2025-06-25 15:18:17,422 INFO  Meta_Master_Code - 130 - Data written successfully.
+2025-06-25 15:18:17,512 INFO  Meta_Master_Code - 131 - Data written successfully.
+2025-06-25 15:18:17,608 INFO  Meta_Master_Code - 132 - Data written successfully.
+2025-06-25 15:18:17,708 INFO  Meta_Master_Code - 133 - Data written successfully.
+2025-06-25 15:18:17,798 INFO  Meta_Master_Code - 134 - Data written successfully.
+2025-06-25 15:18:17,890 INFO  Meta_Master_Code - 135 - Data written successfully.
+2025-06-25 15:18:17,981 INFO  Meta_Master_Code - 136 - Data written successfully.
+2025-06-25 15:18:18,076 INFO  Meta_Master_Code - 137 - Data written successfully.
+2025-06-25 15:18:18,173 INFO  Meta_Master_Code - 138 - Data written successfully.
+2025-06-25 15:18:18,263 INFO  Meta_Master_Code - 139 - Data written successfully.
+2025-06-25 15:18:18,353 INFO  Meta_Master_Code - 140 - Data written successfully.
+2025-06-25 15:18:18,443 INFO  Meta_Master_Code - 141 - Data written successfully.
+2025-06-25 15:18:18,551 INFO  Meta_Master_Code - 142 - Data written successfully.
+2025-06-25 15:18:19,061 INFO  Meta_Master_Code - 143 - Data written successfully.
+2025-06-25 15:18:20,272 INFO  Meta_Master_Code - 144 - Data written successfully.
+2025-06-25 15:18:20,363 INFO  Meta_Master_Code - 145 - Data written successfully.
+2025-06-25 15:18:20,463 INFO  Meta_Master_Code - 146 - Data written successfully.
+2025-06-25 15:18:20,554 INFO  Meta_Master_Code - 147 - Data written successfully.
+2025-06-25 15:18:20,646 INFO  Meta_Master_Code - 148 - Data written successfully.
+2025-06-25 15:18:20,747 INFO  Meta_Master_Code - 149 - Data written successfully.
+2025-06-25 15:18:20,836 INFO  Meta_Master_Code - 150 - Data written successfully.
+2025-06-25 15:18:20,922 WARN  Meta_Master_Code - 151 - Link is disabled
+2025-06-25 15:18:20,998 WARN  Meta_Master_Code - 152 - Link is disabled
+2025-06-25 15:18:21,091 INFO  Meta_Master_Code - 153 - Data written successfully.
+2025-06-25 15:18:21,164 WARN  Meta_Master_Code - 154 - Link is disabled
+2025-06-25 15:18:21,237 WARN  Meta_Master_Code - 155 - Link is disabled
+2025-06-25 15:18:21,329 INFO  Meta_Master_Code - 156 - Data written successfully.
+2025-06-25 15:18:21,428 INFO  Meta_Master_Code - 157 - Data written successfully.
+2025-06-25 15:18:21,525 INFO  Meta_Master_Code - 158 - Data written successfully.
+2025-06-25 15:18:21,621 INFO  Meta_Master_Code - 159 - Data written successfully.
+2025-06-25 15:18:21,735 INFO  Meta_Master_Code - 160 - Data written successfully.
+2025-06-25 15:18:21,811 WARN  Meta_Master_Code - 161 - Link is disabled
+2025-06-25 15:18:21,904 INFO  Meta_Master_Code - 162 - Data written successfully.
+2025-06-25 15:18:21,998 INFO  Meta_Master_Code - 163 - Data written successfully.
+2025-06-25 15:18:22,069 WARN  Meta_Master_Code - 164 - Link is disabled
+2025-06-25 15:18:22,251 WARN  Meta_Master_Code - 165 - Link is disabled
+2025-06-25 15:18:23,695 INFO  Meta_Master_Code - 166 - Data written successfully.
+2025-06-25 15:18:23,788 INFO  Meta_Master_Code - 167 - Data written successfully.
+2025-06-25 15:18:23,886 INFO  Meta_Master_Code - 168 - Data written successfully.
+2025-06-25 15:18:23,992 INFO  Meta_Master_Code - 169 - Data written successfully.
+2025-06-25 15:18:24,084 INFO  Meta_Master_Code - 170 - Data written successfully.
+2025-06-25 15:18:24,173 INFO  Meta_Master_Code - 171 - Data written successfully.
+2025-06-25 15:18:24,261 INFO  Meta_Master_Code - 172 - Data written successfully.
+2025-06-25 15:18:24,355 INFO  Meta_Master_Code - 173 - Data written successfully.
+2025-06-25 15:18:24,447 INFO  Meta_Master_Code - 174 - Data written successfully.
+2025-06-25 15:18:24,546 INFO  Meta_Master_Code - 175 - Data written successfully.
+2025-06-25 15:18:24,641 INFO  Meta_Master_Code - 176 - Data written successfully.
+2025-06-25 15:18:24,732 INFO  Meta_Master_Code - 177 - Data written successfully.
+2025-06-25 15:18:24,824 INFO  Meta_Master_Code - 178 - Data written successfully.
+2025-06-25 15:18:24,918 INFO  Meta_Master_Code - 179 - Data written successfully.
+2025-06-25 15:18:25,008 WARN  Meta_Master_Code - 180 - Link is disabled
+2025-06-25 15:18:25,080 WARN  Meta_Master_Code - 181 - Link is disabled
+2025-06-25 15:18:25,170 INFO  Meta_Master_Code - 182 - Data written successfully.
+2025-06-25 15:18:25,284 INFO  Meta_Master_Code - 183 - Data written successfully.
+2025-06-25 15:18:25,378 INFO  Meta_Master_Code - 184 - Data written successfully.
+2025-06-25 15:18:25,450 WARN  Meta_Master_Code - 185 - Link is disabled
+2025-06-25 15:18:25,543 INFO  Meta_Master_Code - 186 - Data written successfully.
+2025-06-25 15:18:25,943 INFO  Meta_Master_Code - 187 - Data written successfully.
+2025-06-25 15:18:27,376 INFO  Meta_Master_Code - 188 - Data written successfully.
+2025-06-25 15:18:27,452 WARN  Meta_Master_Code - 189 - Link is disabled
+2025-06-25 15:18:27,525 WARN  Meta_Master_Code - 190 - Link is disabled
+2025-06-25 15:18:27,621 INFO  Meta_Master_Code - 191 - Data written successfully.
+2025-06-25 15:18:27,714 INFO  Meta_Master_Code - 192 - Data written successfully.
+2025-06-25 15:18:27,806 INFO  Meta_Master_Code - 193 - Data written successfully.
+2025-06-25 15:18:27,898 INFO  Meta_Master_Code - 194 - Data written successfully.
+2025-06-25 15:18:28,011 INFO  Meta_Master_Code - 195 - Data written successfully.
+2025-06-25 15:18:28,099 INFO  Meta_Master_Code - 196 - Data written successfully.
+2025-06-25 15:18:28,189 INFO  Meta_Master_Code - 197 - Data written successfully.
+2025-06-25 15:18:28,279 INFO  Meta_Master_Code - 198 - Data written successfully.
+2025-06-25 15:18:28,375 INFO  Meta_Master_Code - 199 - Data written successfully.
+2025-06-25 15:18:28,465 INFO  Meta_Master_Code - 200 - Data written successfully.
+2025-06-25 15:18:28,556 INFO  Meta_Master_Code - 201 - Data written successfully.
+2025-06-25 15:18:28,631 WARN  Meta_Master_Code - 202 - Link is disabled
+2025-06-25 15:18:28,721 INFO  Meta_Master_Code - 203 - Data written successfully.
+2025-06-25 15:18:28,812 INFO  Meta_Master_Code - 204 - Data written successfully.
+2025-06-25 15:18:28,902 INFO  Meta_Master_Code - 205 - Data written successfully.
+2025-06-25 15:18:29,006 INFO  Meta_Master_Code - 206 - Data written successfully.
+2025-06-25 15:18:29,103 INFO  Meta_Master_Code - 207 - Data written successfully.
+2025-06-25 15:18:29,191 INFO  Meta_Master_Code - 208 - Data written successfully.
+2025-06-25 15:18:29,744 INFO  Meta_Master_Code - 209 - Data written successfully.
+2025-06-25 15:18:30,943 INFO  Meta_Master_Code - 210 - Data written successfully.
+2025-06-25 15:18:31,034 INFO  Meta_Master_Code - 211 - Data written successfully.
+2025-06-25 15:18:31,130 INFO  Meta_Master_Code - 212 - Data written successfully.
+2025-06-25 15:18:31,239 INFO  Meta_Master_Code - 213 - Data written successfully.
+2025-06-25 15:18:31,333 INFO  Meta_Master_Code - 214 - Data written successfully.
+2025-06-25 15:18:31,422 INFO  Meta_Master_Code - 215 - Data written successfully.
+2025-06-25 15:18:31,514 INFO  Meta_Master_Code - 216 - Data written successfully.
+2025-06-25 15:18:31,607 INFO  Meta_Master_Code - 217 - Data written successfully.
+2025-06-25 15:18:31,699 INFO  Meta_Master_Code - 218 - Data written successfully.
+2025-06-25 15:18:31,788 INFO  Meta_Master_Code - 219 - Data written successfully.
+2025-06-25 15:18:31,890 INFO  Meta_Master_Code - 220 - Data written successfully.
+2025-06-25 15:18:31,981 INFO  Meta_Master_Code - 221 - Data written successfully.
+2025-06-25 15:18:32,071 INFO  Meta_Master_Code - 222 - Data written successfully.
+2025-06-25 15:18:32,165 INFO  Meta_Master_Code - 223 - Data written successfully.
+2025-06-25 15:18:32,253 INFO  Meta_Master_Code - 224 - Data written successfully.
+2025-06-25 15:18:32,345 INFO  Meta_Master_Code - 225 - Data written successfully.
+2025-06-25 15:18:32,441 INFO  Meta_Master_Code - 226 - Data written successfully.
+2025-06-25 15:18:32,533 INFO  Meta_Master_Code - 227 - Data written successfully.
+2025-06-25 15:18:32,627 INFO  Meta_Master_Code - 228 - Data written successfully.
+2025-06-25 15:18:32,717 INFO  Meta_Master_Code - 229 - Data written successfully.
+2025-06-25 15:18:32,807 INFO  Meta_Master_Code - 230 - Data written successfully.
+2025-06-25 15:18:33,285 INFO  Meta_Master_Code - 231 - Data written successfully.
+2025-06-25 15:18:34,463 INFO  Meta_Master_Code - 232 - Data written successfully.
+2025-06-25 15:18:34,474 INFO  Meta_Master_Code - Excel file has sheets, not deleted.
+2025-06-25 15:18:34,490 INFO  Meta_Master_Code - 2025.06.25.14.58.54-India- New sheet - Excel file created successfully!
+2025-06-25 15:18:36,921 INFO  Meta_Master_Code - 0-The downloads Count is -50000
+2025-06-25 15:18:36,937 INFO  Meta_Master_Code - 0No Rating is Given
+2025-06-25 15:18:36,972 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.trackmyphone.find.myphone.phonelocator.antitheft
+2025-06-25 15:18:37,021 INFO  Meta_Master_Code - Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.trackmyphone.find.myphone.phonelocator.antitheft
+2025-06-25 15:18:37,044 INFO  Meta_Master_Code - Data written at row index: 0
+2025-06-25 15:18:37,070 INFO  Meta_Master_Code - 0 - link in written
+2025-06-25 15:18:38,656 INFO  Meta_Master_Code - 1-The downloads Count is -50000
+2025-06-25 15:18:38,676 INFO  Meta_Master_Code - 1No Rating is Given
+2025-06-25 15:18:38,693 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.trackmyphone.find.myphone.phonelocator.antitheft
+2025-06-25 15:18:38,719 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:18:38,748 INFO  Meta_Master_Code - 1 - link in written
+2025-06-25 15:18:39,288 INFO  Meta_Master_Code - 2 - The link is App store or other site
+2025-06-25 15:18:39,867 INFO  Meta_Master_Code - 3 - The link is App store or other site
+2025-06-25 15:18:40,411 INFO  Meta_Master_Code - 4 - The link is App store or other site
+2025-06-25 15:18:40,981 INFO  Meta_Master_Code - 5 - The link is App store or other site
+2025-06-25 15:18:42,228 INFO  Meta_Master_Code - 6-The downloads Count is -50
+2025-06-25 15:18:42,245 INFO  Meta_Master_Code - 6No Rating is Given
+2025-06-25 15:18:42,304 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.earthvibe.wall
+2025-06-25 15:18:42,325 INFO  Meta_Master_Code - Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.earthvibe.wall
+2025-06-25 15:18:42,365 INFO  Meta_Master_Code - Data written at row index: 1
+2025-06-25 15:18:42,390 INFO  Meta_Master_Code - 6 - link in written
+2025-06-25 15:18:48,890 INFO  Meta_Master_Code - 7-The downloads Count is -500000
+2025-06-25 15:18:48,907 INFO  Meta_Master_Code - Parsed rating: 4.3
+2025-06-25 15:18:48,927 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.eventbeep.android
+2025-06-25 15:18:48,949 INFO  Meta_Master_Code - Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.eventbeep.android
+2025-06-25 15:18:48,968 INFO  Meta_Master_Code - Data written at row index: 2
+2025-06-25 15:18:48,982 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:18:48,982 INFO  Meta_Master_Code - 7 - link in written
+2025-06-25 15:18:50,430 INFO  Meta_Master_Code - 8-The downloads Count is -500000
+2025-06-25 15:18:50,455 INFO  Meta_Master_Code - Parsed rating: 4.3
+2025-06-25 15:18:50,470 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.eventbeep.android
+2025-06-25 15:18:50,487 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:18:50,507 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:18:50,507 INFO  Meta_Master_Code - 8 - link in written
+2025-06-25 15:18:53,142 INFO  Meta_Master_Code - 9 - The link is App store or other site
+2025-06-25 15:18:54,716 INFO  Meta_Master_Code - 10 - The link is App store or other site
+2025-06-25 15:18:56,280 INFO  Meta_Master_Code - 11-The downloads Count is -5000000
+2025-06-25 15:18:56,280 INFO  Meta_Master_Code - 11 - The Downloads is more than 1M
+2025-06-25 15:18:57,620 INFO  Meta_Master_Code - 12-The downloads Count is -5000000
+2025-06-25 15:18:57,620 INFO  Meta_Master_Code - 12 - The Downloads is more than 1M
+2025-06-25 15:19:00,508 INFO  Meta_Master_Code - 13 - The link is App store or other site
+2025-06-25 15:19:01,925 INFO  Meta_Master_Code - 14-The downloads Count is -5000000
+2025-06-25 15:19:01,925 INFO  Meta_Master_Code - 14 - The Downloads is more than 1M
+2025-06-25 15:19:03,245 INFO  Meta_Master_Code - 15-The downloads Count is -5000000
+2025-06-25 15:19:03,245 INFO  Meta_Master_Code - 15 - The Downloads is more than 1M
+2025-06-25 15:19:04,593 INFO  Meta_Master_Code - 16-The downloads Count is -5000000
+2025-06-25 15:19:04,593 INFO  Meta_Master_Code - 16 - The Downloads is more than 1M
+2025-06-25 15:19:07,127 INFO  Meta_Master_Code - 17 - The link is App store or other site
+2025-06-25 15:19:08,659 INFO  Meta_Master_Code - 18 - The link is App store or other site
+2025-06-25 15:19:10,001 INFO  Meta_Master_Code - 19-The downloads Count is -500000
+2025-06-25 15:19:10,027 INFO  Meta_Master_Code - Parsed rating: 4.4
+2025-06-25 15:19:10,054 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=antitheftalarm.donttouchmyphone.antipro
+2025-06-25 15:19:10,087 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:19:10,100 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:19:10,100 INFO  Meta_Master_Code - 19 - link in written
+2025-06-25 15:19:11,463 INFO  Meta_Master_Code - 20-The downloads Count is -500000
+2025-06-25 15:19:11,492 INFO  Meta_Master_Code - Parsed rating: 4.4
+2025-06-25 15:19:11,505 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=antitheftalarm.donttouchmyphone.antipro
+2025-06-25 15:19:11,535 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:19:11,548 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:19:11,548 INFO  Meta_Master_Code - 20 - link in written
+2025-06-25 15:19:12,773 INFO  Meta_Master_Code - 21-The downloads Count is -500000
+2025-06-25 15:19:12,799 INFO  Meta_Master_Code - Parsed rating: 4.4
+2025-06-25 15:19:12,816 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=antitheftalarm.donttouchmyphone.antipro
+2025-06-25 15:19:12,836 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:19:12,853 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:19:12,853 INFO  Meta_Master_Code - 21 - link in written
+2025-06-25 15:19:14,231 INFO  Meta_Master_Code - 22-The downloads Count is -500000
+2025-06-25 15:19:14,256 INFO  Meta_Master_Code - Parsed rating: 4.4
+2025-06-25 15:19:14,270 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=antitheftalarm.donttouchmyphone.antipro
+2025-06-25 15:19:14,285 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:19:14,302 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:19:14,308 INFO  Meta_Master_Code - 22 - link in written
+2025-06-25 15:19:15,582 INFO  Meta_Master_Code - 23-The downloads Count is -500000
+2025-06-25 15:19:15,608 INFO  Meta_Master_Code - Parsed rating: 4.4
+2025-06-25 15:19:15,622 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=antitheftalarm.donttouchmyphone.antipro
+2025-06-25 15:19:15,644 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:19:15,667 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:19:15,667 INFO  Meta_Master_Code - 23 - link in written
+2025-06-25 15:19:16,932 INFO  Meta_Master_Code - 24-The downloads Count is -500000
+2025-06-25 15:19:16,972 INFO  Meta_Master_Code - Parsed rating: 4.4
+2025-06-25 15:19:16,985 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=antitheftalarm.donttouchmyphone.antipro
+2025-06-25 15:19:17,008 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:19:17,024 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:19:17,026 INFO  Meta_Master_Code - 24 - link in written
+2025-06-25 15:19:18,504 INFO  Meta_Master_Code - 25-The downloads Count is -500000
+2025-06-25 15:19:18,529 INFO  Meta_Master_Code - Parsed rating: 4.4
+2025-06-25 15:19:18,539 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=antitheftalarm.donttouchmyphone.antipro
+2025-06-25 15:19:18,553 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:19:18,567 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:19:18,567 INFO  Meta_Master_Code - 25 - link in written
+2025-06-25 15:19:19,936 INFO  Meta_Master_Code - 26-The downloads Count is -500000
+2025-06-25 15:19:19,964 INFO  Meta_Master_Code - Parsed rating: 4.4
+2025-06-25 15:19:19,976 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=antitheftalarm.donttouchmyphone.antipro
+2025-06-25 15:19:19,993 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:19:20,015 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:19:20,015 INFO  Meta_Master_Code - 26 - link in written
+2025-06-25 15:19:21,325 INFO  Meta_Master_Code - 27-The downloads Count is -500000
+2025-06-25 15:19:21,349 INFO  Meta_Master_Code - Parsed rating: 4.4
+2025-06-25 15:19:21,361 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=antitheftalarm.donttouchmyphone.antipro
+2025-06-25 15:19:21,379 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:19:21,401 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:19:21,402 INFO  Meta_Master_Code - 27 - link in written
+2025-06-25 15:19:23,759 INFO  Meta_Master_Code - 28 - The link is App store or other site
+2025-06-25 15:19:25,301 INFO  Meta_Master_Code - 29 - The link is App store or other site
+2025-06-25 15:19:26,767 INFO  Meta_Master_Code - 30 - The link is App store or other site
+2025-06-25 15:19:28,138 INFO  Meta_Master_Code - 31-The downloads Count is -500000
+2025-06-25 15:19:28,166 INFO  Meta_Master_Code - Parsed rating: 4.4
+2025-06-25 15:19:28,181 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=antitheftalarm.donttouchmyphone.antipro
+2025-06-25 15:19:28,197 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:19:28,215 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:19:28,215 INFO  Meta_Master_Code - 31 - link in written
+2025-06-25 15:19:29,604 INFO  Meta_Master_Code - 32-The downloads Count is -1000000
+2025-06-25 15:19:29,604 INFO  Meta_Master_Code - 32 - The Downloads is more than 1M
+2025-06-25 15:19:30,948 INFO  Meta_Master_Code - 33-The downloads Count is -500000
+2025-06-25 15:19:30,978 INFO  Meta_Master_Code - Parsed rating: 2.9
+2025-06-25 15:19:31,001 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.bh.ai.art.generator.photoeditor
+2025-06-25 15:19:31,016 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:19:31,033 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:19:31,033 INFO  Meta_Master_Code - 33 - link in written
+2025-06-25 15:19:32,371 INFO  Meta_Master_Code - 34-The downloads Count is -1000000
+2025-06-25 15:19:32,371 INFO  Meta_Master_Code - 34 - The Downloads is more than 1M
+2025-06-25 15:19:33,604 INFO  Meta_Master_Code - 35-The downloads Count is -1000000
+2025-06-25 15:19:33,604 INFO  Meta_Master_Code - 35 - The Downloads is more than 1M
+2025-06-25 15:19:34,888 INFO  Meta_Master_Code - 36-The downloads Count is -10000
+2025-06-25 15:19:34,914 INFO  Meta_Master_Code - Parsed rating: 2.4
+2025-06-25 15:19:34,942 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.idramas.tv
+2025-06-25 15:19:34,963 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:19:34,976 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:19:34,976 INFO  Meta_Master_Code - 36 - link in written
+2025-06-25 15:19:36,271 INFO  Meta_Master_Code - 37-The downloads Count is -1000000
+2025-06-25 15:19:36,271 INFO  Meta_Master_Code - 37 - The Downloads is more than 1M
+2025-06-25 15:19:37,611 INFO  Meta_Master_Code - 38-The downloads Count is -1000000
+2025-06-25 15:19:37,611 INFO  Meta_Master_Code - 38 - The Downloads is more than 1M
+2025-06-25 15:19:39,031 INFO  Meta_Master_Code - 39-The downloads Count is -1000000
+2025-06-25 15:19:39,031 INFO  Meta_Master_Code - 39 - The Downloads is more than 1M
+2025-06-25 15:19:40,291 INFO  Meta_Master_Code - 40-The downloads Count is -1000000
+2025-06-25 15:19:40,291 INFO  Meta_Master_Code - 40 - The Downloads is more than 1M
+2025-06-25 15:19:41,613 INFO  Meta_Master_Code - 41-The downloads Count is -1000000
+2025-06-25 15:19:41,613 INFO  Meta_Master_Code - 41 - The Downloads is more than 1M
+2025-06-25 15:19:42,913 INFO  Meta_Master_Code - 42-The downloads Count is -50000000
+2025-06-25 15:19:42,913 INFO  Meta_Master_Code - 42 - The Downloads is more than 1M
+2025-06-25 15:19:45,179 INFO  Meta_Master_Code - 43 - The link is App store or other site
+2025-06-25 15:19:46,889 INFO  Meta_Master_Code - 44 - The link is App store or other site
+2025-06-25 15:19:48,408 INFO  Meta_Master_Code - 45 - The link is App store or other site
+2025-06-25 15:19:49,966 INFO  Meta_Master_Code - 46 - The link is App store or other site
+2025-06-25 15:19:51,567 INFO  Meta_Master_Code - 47 - The link is App store or other site
+2025-06-25 15:19:53,160 INFO  Meta_Master_Code - 48 - The link is App store or other site
+2025-06-25 15:19:54,795 INFO  Meta_Master_Code - 49 - The link is App store or other site
+2025-06-25 15:19:56,408 INFO  Meta_Master_Code - 50 - The link is App store or other site
+2025-06-25 15:19:57,780 INFO  Meta_Master_Code - 51-The downloads Count is -100000
+2025-06-25 15:19:57,803 INFO  Meta_Master_Code - Parsed rating: 3.9
+2025-06-25 15:19:57,834 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=dailybend.bend.stretch.flexibility.fitness.exercise.back
+2025-06-25 15:19:57,852 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:19:57,868 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:19:57,868 INFO  Meta_Master_Code - 51 - link in written
+2025-06-25 15:19:59,204 INFO  Meta_Master_Code - 52-The downloads Count is -1000000
+2025-06-25 15:19:59,204 INFO  Meta_Master_Code - 52 - The Downloads is more than 1M
+2025-06-25 15:20:00,494 INFO  Meta_Master_Code - 53-The downloads Count is -1000000
+2025-06-25 15:20:00,494 INFO  Meta_Master_Code - 53 - The Downloads is more than 1M
+2025-06-25 15:20:01,932 INFO  Meta_Master_Code - 54-The downloads Count is -5000
+2025-06-25 15:20:01,948 INFO  Meta_Master_Code - 54No Rating is Given
+2025-06-25 15:20:01,970 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.wowchat.wallet
+2025-06-25 15:20:02,004 INFO  Meta_Master_Code - Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.wowchat.wallet
+2025-06-25 15:20:02,023 INFO  Meta_Master_Code - Data written at row index: 3
+2025-06-25 15:20:02,037 INFO  Meta_Master_Code - 54 - link in written
+2025-06-25 15:20:03,382 INFO  Meta_Master_Code - 55-The downloads Count is -100000
+2025-06-25 15:20:03,409 INFO  Meta_Master_Code - Parsed rating: 3.6
+2025-06-25 15:20:03,435 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=photo.video.maker.editor
+2025-06-25 15:20:03,454 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:20:03,467 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:20:03,467 INFO  Meta_Master_Code - 55 - link in written
+2025-06-25 15:20:04,739 INFO  Meta_Master_Code - 56-The downloads Count is -100000
+2025-06-25 15:20:04,765 INFO  Meta_Master_Code - Parsed rating: 3.6
+2025-06-25 15:20:04,777 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=photo.video.maker.editor
+2025-06-25 15:20:04,794 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:20:04,814 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:20:04,814 INFO  Meta_Master_Code - 56 - link in written
+2025-06-25 15:20:06,082 INFO  Meta_Master_Code - 57-The downloads Count is -100000
+2025-06-25 15:20:06,107 INFO  Meta_Master_Code - Parsed rating: 4.2
+2025-06-25 15:20:06,133 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.smartearn.gpstracker
+2025-06-25 15:20:06,151 INFO  Meta_Master_Code - Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.smartearn.gpstracker
+2025-06-25 15:20:06,172 INFO  Meta_Master_Code - Data written at row index: 4
+2025-06-25 15:20:06,184 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:20:06,184 INFO  Meta_Master_Code - 57 - link in written
+2025-06-25 15:20:08,265 INFO  Meta_Master_Code - 58 - The link is App store or other site
+2025-06-25 15:20:09,723 INFO  Meta_Master_Code - 59-The downloads Count is -500000
+2025-06-25 15:20:09,746 INFO  Meta_Master_Code - Parsed rating: 4.3
+2025-06-25 15:20:09,769 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=xyz.multipl.multipl
+2025-06-25 15:20:09,785 INFO  Meta_Master_Code - Data Written in Mastersheet - https://play.google.com/store/apps/details?id=xyz.multipl.multipl
+2025-06-25 15:20:09,804 INFO  Meta_Master_Code - Data written at row index: 5
+2025-06-25 15:20:09,815 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:20:09,815 INFO  Meta_Master_Code - 59 - link in written
+2025-06-25 15:20:11,242 INFO  Meta_Master_Code - 60-The downloads Count is -10000
+2025-06-25 15:20:11,257 INFO  Meta_Master_Code - 60No Rating is Given
+2025-06-25 15:20:11,284 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=pl.idreams.SkyForceReloaded
+2025-06-25 15:20:11,307 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:20:11,320 INFO  Meta_Master_Code - 60 - link in written
+2025-06-25 15:20:12,513 INFO  Meta_Master_Code - 61-The downloads Count is -10000
+2025-06-25 15:20:12,533 INFO  Meta_Master_Code - 61No Rating is Given
+2025-06-25 15:20:12,550 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=pl.idreams.SkyForceReloaded
+2025-06-25 15:20:12,571 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:20:12,584 INFO  Meta_Master_Code - 61 - link in written
+2025-06-25 15:20:13,883 INFO  Meta_Master_Code - 62 - The link is App store or other site
+2025-06-25 15:20:14,911 INFO  Meta_Master_Code - 63 - The link is App store or other site
+2025-06-25 15:20:16,366 INFO  Meta_Master_Code - 64-The downloads Count is -100000000
+2025-06-25 15:20:16,366 INFO  Meta_Master_Code - 64 - The Downloads is more than 1M
+2025-06-25 15:20:18,080 INFO  Meta_Master_Code - 65-The downloads Count is -100000000
+2025-06-25 15:20:18,080 INFO  Meta_Master_Code - 65 - The Downloads is more than 1M
+2025-06-25 15:20:19,503 INFO  Meta_Master_Code - 66-The downloads Count is -500000
+2025-06-25 15:20:19,531 INFO  Meta_Master_Code - Parsed rating: 3.5
+2025-06-25 15:20:19,554 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.fakecall.prankcall.videocall.voicechat
+2025-06-25 15:20:19,576 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:20:19,592 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:20:19,592 INFO  Meta_Master_Code - 66 - link in written
+2025-06-25 15:20:21,187 INFO  Meta_Master_Code - 67-The downloads Count is -500000
+2025-06-25 15:20:21,214 INFO  Meta_Master_Code - Parsed rating: 3.5
+2025-06-25 15:20:21,227 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.fakecall.prankcall.videocall.voicechat
+2025-06-25 15:20:21,245 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:20:21,261 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:20:21,263 INFO  Meta_Master_Code - 67 - link in written
+2025-06-25 15:20:22,504 INFO  Meta_Master_Code - 68-The downloads Count is -500000
+2025-06-25 15:20:22,527 INFO  Meta_Master_Code - Parsed rating: 3.5
+2025-06-25 15:20:22,546 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.fakecall.prankcall.videocall.voicechat
+2025-06-25 15:20:22,562 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:20:22,578 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:20:22,578 INFO  Meta_Master_Code - 68 - link in written
+2025-06-25 15:20:23,873 INFO  Meta_Master_Code - 69-The downloads Count is -500000
+2025-06-25 15:20:23,899 INFO  Meta_Master_Code - Parsed rating: 3.5
+2025-06-25 15:20:23,914 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.fakecall.prankcall.videocall.voicechat
+2025-06-25 15:20:23,933 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:20:23,966 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:20:23,966 INFO  Meta_Master_Code - 69 - link in written
+2025-06-25 15:20:25,351 INFO  Meta_Master_Code - 70-The downloads Count is -500000
+2025-06-25 15:20:25,383 INFO  Meta_Master_Code - Parsed rating: 3.5
+2025-06-25 15:20:25,396 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.fakecall.prankcall.videocall.voicechat
+2025-06-25 15:20:25,410 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:20:25,433 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:20:25,433 INFO  Meta_Master_Code - 70 - link in written
+2025-06-25 15:20:26,901 INFO  Meta_Master_Code - 71-The downloads Count is -500000
+2025-06-25 15:20:26,927 INFO  Meta_Master_Code - Parsed rating: 3.5
+2025-06-25 15:20:26,941 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.fakecall.prankcall.videocall.voicechat
+2025-06-25 15:20:26,958 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:20:26,971 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:20:26,971 INFO  Meta_Master_Code - 71 - link in written
+2025-06-25 15:20:28,397 INFO  Meta_Master_Code - 72-The downloads Count is -10000000
+2025-06-25 15:20:28,397 INFO  Meta_Master_Code - 72 - The Downloads is more than 1M
+2025-06-25 15:20:29,678 INFO  Meta_Master_Code - 73-The downloads Count is -100000000
+2025-06-25 15:20:29,679 INFO  Meta_Master_Code - 73 - The Downloads is more than 1M
+2025-06-25 15:20:30,989 INFO  Meta_Master_Code - 74-The downloads Count is -10000000
+2025-06-25 15:20:30,989 INFO  Meta_Master_Code - 74 - The Downloads is more than 1M
+2025-06-25 15:20:32,259 INFO  Meta_Master_Code - 75-The downloads Count is -10000000
+2025-06-25 15:20:32,259 INFO  Meta_Master_Code - 75 - The Downloads is more than 1M
+2025-06-25 15:20:33,584 INFO  Meta_Master_Code - 76-The downloads Count is -100000
+2025-06-25 15:20:33,610 INFO  Meta_Master_Code - Parsed rating: 3.3
+2025-06-25 15:20:33,636 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.aamdhane.app
+2025-06-25 15:20:33,663 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:20:33,674 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:20:33,674 INFO  Meta_Master_Code - 76 - link in written
+2025-06-25 15:20:34,989 INFO  Meta_Master_Code - 77-The downloads Count is -100000
+2025-06-25 15:20:35,014 INFO  Meta_Master_Code - Parsed rating: 3.3
+2025-06-25 15:20:35,033 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.aamdhane.app
+2025-06-25 15:20:35,050 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:20:35,077 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:20:35,077 INFO  Meta_Master_Code - 77 - link in written
+2025-06-25 15:20:36,482 INFO  Meta_Master_Code - 78-The downloads Count is -100000
+2025-06-25 15:20:36,509 INFO  Meta_Master_Code - Parsed rating: 3.3
+2025-06-25 15:20:36,521 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.aamdhane.app
+2025-06-25 15:20:36,536 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:20:36,559 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:20:36,559 INFO  Meta_Master_Code - 78 - link in written
+2025-06-25 15:20:37,905 INFO  Meta_Master_Code - 79-The downloads Count is -100000
+2025-06-25 15:20:37,930 INFO  Meta_Master_Code - Parsed rating: 3.3
+2025-06-25 15:20:37,945 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.aamdhane.app
+2025-06-25 15:20:37,960 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:20:37,983 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:20:37,983 INFO  Meta_Master_Code - 79 - link in written
+2025-06-25 15:20:39,253 INFO  Meta_Master_Code - 80-The downloads Count is -100000
+2025-06-25 15:20:39,278 INFO  Meta_Master_Code - Parsed rating: 3.3
+2025-06-25 15:20:39,292 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.aamdhane.app
+2025-06-25 15:20:39,307 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:20:39,340 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:20:39,342 INFO  Meta_Master_Code - 80 - link in written
+2025-06-25 15:20:40,626 INFO  Meta_Master_Code - 81-The downloads Count is -10000000
+2025-06-25 15:20:40,626 INFO  Meta_Master_Code - 81 - The Downloads is more than 1M
+2025-06-25 15:20:42,143 INFO  Meta_Master_Code - 82-The downloads Count is -10000000
+2025-06-25 15:20:42,143 INFO  Meta_Master_Code - 82 - The Downloads is more than 1M
+2025-06-25 15:20:43,838 INFO  Meta_Master_Code - 83-The downloads Count is -10000000
+2025-06-25 15:20:43,838 INFO  Meta_Master_Code - 83 - The Downloads is more than 1M
+2025-06-25 15:20:45,657 INFO  Meta_Master_Code - 84-The downloads Count is -10000000
+2025-06-25 15:20:45,657 INFO  Meta_Master_Code - 84 - The Downloads is more than 1M
+2025-06-25 15:20:47,193 INFO  Meta_Master_Code - 85-The downloads Count is -10000000
+2025-06-25 15:20:47,193 INFO  Meta_Master_Code - 85 - The Downloads is more than 1M
+2025-06-25 15:20:48,549 INFO  Meta_Master_Code - 86-The downloads Count is -10000000
+2025-06-25 15:20:48,549 INFO  Meta_Master_Code - 86 - The Downloads is more than 1M
+2025-06-25 15:20:50,721 INFO  Meta_Master_Code - 87-The downloads Count is -10000000
+2025-06-25 15:20:50,721 INFO  Meta_Master_Code - 87 - The Downloads is more than 1M
+2025-06-25 15:20:53,187 INFO  Meta_Master_Code - 88-The downloads Count is -10000000
+2025-06-25 15:20:53,187 INFO  Meta_Master_Code - 88 - The Downloads is more than 1M
+2025-06-25 15:20:54,921 INFO  Meta_Master_Code - 89-The downloads Count is -10000000
+2025-06-25 15:20:54,921 INFO  Meta_Master_Code - 89 - The Downloads is more than 1M
+2025-06-25 15:20:56,410 INFO  Meta_Master_Code - 90-The downloads Count is -10000000
+2025-06-25 15:20:56,410 INFO  Meta_Master_Code - 90 - The Downloads is more than 1M
+2025-06-25 15:20:57,933 INFO  Meta_Master_Code - 91-The downloads Count is -10000000
+2025-06-25 15:20:57,933 INFO  Meta_Master_Code - 91 - The Downloads is more than 1M
+2025-06-25 15:20:59,410 INFO  Meta_Master_Code - 92-The downloads Count is -10000000
+2025-06-25 15:20:59,410 INFO  Meta_Master_Code - 92 - The Downloads is more than 1M
+2025-06-25 15:21:01,294 INFO  Meta_Master_Code - 93-The downloads Count is -10000000
+2025-06-25 15:21:01,295 INFO  Meta_Master_Code - 93 - The Downloads is more than 1M
+2025-06-25 15:21:03,262 INFO  Meta_Master_Code - 94-The downloads Count is -10000000
+2025-06-25 15:21:03,263 INFO  Meta_Master_Code - 94 - The Downloads is more than 1M
+2025-06-25 15:21:04,767 INFO  Meta_Master_Code - 95-The downloads Count is -10000000
+2025-06-25 15:21:04,767 INFO  Meta_Master_Code - 95 - The Downloads is more than 1M
+2025-06-25 15:21:06,274 INFO  Meta_Master_Code - 96-The downloads Count is -10000000
+2025-06-25 15:21:06,274 INFO  Meta_Master_Code - 96 - The Downloads is more than 1M
+2025-06-25 15:21:07,789 INFO  Meta_Master_Code - 97-The downloads Count is -50000000
+2025-06-25 15:21:07,790 INFO  Meta_Master_Code - 97 - The Downloads is more than 1M
+2025-06-25 15:21:09,033 INFO  Meta_Master_Code - 98-The downloads Count is -100
+2025-06-25 15:21:09,054 INFO  Meta_Master_Code - 98No Rating is Given
+2025-06-25 15:21:09,076 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.live.map.earth.app
+2025-06-25 15:21:09,091 INFO  Meta_Master_Code - Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.live.map.earth.app
+2025-06-25 15:21:09,119 INFO  Meta_Master_Code - Data written at row index: 6
+2025-06-25 15:21:09,132 INFO  Meta_Master_Code - 98 - link in written
+2025-06-25 15:21:10,528 INFO  Meta_Master_Code - 99-The downloads Count is -1000
+2025-06-25 15:21:10,545 INFO  Meta_Master_Code - 99No Rating is Given
+2025-06-25 15:21:10,569 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.upticker.app.v2
+2025-06-25 15:21:10,583 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:21:10,597 INFO  Meta_Master_Code - 99 - link in written
+2025-06-25 15:21:11,942 INFO  Meta_Master_Code - 100-The downloads Count is -50000000
+2025-06-25 15:21:11,942 INFO  Meta_Master_Code - 100 - The Downloads is more than 1M
+2025-06-25 15:21:13,303 INFO  Meta_Master_Code - 101-The downloads Count is -10000000
+2025-06-25 15:21:13,303 INFO  Meta_Master_Code - 101 - The Downloads is more than 1M
+2025-06-25 15:21:14,593 INFO  Meta_Master_Code - 102-The downloads Count is -10000000
+2025-06-25 15:21:14,593 INFO  Meta_Master_Code - 102 - The Downloads is more than 1M
+2025-06-25 15:21:15,967 INFO  Meta_Master_Code - 103-The downloads Count is -10000000
+2025-06-25 15:21:15,967 INFO  Meta_Master_Code - 103 - The Downloads is more than 1M
+2025-06-25 15:21:17,513 INFO  Meta_Master_Code - 104-The downloads Count is -10000000
+2025-06-25 15:21:17,513 INFO  Meta_Master_Code - 104 - The Downloads is more than 1M
+2025-06-25 15:21:18,868 INFO  Meta_Master_Code - 105-The downloads Count is -10000000
+2025-06-25 15:21:18,868 INFO  Meta_Master_Code - 105 - The Downloads is more than 1M
+2025-06-25 15:21:20,388 INFO  Meta_Master_Code - 106-The downloads Count is -10000000
+2025-06-25 15:21:20,388 INFO  Meta_Master_Code - 106 - The Downloads is more than 1M
+2025-06-25 15:21:21,667 INFO  Meta_Master_Code - 107-The downloads Count is -10000000
+2025-06-25 15:21:21,667 INFO  Meta_Master_Code - 107 - The Downloads is more than 1M
+2025-06-25 15:21:22,978 INFO  Meta_Master_Code - 108-The downloads Count is -50000000
+2025-06-25 15:21:22,978 INFO  Meta_Master_Code - 108 - The Downloads is more than 1M
+2025-06-25 15:21:24,288 INFO  Meta_Master_Code - 109-The downloads Count is -50000000
+2025-06-25 15:21:24,288 INFO  Meta_Master_Code - 109 - The Downloads is more than 1M
+2025-06-25 15:21:25,663 INFO  Meta_Master_Code - 110-The downloads Count is -1000
+2025-06-25 15:21:25,686 INFO  Meta_Master_Code - 110No Rating is Given
+2025-06-25 15:21:25,700 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.upticker.app.v2
+2025-06-25 15:21:25,715 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:21:25,730 INFO  Meta_Master_Code - 110 - link in written
+2025-06-25 15:21:27,029 INFO  Meta_Master_Code - 111-The downloads Count is -10000000
+2025-06-25 15:21:27,029 INFO  Meta_Master_Code - 111 - The Downloads is more than 1M
+2025-06-25 15:21:28,302 INFO  Meta_Master_Code - 112-The downloads Count is -50000000
+2025-06-25 15:21:28,302 INFO  Meta_Master_Code - 112 - The Downloads is more than 1M
+2025-06-25 15:21:29,612 INFO  Meta_Master_Code - 113-The downloads Count is -50000000
+2025-06-25 15:21:29,612 INFO  Meta_Master_Code - 113 - The Downloads is more than 1M
+2025-06-25 15:21:30,947 INFO  Meta_Master_Code - 114-The downloads Count is -50000000
+2025-06-25 15:21:30,947 INFO  Meta_Master_Code - 114 - The Downloads is more than 1M
+2025-06-25 15:21:32,265 INFO  Meta_Master_Code - 115-The downloads Count is -50000000
+2025-06-25 15:21:32,265 INFO  Meta_Master_Code - 115 - The Downloads is more than 1M
+2025-06-25 15:21:33,637 INFO  Meta_Master_Code - 116-The downloads Count is -50000000
+2025-06-25 15:21:33,637 INFO  Meta_Master_Code - 116 - The Downloads is more than 1M
+2025-06-25 15:21:34,972 INFO  Meta_Master_Code - 117-The downloads Count is -50000000
+2025-06-25 15:21:34,972 INFO  Meta_Master_Code - 117 - The Downloads is more than 1M
+2025-06-25 15:21:36,152 INFO  Meta_Master_Code - 118-The downloads Count is -1000
+2025-06-25 15:21:36,166 INFO  Meta_Master_Code - 118No Rating is Given
+2025-06-25 15:21:36,179 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.upticker.app.v2
+2025-06-25 15:21:36,194 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:21:36,207 INFO  Meta_Master_Code - 118 - link in written
+2025-06-25 15:21:37,858 INFO  Meta_Master_Code - 119-The downloads Count is -50000
+2025-06-25 15:21:37,877 INFO  Meta_Master_Code - Parsed rating: 2.9
+2025-06-25 15:21:37,894 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.appspelago.peekababy
+2025-06-25 15:21:37,907 INFO  Meta_Master_Code - Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.appspelago.peekababy
+2025-06-25 15:21:37,923 INFO  Meta_Master_Code - Data written at row index: 7
+2025-06-25 15:21:37,933 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:21:37,933 INFO  Meta_Master_Code - 119 - link in written
+2025-06-25 15:21:39,357 INFO  Meta_Master_Code - 120-The downloads Count is -10000000
+2025-06-25 15:21:39,357 INFO  Meta_Master_Code - 120 - The Downloads is more than 1M
+2025-06-25 15:21:40,689 INFO  Meta_Master_Code - 121-The downloads Count is -10000000
+2025-06-25 15:21:40,689 INFO  Meta_Master_Code - 121 - The Downloads is more than 1M
+2025-06-25 15:21:42,855 INFO  Meta_Master_Code - 122 - The link is App store or other site
+2025-06-25 15:21:44,250 INFO  Meta_Master_Code - 123-The downloads Count is -100000000
+2025-06-25 15:21:44,250 INFO  Meta_Master_Code - 123 - The Downloads is more than 1M
+2025-06-25 15:21:45,539 INFO  Meta_Master_Code - 124-The downloads Count is -100000000
+2025-06-25 15:21:45,539 INFO  Meta_Master_Code - 124 - The Downloads is more than 1M
+2025-06-25 15:21:46,844 INFO  Meta_Master_Code - 125-The downloads Count is -100000000
+2025-06-25 15:21:46,844 INFO  Meta_Master_Code - 125 - The Downloads is more than 1M
+2025-06-25 15:21:48,290 INFO  Meta_Master_Code - 126-The downloads Count is -100000000
+2025-06-25 15:21:48,291 INFO  Meta_Master_Code - 126 - The Downloads is more than 1M
+2025-06-25 15:21:49,549 INFO  Meta_Master_Code - 127-The downloads Count is -5000000
+2025-06-25 15:21:49,549 INFO  Meta_Master_Code - 127 - The Downloads is more than 1M
+2025-06-25 15:21:50,858 INFO  Meta_Master_Code - 128-The downloads Count is -100000000
+2025-06-25 15:21:50,858 INFO  Meta_Master_Code - 128 - The Downloads is more than 1M
+2025-06-25 15:21:52,194 INFO  Meta_Master_Code - 129-The downloads Count is -100000000
+2025-06-25 15:21:52,195 INFO  Meta_Master_Code - 129 - The Downloads is more than 1M
+2025-06-25 15:21:53,389 INFO  Meta_Master_Code - 130-The downloads Count is -100000
+2025-06-25 15:21:53,406 INFO  Meta_Master_Code - 130No Rating is Given
+2025-06-25 15:21:53,428 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.qr.cvn.barcode.scanner.fhnn
+2025-06-25 15:21:53,443 INFO  Meta_Master_Code - Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.qr.cvn.barcode.scanner.fhnn
+2025-06-25 15:21:53,462 INFO  Meta_Master_Code - Data written at row index: 8
+2025-06-25 15:21:53,476 INFO  Meta_Master_Code - 130 - link in written
+2025-06-25 15:21:54,767 INFO  Meta_Master_Code - 131-The downloads Count is -1000000
+2025-06-25 15:21:54,767 INFO  Meta_Master_Code - 131 - The Downloads is more than 1M
+2025-06-25 15:21:56,431 INFO  Meta_Master_Code - 132-The downloads Count is -1000000
+2025-06-25 15:21:56,431 INFO  Meta_Master_Code - 132 - The Downloads is more than 1M
+2025-06-25 15:21:57,837 INFO  Meta_Master_Code - 133-The downloads Count is -1000000
+2025-06-25 15:21:57,837 INFO  Meta_Master_Code - 133 - The Downloads is more than 1M
+2025-06-25 15:21:59,717 INFO  Meta_Master_Code - 134-The downloads Count is -5000000
+2025-06-25 15:21:59,717 INFO  Meta_Master_Code - 134 - The Downloads is more than 1M
+2025-06-25 15:22:01,697 INFO  Meta_Master_Code - 135-The downloads Count is -5000000
+2025-06-25 15:22:01,697 INFO  Meta_Master_Code - 135 - The Downloads is more than 1M
+2025-06-25 15:22:02,809 INFO  Meta_Master_Code - 136-The downloads Count is -5000000
+2025-06-25 15:22:02,809 INFO  Meta_Master_Code - 136 - The Downloads is more than 1M
+2025-06-25 15:22:04,179 INFO  Meta_Master_Code - 137-The downloads Count is -5000000
+2025-06-25 15:22:04,179 INFO  Meta_Master_Code - 137 - The Downloads is more than 1M
+2025-06-25 15:22:05,453 INFO  Meta_Master_Code - 138-The downloads Count is -100000000
+2025-06-25 15:22:05,454 INFO  Meta_Master_Code - 138 - The Downloads is more than 1M
+2025-06-25 15:22:06,544 INFO  Meta_Master_Code - 139-The downloads Count is -1000000
+2025-06-25 15:22:06,544 INFO  Meta_Master_Code - 139 - The Downloads is more than 1M
+2025-06-25 15:22:07,730 INFO  Meta_Master_Code - 140-The downloads Count is -100000000
+2025-06-25 15:22:07,730 INFO  Meta_Master_Code - 140 - The Downloads is more than 1M
+2025-06-25 15:22:09,045 INFO  Meta_Master_Code - 141-The downloads Count is -100000000
+2025-06-25 15:22:09,045 INFO  Meta_Master_Code - 141 - The Downloads is more than 1M
+2025-06-25 15:22:10,367 INFO  Meta_Master_Code - 142-The downloads Count is -100000000
+2025-06-25 15:22:10,367 INFO  Meta_Master_Code - 142 - The Downloads is more than 1M
+2025-06-25 15:22:11,721 INFO  Meta_Master_Code - 143-The downloads Count is -50000000
+2025-06-25 15:22:11,721 INFO  Meta_Master_Code - 143 - The Downloads is more than 1M
+2025-06-25 15:22:13,098 INFO  Meta_Master_Code - 144-The downloads Count is -50000000
+2025-06-25 15:22:13,098 INFO  Meta_Master_Code - 144 - The Downloads is more than 1M
+2025-06-25 15:22:15,019 INFO  Meta_Master_Code - 145-The downloads Count is -100000
+2025-06-25 15:22:15,049 INFO  Meta_Master_Code - Parsed rating: 4.0
+2025-06-25 15:22:15,072 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.digitaljungle
+2025-06-25 15:22:15,099 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:22:15,111 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:22:15,111 INFO  Meta_Master_Code - 145 - link in written
+2025-06-25 15:22:17,377 INFO  Meta_Master_Code - 146 - The link is App store or other site
+2025-06-25 15:22:18,687 INFO  Meta_Master_Code - 147-The downloads Count is -50000000
+2025-06-25 15:22:18,687 INFO  Meta_Master_Code - 147 - The Downloads is more than 1M
+2025-06-25 15:22:19,866 INFO  Meta_Master_Code - 148-The downloads Count is -5000000
+2025-06-25 15:22:19,866 INFO  Meta_Master_Code - 148 - The Downloads is more than 1M
+2025-06-25 15:22:21,000 INFO  Meta_Master_Code - 149-The downloads Count is -5000000
+2025-06-25 15:22:21,000 INFO  Meta_Master_Code - 149 - The Downloads is more than 1M
+2025-06-25 15:22:22,400 INFO  Meta_Master_Code - 150-The downloads Count is -50000000
+2025-06-25 15:22:22,400 INFO  Meta_Master_Code - 150 - The Downloads is more than 1M
+2025-06-25 15:22:23,602 INFO  Meta_Master_Code - 151-The downloads Count is -100000
+2025-06-25 15:22:23,617 INFO  Meta_Master_Code - Parsed rating: 4.5
+2025-06-25 15:22:23,632 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.happyverse.spellinggame
+2025-06-25 15:22:23,642 INFO  Meta_Master_Code - Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.happyverse.spellinggame
+2025-06-25 15:22:23,653 INFO  Meta_Master_Code - Data written at row index: 9
+2025-06-25 15:22:23,663 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:22:23,663 INFO  Meta_Master_Code - 151 - link in written
+2025-06-25 15:22:24,774 INFO  Meta_Master_Code - 152-The downloads Count is -5000000
+2025-06-25 15:22:24,774 INFO  Meta_Master_Code - 152 - The Downloads is more than 1M
+2025-06-25 15:22:25,844 INFO  Meta_Master_Code - 153-The downloads Count is -5000000
+2025-06-25 15:22:25,844 INFO  Meta_Master_Code - 153 - The Downloads is more than 1M
+2025-06-25 15:22:27,089 INFO  Meta_Master_Code - 154-The downloads Count is -1000000
+2025-06-25 15:22:27,089 INFO  Meta_Master_Code - 154 - The Downloads is more than 1M
+2025-06-25 15:22:28,327 INFO  Meta_Master_Code - 155-The downloads Count is -50000000
+2025-06-25 15:22:28,327 INFO  Meta_Master_Code - 155 - The Downloads is more than 1M
+2025-06-25 15:22:29,515 INFO  Meta_Master_Code - 156-The downloads Count is -50000000
+2025-06-25 15:22:29,515 INFO  Meta_Master_Code - 156 - The Downloads is more than 1M
+2025-06-25 15:22:30,694 INFO  Meta_Master_Code - 157-The downloads Count is -50000000
+2025-06-25 15:22:30,694 INFO  Meta_Master_Code - 157 - The Downloads is more than 1M
+2025-06-25 15:22:31,897 INFO  Meta_Master_Code - 158-The downloads Count is -50000000
+2025-06-25 15:22:31,897 INFO  Meta_Master_Code - 158 - The Downloads is more than 1M
+2025-06-25 15:22:33,098 INFO  Meta_Master_Code - 159-The downloads Count is -5000000
+2025-06-25 15:22:33,098 INFO  Meta_Master_Code - 159 - The Downloads is more than 1M
+2025-06-25 15:22:35,580 INFO  Meta_Master_Code - 160 - The link is App store or other site
+2025-06-25 15:22:37,159 INFO  Meta_Master_Code - 161-The downloads Count is -5000
+2025-06-25 15:22:37,175 INFO  Meta_Master_Code - Parsed rating: 3.8
+2025-06-25 15:22:37,190 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.prank.crazy.trickly.aos
+2025-06-25 15:22:37,199 INFO  Meta_Master_Code - Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.prank.crazy.trickly.aos
+2025-06-25 15:22:37,212 INFO  Meta_Master_Code - Data written at row index: 10
+2025-06-25 15:22:37,220 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:22:37,220 INFO  Meta_Master_Code - 161 - link in written
+2025-06-25 15:22:38,890 INFO  Meta_Master_Code - 162-The downloads Count is -10000000
+2025-06-25 15:22:38,890 INFO  Meta_Master_Code - 162 - The Downloads is more than 1M
+2025-06-25 15:22:40,068 INFO  Meta_Master_Code - 163-The downloads Count is -5000000
+2025-06-25 15:22:40,068 INFO  Meta_Master_Code - 163 - The Downloads is more than 1M
+2025-06-25 15:22:41,212 INFO  Meta_Master_Code - 164-The downloads Count is -50000
+2025-06-25 15:22:41,228 INFO  Meta_Master_Code - Parsed rating: 3.6
+2025-06-25 15:22:41,242 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.gurusutraa.astrosutraa
+2025-06-25 15:22:41,251 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:22:41,260 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:22:41,260 INFO  Meta_Master_Code - 164 - link in written
+2025-06-25 15:22:42,454 INFO  Meta_Master_Code - 165-The downloads Count is -500000
+2025-06-25 15:22:42,469 INFO  Meta_Master_Code - Parsed rating: 3.5
+2025-06-25 15:22:42,483 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=live.emotionalcare.eazeapp
+2025-06-25 15:22:42,492 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:22:42,498 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:22:42,499 INFO  Meta_Master_Code - 165 - link in written
+2025-06-25 15:22:43,608 INFO  Meta_Master_Code - 166-The downloads Count is -500000
+2025-06-25 15:22:43,624 INFO  Meta_Master_Code - Parsed rating: 3.5
+2025-06-25 15:22:43,641 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=live.emotionalcare.eazeapp
+2025-06-25 15:22:43,650 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:22:43,657 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:22:43,657 INFO  Meta_Master_Code - 166 - link in written
+2025-06-25 15:22:45,030 INFO  Meta_Master_Code - 167-The downloads Count is -10000
+2025-06-25 15:22:45,047 INFO  Meta_Master_Code - Parsed rating: 4.5
+2025-06-25 15:22:45,064 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=grocery.beldara.fresh
+2025-06-25 15:22:45,074 INFO  Meta_Master_Code - Data Written in Mastersheet - https://play.google.com/store/apps/details?id=grocery.beldara.fresh
+2025-06-25 15:22:45,087 INFO  Meta_Master_Code - Data written at row index: 11
+2025-06-25 15:22:45,095 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:22:45,095 INFO  Meta_Master_Code - 167 - link in written
+2025-06-25 15:22:46,259 INFO  Meta_Master_Code - 168-The downloads Count is -10000
+2025-06-25 15:22:46,276 INFO  Meta_Master_Code - Parsed rating: 4.2
+2025-06-25 15:22:46,290 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.app.malgopay
+2025-06-25 15:22:46,298 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:22:46,308 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:22:46,308 INFO  Meta_Master_Code - 168 - link in written
+2025-06-25 15:22:47,560 INFO  Meta_Master_Code - 169-The downloads Count is -100000
+2025-06-25 15:22:47,576 INFO  Meta_Master_Code - Parsed rating: 3.1
+2025-06-25 15:22:47,590 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.tnibro
+2025-06-25 15:22:47,605 INFO  Meta_Master_Code - Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.tnibro
+2025-06-25 15:22:47,623 INFO  Meta_Master_Code - Data written at row index: 12
+2025-06-25 15:22:47,635 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-06-25 15:22:47,635 INFO  Meta_Master_Code - 169 - link in written
+2025-06-25 15:22:48,934 INFO  Meta_Master_Code - 170-The downloads Count is -1000
+2025-06-25 15:22:48,943 INFO  Meta_Master_Code - 170No Rating is Given
+2025-06-25 15:22:48,957 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=ai.photoeditor.artgenerator
+2025-06-25 15:22:48,965 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:22:48,972 INFO  Meta_Master_Code - 170 - link in written
+2025-06-25 15:22:50,390 INFO  Meta_Master_Code - 171-The downloads Count is -1000
+2025-06-25 15:22:50,399 INFO  Meta_Master_Code - 171No Rating is Given
+2025-06-25 15:22:50,409 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=ai.photoeditor.artgenerator
+2025-06-25 15:22:50,420 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:22:50,427 INFO  Meta_Master_Code - 171 - link in written
+2025-06-25 15:22:51,590 INFO  Meta_Master_Code - 172-The downloads Count is -100000000
+2025-06-25 15:22:51,590 INFO  Meta_Master_Code - 172 - The Downloads is more than 1M
+2025-06-25 15:22:52,814 INFO  Meta_Master_Code - 173-The downloads Count is -100000000
+2025-06-25 15:22:52,814 INFO  Meta_Master_Code - 173 - The Downloads is more than 1M
+2025-06-25 15:22:53,971 INFO  Meta_Master_Code - 174-The downloads Count is -100000000
+2025-06-25 15:22:53,971 INFO  Meta_Master_Code - 174 - The Downloads is more than 1M
+2025-06-25 15:22:55,117 INFO  Meta_Master_Code - 175-The downloads Count is -100000000
+2025-06-25 15:22:55,117 INFO  Meta_Master_Code - 175 - The Downloads is more than 1M
+2025-06-25 15:22:56,343 INFO  Meta_Master_Code - 176-The downloads Count is -100000000
+2025-06-25 15:22:56,343 INFO  Meta_Master_Code - 176 - The Downloads is more than 1M
+2025-06-25 15:22:57,578 INFO  Meta_Master_Code - 177-The downloads Count is -5000000
+2025-06-25 15:22:57,578 INFO  Meta_Master_Code - 177 - The Downloads is more than 1M
+2025-06-25 15:22:58,949 INFO  Meta_Master_Code - 178-The downloads Count is -10000000
+2025-06-25 15:22:58,949 INFO  Meta_Master_Code - 178 - The Downloads is more than 1M
+2025-06-25 15:23:00,566 INFO  Meta_Master_Code - 179-The downloads Count is -100000000
+2025-06-25 15:23:00,566 INFO  Meta_Master_Code - 179 - The Downloads is more than 1M
+2025-06-25 15:23:01,861 INFO  Meta_Master_Code - 180-The downloads Count is -100000
+2025-06-25 15:23:01,870 INFO  Meta_Master_Code - 180No Rating is Given
+2025-06-25 15:23:01,887 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.navigation.offlinemaps.radar.fortravel
+2025-06-25 15:23:01,896 INFO  Meta_Master_Code - Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.navigation.offlinemaps.radar.fortravel
+2025-06-25 15:23:01,906 INFO  Meta_Master_Code - Data written at row index: 13
+2025-06-25 15:23:01,916 INFO  Meta_Master_Code - 180 - link in written
+2025-06-25 15:23:02,951 INFO  Meta_Master_Code - 181-The downloads Count is -100000
+2025-06-25 15:23:02,960 INFO  Meta_Master_Code - 181No Rating is Given
+2025-06-25 15:23:02,968 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.navigation.offlinemaps.radar.fortravel
+2025-06-25 15:23:02,976 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:23:02,985 INFO  Meta_Master_Code - 181 - link in written
+2025-06-25 15:23:04,086 INFO  Meta_Master_Code - 182-The downloads Count is -100000
+2025-06-25 15:23:04,095 INFO  Meta_Master_Code - 182No Rating is Given
+2025-06-25 15:23:04,103 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.navigation.offlinemaps.radar.fortravel
+2025-06-25 15:23:04,111 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-06-25 15:23:04,118 INFO  Meta_Master_Code - 182 - link in written
+2025-06-25 15:23:06,297 INFO  Meta_Master_Code - 183-The downloads Count is -1000000
+2025-06-25 15:23:06,297 INFO  Meta_Master_Code - 183 - The Downloads is more than 1M
+2025-06-25 15:23:07,484 INFO  Meta_Master_Code - 184-The downloads Count is -5000000
+2025-06-25 15:23:07,484 INFO  Meta_Master_Code - 184 - The Downloads is more than 1M
+2025-06-25 15:23:08,773 INFO  Meta_Master_Code - 185-The downloads Count is -5000000
+2025-06-25 15:23:08,773 INFO  Meta_Master_Code - 185 - The Downloads is more than 1M
+2025-06-25 15:23:10,132 INFO  Meta_Master_Code - 186-The downloads Count is -5000000
+2025-06-25 15:23:10,132 INFO  Meta_Master_Code - 186 - The Downloads is more than 1M
+2025-06-25 15:23:11,467 INFO  Meta_Master_Code - 187-The downloads Count is -5000000
+2025-06-25 15:23:11,467 INFO  Meta_Master_Code - 187 - The Downloads is more than 1M
+2025-06-25 15:23:12,777 INFO  Meta_Master_Code - 188-The downloads Count is -5000000
+2025-06-25 15:23:12,777 INFO  Meta_Master_Code - 188 - The Downloads is more than 1M
+2025-06-25 15:23:14,250 INFO  Meta_Master_Code - 189-The downloads Count is -5000000
+2025-06-25 15:23:14,250 INFO  Meta_Master_Code - 189 - The Downloads is more than 1M
+2025-06-25 15:23:15,414 INFO  Meta_Master_Code - 190-The downloads Count is -50000000
+2025-06-25 15:23:15,414 INFO  Meta_Master_Code - 190 - The Downloads is more than 1M
+2025-06-25 15:23:15,426 INFO  Meta_Master_Code - Excel file has sheets, not deleted.

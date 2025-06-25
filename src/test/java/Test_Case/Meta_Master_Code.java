@@ -13,7 +13,9 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Properties;
 import java.util.concurrent.atomic.AtomicLong;
-
+import org.apache.log4j.Logger;
+import org.apache.log4j.PatternLayout;
+import org.apache.log4j.RollingFileAppender;
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.CellType;
 import org.apache.poi.ss.usermodel.Row;
@@ -26,6 +28,7 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.TimeoutException;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebDriverException;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.ExpectedCondition;
@@ -54,8 +57,6 @@ public class Meta_Master_Code {
 
 	@BeforeTest
 	public void browseropen() {
-//		System.setProperty("webdriver.chrome.driver", "path/to/chromedriver");
-//        driver = new ChromeDriver();
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
@@ -63,7 +64,19 @@ public class Meta_Master_Code {
 
 	@AfterTest
 	public void closebroser() {
-		driver.close();
+		 if (driver != null) {
+	            try {
+	                driver.quit(); // Properly close session
+	            } catch (WebDriverException e) {
+	                System.err.println("WebDriverException caught during quit(): " + e.getMessage());
+	                // You can log or handle Connection Reset specifically
+	                if (e.getMessage().contains("Connection reset")) {
+	                    // handle or log specifically
+	                }
+	            } catch (Exception e) {
+	                System.err.println("Unexpected error during driver quit: " + e.getMessage());
+	            }
+	        }
 	}
 
 	@Test(priority = 1)
@@ -71,13 +84,12 @@ public class Meta_Master_Code {
 		// driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
 		driver.get(
 				"https://www.facebook.com/ads/library/?active_status=all&ad_type=all&country=IN&is_targeted_country=false&media_type=all&q=download%20now&search_type=keyword_unordered");
+		logger.info("URL Entered");
 		System.out.println("URL Entered");
 
-		// ---------------------------------------Select
-		// Country---------------------------
+		// ---------------------------------------Select Country---------------------------
 		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
 		wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("js_0")));
-		driver.findElement(By.id("js_0")).click();
 //		wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//div[contains(@id,'js_') and text()='All']")));
 //		driver.findElement(By.xpath("//div[contains(@id,'js_') and text()='United States']")).click();
 //		System.out.println("All Region has been Choosen");
@@ -87,26 +99,29 @@ public class Meta_Master_Code {
 
 		String Country = getPropertyFileValue("Country");
 		System.out.println(Country);
-		if (Country.equals(Country)) {
+		logger.info("Entered country is - "+Country);
+		if (Country.equals("India")) {
 			System.out.println("India has been Choosen");
-
+			logger.info("India has been Choosen");
 		} else {
+			driver.findElement(By.id("js_0")).click();
 			driver.findElement(By.xpath("//div[contains(@id,'js_') and text()='" + Country + "']")).click();
 			System.out.println(Country + " has been Choosen");
-			// -------------------------------------Select
-			// Category--------------------------------
+			logger.info(Country + " has been Choosen");
+			// -------------------------------------Select Category--------------------------------
 			try {
 				driver.findElement(By.xpath("//div[contains(@id,'js_') and text()='Ad category']")).click();
 				driver.findElement(By.xpath("//span[text()='All ads']")).click();
 				System.out.println("All ads is clicked");
+				logger.info("All ads is clicked");
 			} catch (Exception e) {
 				e.printStackTrace();
 				System.out.println("All ads is not clicked");
+				logger.warn("All ads is not clicked");
 			}
 		}
 
-		// ------------------------------------Keyword
-		// Search----------------------------------
+		// ------------------------------------Keyword   Search----------------------------------
 //		Scanner b = new Scanner(System.in);
 //		System.out.println("Enter the keyword you want search");
 //		String keyWord = b.nextLine();
@@ -119,13 +134,14 @@ public class Meta_Master_Code {
 		try {
 			driver.findElement(By.xpath("//*[text()='No ads match your search criteria']"));
 			System.out.println("No ads match your search criteria");
+			logger.error("No ads match your search criteria");
 			Assert.fail();
 		} catch (Exception e) {
 			System.out.println("Data Found");
+			logger.info("Data Found");
 		}
 
-		// ------------------------------------Scroll
-		// Process-----------------------------------
+		// ------------------------------------Scroll Process-----------------------------------
 //		JavascriptExecutor js = (JavascriptExecutor) driver;
 //		long lastHeight = (long) js.executeScript("return document.body.scrollHeight");
 //		int scrollPauseTime = 3000;
@@ -169,9 +185,12 @@ public class Meta_Master_Code {
 		long lastHeight = (long) js.executeScript("return document.body.scrollHeight");
 		int scrollPauseTime = 3000;
 		String loopCount = getPropertyFileValue("ScrollCount");
+		System.out.println("The Number of Scroll count Entered is - "+loopCount);
+		logger.info("The Number of Scroll count Entered is - "+loopCount);
 		int ScrollCount = Integer.parseInt(loopCount);
 		for (int i = 0; i <= ScrollCount; i++) {
 			System.out.println("Scroll: " + i);
+			logger.info("Scroll: " + i);
 			js.executeScript("window.scrollTo(0, document.body.scrollHeight);");
 
 			// Wait for new content to load
@@ -183,12 +202,12 @@ public class Meta_Master_Code {
 
 		}
 
-		// --------------------------------------Excel Written
-		// Process-------------------------------
-		createExcelFile(stamp);
+		// --------------------------------------Excel Written Process-------------------------------
+		createExcelFile("excel files Raw",stamp);
 
 		int linkCount = driver.findElements(By.xpath("//div[text()='Install now']")).size();
 		System.out.println("Total link is " + linkCount);
+		logger.info("Total link is " + linkCount);
 		for (int i = 1; i <= linkCount; i++) {
 			try {
 				WebElement linkTag = driver
@@ -196,20 +215,24 @@ public class Meta_Master_Code {
 				String href = linkTag.getAttribute("href");
 				try {
 					insertValueCell("All_Links", i - 1, 0, href);
-					System.out.println("Data written successfully.");
+					System.out.println(i+" - Data written successfully.");
+					logger.info(i+" - Data written successfully.");
 				} catch (IOException e) {
 					e.printStackTrace();
+					System.out.println(i+" - Failed to Write Data");
+					logger.error(i+" - Failed to Write Data");
 				}
 			} catch (Exception e) {
 				System.out.println(i + " - Link is disabled");
+				logger.warn(i + " - Link is disabled");
 			}
 
 		}
-		createExcelFile(stamp + "-" + Country + "- New sheet");
+		deleteExcelIfNoSheets();
+		createExcelFile("excel files updated",stamp + "-" + Country + "- New sheet");
 	}
 
-	// -------------------------------------------------Fetched link Validation and
-	// Filter----------------------------------------------
+	// -------------------------------------------------Fetched link Validation and Filter----------------------------------------------
 	static int iteration = 0;
 	static int iterate = 0;
 
@@ -217,7 +240,7 @@ public class Meta_Master_Code {
 	public void analyseURLs(String URL1) throws IOException {
 		driver.get(URL1);
 		String Country = getPropertyFileValue("Country");
-		String filepath = System.getProperty("user.dir") + "\\" + stamp + "-" + Country + "- New sheet.xlsx";
+		String filepath = System.getProperty("user.dir") + "\\excel files updated\\" + stamp + "-" + Country + "- New sheet.xlsx";
 		try {
 			driver.findElement(By.xpath("//a[text()='Follow Link']")).click();
 		} catch (Exception e) {
@@ -230,6 +253,7 @@ public class Meta_Master_Code {
 
 			long count = convertToNumber(downloadCounts);
 			System.out.println(count);
+			logger.info(iterate+"-The downloads Count is -"+count);
 			if (count < 1000000) {
 				try {
 					WebElement ratingElement = driver.findElement(By.xpath("//div[@itemprop='starRating']//div"));
@@ -239,6 +263,7 @@ public class Meta_Master_Code {
 						String[] parts = rating.trim().split("\\s+"); // Split by any whitespace
 						ratingCount = Double.parseDouble(parts[0]);
 						System.out.println("Parsed rating: " + ratingCount);
+						logger.info("Parsed rating: " + ratingCount);
 					} catch (NumberFormatException | ArrayIndexOutOfBoundsException e) {
 						System.err.println("Failed to parse rating: " + rating);
 						e.printStackTrace();
@@ -270,25 +295,32 @@ public class Meta_Master_Code {
 						insertValueCellWithoutDuplicate("Sheet2", iteration, 0, URL);
 						writeInMasterSheet("Links", 0, URL, filepath, "Sheet1");
 						System.out.println("The rating is less than 4.5");
+						logger.info("The rating is less than 4.5");
 						System.out.println(iterate + " - link in written");
+						logger.info(iterate + " - link in written");
 						iteration++;
 					} else {
 						System.out.println(iterate + " - The Rating Count is Greater than 4.5");
+						logger.info(iterate + " - The Rating Count is Greater than 4.5");
 					}
 				} catch (Exception e) {
 					System.out.println("No Rating is Given");
+					logger.info(iterate + "No Rating is Given");
 					insertValueCellWithoutDuplicate("Sheet2", iteration, 0, URL);
 					writeInMasterSheet("Links", 0, URL, filepath, "Sheet1");
 					System.out.println(iterate + " - link in written");
+					logger.info(iterate + " - link in written");
 					iteration++;
 				}
 			} else {
 				System.out.println(iterate + " - The Downloads is more than 1M");
+				logger.info(iterate + " - The Downloads is more than 1M");
 			}
 		} catch (Exception e) {
 //			insertValueCellWithoutDuplicate("Sheet2", iteration, 0, URL);
 //			writeInMasterSheet("Links", 0, URL);
 			System.out.println(iterate + " - The link is App store or other site");
+			logger.info(iterate + " - The link is App store or other site");
 		}
 //		driver.get(URL);
 //		try {
@@ -313,11 +345,10 @@ public class Meta_Master_Code {
 	
 	
 
-	// ----------------------------------------------Data Provider
-	// Code--------------------------------------------------------------------
+	// ----------------------------------------------Data Provider Code--------------------------------------------------------------------
 	@DataProvider(name = "excelData")
 	public Object[][] getDataFromExcel() {
-		String filePath = System.getProperty("user.dir") + "\\" + stamp + ".xlsx";
+		String filePath = System.getProperty("user.dir") + "\\excel files Raw\\" + stamp + ".xlsx";
 		String sheetName = "All_Links";
 		return readExcelData(filePath, sheetName);
 	}
@@ -403,7 +434,7 @@ public class Meta_Master_Code {
 
 	public static void insertValueCell(String sheetName, int rownum, int cellnum, String data) throws IOException {
 		// File file = new File(System.getProperty("user.dir") + "//playLinks.xlsx");
-		File file = new File(System.getProperty("user.dir") + "//" + stamp + ".xlsx");
+		File file = new File(System.getProperty("user.dir") + "//excel files Raw//" + stamp + ".xlsx");
 		// Open the file input stream
 		FileInputStream fileInputStream = new FileInputStream(file);
 		Workbook workbook = new XSSFWorkbook(fileInputStream);
@@ -438,7 +469,7 @@ public class Meta_Master_Code {
 
 	public static void insertValueCellWithoutDuplicate(String sheetName, int rownum, int cellnum, String data)
 			throws IOException {
-		File file = new File(System.getProperty("user.dir") + "//" + stamp + ".xlsx");
+		File file = new File(System.getProperty("user.dir") + "//excel files Raw//" + stamp + ".xlsx");
 
 		Workbook workbook;
 		Sheet sheet;
@@ -486,8 +517,10 @@ public class Meta_Master_Code {
 			workbook.write(fileOutputStream);
 			fileOutputStream.close();
 			System.out.println("Data written successfully: " + data);
+			logger.info("Data written successfully: " + data);
 		} else {
 			System.out.println("Duplicate entry skipped: " + data);
+			logger.info("Duplicate entry skipped: " + data);
 		}
 
 		workbook.close();
@@ -562,6 +595,7 @@ public class Meta_Master_Code {
 					if (cell.getStringCellValue().equalsIgnoreCase(data)) {
 						isDuplicate = true;
 						System.out.println("Duplicate entry in the Mastersheet");
+						logger.info("Duplicate entry in the Mastersheet");
 						break;
 					}
 				}
@@ -574,6 +608,7 @@ public class Meta_Master_Code {
 			Cell newCell = newRow.createCell(columnNumber);
 			newCell.setCellValue(data);
 			System.out.println("Data Written in Mastersheet - " + data);
+			logger.info("Data Written in Mastersheet - " + data);
 			writeData(fileName, sheetname, data);
 
 		}
@@ -626,6 +661,7 @@ public class Meta_Master_Code {
 			try (FileOutputStream fos = new FileOutputStream(filePath)) {
 				workbook.write(fos);
 				System.out.println("Data written at row index: " + writeRowIndex);
+				logger.info("Data written at row index: " + writeRowIndex);
 			}
 
 		} catch (IOException e) {
@@ -633,9 +669,8 @@ public class Meta_Master_Code {
 		}
 	}
 
-	// --------------------------------------------- Create New Excel
-	// File-----------------------------------------------------
-	public static void createExcelFile(String fileName) {
+	// --------------------------------------------- Create New Excel File-----------------------------------------------------
+	public static void createExcelFile(String folderName,String fileName) {
 		// Create a new workbook
 		Workbook workbook = new XSSFWorkbook();
 		// Sheet sheet;
@@ -656,10 +691,11 @@ public class Meta_Master_Code {
 		// dataRow.createCell(1).setCellValue("admin123");
 
 		// Write to file
-		try (FileOutputStream fileOut = new FileOutputStream(fileName + ".xlsx")) {
+		try (FileOutputStream fileOut = new FileOutputStream(System.getProperty("user.dir")+"//"+folderName+"//"+fileName + ".xlsx")) {
 			workbook.write(fileOut);
 			workbook.close();
 			System.out.println("Excel file created successfully!");
+			logger.info(fileName+" - Excel file created successfully!");
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
@@ -761,13 +797,16 @@ public class Meta_Master_Code {
 			newWorkbook.close();
 		} else {
 			System.out.println("Data already exists in Master Sheet.");
+			logger.info("Data already exists in Master Sheet.");
 		}
 
 	}
+	
+//----------------------------------------------------Delete Excel file if it has no Sheet -----------------------------------------------	
 	@Test(priority = 3, dependsOnMethods = "analyseURLs")
 	public void deleteExcelIfNoSheet() throws FileNotFoundException, IOException {
 		String Country = getPropertyFileValue("Country");
-		String filePath = System.getProperty("user.dir") + "\\" + stamp + "-" + Country + "- New sheet.xlsx"; // Replace with actual file path
+		String filePath = System.getProperty("user.dir") + "\\excel files updated\\" + stamp + "-" + Country + "- New sheet.xlsx"; // Replace with actual file path
 		File file = new File(filePath);
 
 		if (!file.exists()) {
@@ -784,16 +823,72 @@ public class Meta_Master_Code {
 
 				if (file.delete()) {
 					System.out.println("Excel file deleted as it contains no sheets.");
+					logger.info("Excel file deleted as it contains no sheets.");
 				} else {
 					System.out.println("Failed to delete the file.");
+					logger.info("Failed to delete the file.");
 				}
 			} else {
 				System.out.println("Excel file has sheets, not deleted.");
+				logger.info("Excel file has sheets, not deleted.");
 			}
 
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
 	}
+	
+	public void deleteExcelIfNoSheets() throws FileNotFoundException, IOException {
+		String filePath = System.getProperty("user.dir") + "\\excel files Raw\\" + stamp +".xlsx"; // Replace with actual file path
+		File file = new File(filePath);
 
+		if (!file.exists()) {
+			System.out.println("File does not exist.");
+			logger.info("File does not exist.");
+			return;
+		}
+
+		try (FileInputStream fis = new FileInputStream(file); Workbook workbook = new XSSFWorkbook(fis)) {
+
+			int numberOfSheets = workbook.getNumberOfSheets();
+			if (numberOfSheets == 0) {
+				// Close workbook before deleting file
+				workbook.close();
+
+				if (file.delete()) {
+					System.out.println("Excel file deleted as it contains no sheets.");
+					logger.info("Excel file deleted as it contains no sheets.");
+					Assert.fail();
+				} else {
+					System.out.println("Failed to delete the file.");
+					logger.info("Failed to delete the file.");
+				}
+			} else {
+				System.out.println("Excel file has sheets, not deleted.");
+				logger.info("Excel file has sheets, not deleted.");
+			}
+
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
+//----------------------------------------------------------------Log File Appender -------------------------------------------------------
+	   public static  Logger logger= Logger.getLogger(Meta_Master_Code.class);
+	   static {
+			    String stamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm").format(new Date());
+		        String logFileName = "logs/" + stamp + "-Log.log";
+
+		        try {
+		            RollingFileAppender rollingFileAppender = new RollingFileAppender();
+		            rollingFileAppender.setName("FileLogger");
+		            rollingFileAppender.setFile(logFileName);
+		            rollingFileAppender.setMaxFileSize("5MB");
+		            rollingFileAppender.setMaxBackupIndex(10);
+		            rollingFileAppender.setLayout(new PatternLayout("%d{ISO8601} %-5p %c{1} - %m%n"));
+		            rollingFileAppender.activateOptions();
+		            logger.addAppender(rollingFileAppender);
+		        } catch (Exception e) {
+		            e.printStackTrace();
+		        }
+	   }  
 }

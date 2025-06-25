@@ -5,6 +5,7 @@
     <classes>
       <class name="Test_Case.Meta_Master_Code">
         <methods>
+          <include name="deleteExcelIfNoSheet"/>
           <include name="browseropen"/>
           <include name="analyseURLs"/>
           <include name="Fetchdata"/>
