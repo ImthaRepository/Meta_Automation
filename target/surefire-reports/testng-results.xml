@@ -1,428 +1,1026 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="38" passed="38" failed="0" skipped="0">
+<testng-results ignored="0" total="93" passed="93" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-06-20T18:36:33 IST" name="DCI_Meta_Automation" finished-at="2025-06-20T18:39:00 IST" duration-ms="147390">
+  <suite started-at="2025-06-26T14:50:09 IST" name="DCI_Meta_Automation" finished-at="2025-06-26T14:58:56 IST" duration-ms="526776">
     <groups>
     </groups>
-    <test started-at="2025-06-20T18:36:33 IST" name="Meta_Automation_MasterCode" finished-at="2025-06-20T18:39:00 IST" duration-ms="147390">
+    <test started-at="2025-06-26T14:50:09 IST" name="Meta_Automation_MasterCode" finished-at="2025-06-26T14:58:56 IST" duration-ms="526776">
       <class name="Test_Case.Meta_Master_Code">
-        <test-method is-config="true" signature="browseropen()[pri:0, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:36:33 IST" name="browseropen" finished-at="2025-06-20T18:36:35 IST" duration-ms="2560" status="PASS">
+        <test-method is-config="true" signature="browseropen()[pri:0, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:50:09 IST" name="browseropen" finished-at="2025-06-26T14:50:12 IST" duration-ms="3160" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browseropen -->
-        <test-method signature="Fetchdata()[pri:1, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:36:35 IST" name="Fetchdata" finished-at="2025-06-20T18:37:53 IST" duration-ms="77483" status="PASS">
+        <test-method signature="Fetchdata()[pri:1, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:50:12 IST" name="Fetchdata" finished-at="2025-06-26T14:56:19 IST" duration-ms="366463" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Fetchdata -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:37:53 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:37:55 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="2092" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:56:19 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:56:21 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="2710" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.recoveryphotos.videos.allfiles&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:37:55 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:37:57 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1540" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:56:21 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:56:23 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1835" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.aichat.chabot.aiassistant&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dco.shopney.zoukazjnmapp&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:37:57 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:37:58 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1354" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:56:23 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:56:27 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="3806" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.ai.chat.askchat.app&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:37:58 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:37:59 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1321" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:56:27 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:56:29 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1754" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.tnibro&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:37:59 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:01 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1305" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:56:29 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:56:30 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1626" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.tnibro&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:01 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:02 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1287" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:56:30 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:56:33 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="2335" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.snapdrama.shortseries&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:02 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:03 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1256" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:56:33 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:56:35 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="2254" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.buffalo.softwave.yoga&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:03 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:04 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1237" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:56:35 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:56:37 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="2083" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dantitheftalarm.donttouchmyphone.antipro&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:04 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:06 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1309" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:56:37 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:56:40 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="2809" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dantitheftalarm.donttouchmyphone.antipro&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:06 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:07 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1468" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:56:40 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:56:42 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="2478" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dantitheftalarm.donttouchmyphone.antipro&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:07 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:10 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="3091" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:56:42 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:56:44 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1751" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid6466400444&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dantitheftalarm.donttouchmyphone.antipro&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:10 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:12 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1666" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:56:44 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:56:46 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1554" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid6466400444&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Daiart.ai.photo.aiphotogenerator&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:12 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:13 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1573" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:56:46 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:56:48 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="2087" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid6466400444&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dprankcall.fakevideocall.idolcall.chat&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:13 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:15 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1578" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:56:48 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:56:50 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="2373" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid6466400444&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dprankcall.fakevideocall.idolcall.chat&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:15 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:16 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1287" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:56:50 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:56:52 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="2032" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grow.score&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:16 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:30 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="13813" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:56:52 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:56:54 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1356" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.athena.ayushdev&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grow.score&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:30 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:35 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="4569" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:56:54 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:56:55 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1267" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.w_14735706&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grow.score&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:35 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:36 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1317" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:56:55 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:56:56 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1330" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.w_14735706&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grow.score&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:36 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:37 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1250" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:56:56 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:56:58 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1388" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grow.score&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:37 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:38 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1221" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:56:58 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:56:59 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1353" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grow.score&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:38 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:40 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1355" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:56:59 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:00 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1301" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grow.score&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:40 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:41 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1257" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:00 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:02 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1615" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grow.score&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:41 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:42 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1237" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:02 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:03 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1256" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grow.score&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:42 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:44 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1286" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:03 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:04 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1317" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grow.score&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:44 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:45 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1321" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:04 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:06 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1756" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grow.score&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:45 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:46 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1176" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:06 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:08 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1635" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grow.score&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:46 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:47 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1216" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:08 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:09 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1609" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.crafto.android&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:47 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:49 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1255" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:09 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:11 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1397" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.crafto.android&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:49 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:50 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1237" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:11 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:12 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1378" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.crafto.android&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:50 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:51 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1304" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:12 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:14 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1536" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.inspironlabs.taxisanchalak&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:51 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:52 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1344" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:14 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:16 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1836" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.app.malgopay&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:52 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:54 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1221" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:16 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:17 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1455" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.crafto.android&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:54 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:55 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1272" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:17 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:19 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1571" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:55 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:56 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1220" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:19 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:20 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1459" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:56 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:57 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1238" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:20 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:21 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1409" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:57 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:38:59 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1304" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:21 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:23 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1647" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:38:59 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-20T18:39:00 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1288" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:23 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:25 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1427" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA]]>
+                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- analyseURLs -->
-        <test-method is-config="true" signature="closebroser()[pri:0, instance:Test_Case.Meta_Master_Code@436813f3]" started-at="2025-06-20T18:39:00 IST" name="closebroser" finished-at="2025-06-20T18:39:00 IST" duration-ms="144" status="PASS">
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:25 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:26 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1439" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:26 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:28 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1517" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:28 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:30 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="2774" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid1603285284&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:30 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:32 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1465" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grow.score&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:32 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:33 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1710" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:33 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:35 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1599" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:35 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:37 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1560" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Daiart.aiphoto.aiartgenerator&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:37 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:38 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1558" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.amo.gps.geo.map.gpscamera&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:38 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:40 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1767" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:40 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:41 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1527" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.amo.gps.geo.map.gpscamera&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:41 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:43 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1564" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.amo.gps.geo.map.gpscamera&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:43 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:45 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1596" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:45 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:46 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1362" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:46 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:47 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1428" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:47 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:49 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1458" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:49 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:52 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="2828" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grykuby.minesweeper&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:52 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:54 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="2684" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid6742885800&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:54 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:56 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1552" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:56 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:58 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1671" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:58 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:57:59 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1420" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:57:59 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:01 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1895" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dapp.tm&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:01 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:03 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1778" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dapp.tm&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:03 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:04 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1534" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dapp.tm&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:04 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:06 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1597" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dapp.tm&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:06 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:07 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1546" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dapp.tm&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:07 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:09 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1758" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:09 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:12 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="2726" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid6636479582&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:12 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:13 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1485" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:13 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:15 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1588" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:15 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:16 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1387" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:16 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:18 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1405" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:18 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:19 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1603" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.day.night.live.wallpapers&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:19 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:21 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1257" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.day.night.live.wallpapers&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:21 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:22 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1482" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.day.night.live.wallpapers&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:22 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:24 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1584" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.day.night.live.wallpapers&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:24 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:25 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1420" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.day.night.live.wallpapers&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:25 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:27 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1567" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.day.night.live.wallpapers&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:27 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:28 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1461" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.day.night.live.wallpapers&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:28 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:29 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1187" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.suvichar.photo&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:29 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:31 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1386" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:31 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:32 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1530" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:32 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:34 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1630" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:34 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:35 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1305" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:35 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:37 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1392" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:37 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:39 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="2285" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.fungames.sniper3d&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:39 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:40 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1394" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.trdev.translt.ploet&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:40 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:43 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="2482" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid6502925584&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:43 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:44 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1454" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.trdev.translt.ploet&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:44 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:46 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1372" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:46 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:48 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="2619" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid6744350345&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:48 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:50 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1558" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.dialo.great&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:50 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:51 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1414" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.artgenerator.texttoimage.aiart.outpaiting&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:51 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:53 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="1456" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.antitheft.smartapp.donottouch.alarm.donttouchmyphone&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="analyseURLs(java.lang.String)[pri:2, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:53 IST" name="analyseURLs" data-provider="excelData" finished-at="2025-06-26T14:58:55 IST" depends-on-methods="Test_Case.Meta_Master_Code.Fetchdata" duration-ms="2469" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid6478513085&h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- analyseURLs -->
+        <test-method signature="deleteExcelIfNoSheet()[pri:3, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:55 IST" name="deleteExcelIfNoSheet" finished-at="2025-06-26T14:58:55 IST" depends-on-methods="Test_Case.Meta_Master_Code.analyseURLs" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteExcelIfNoSheet -->
+        <test-method is-config="true" signature="closebroser()[pri:0, instance:Test_Case.Meta_Master_Code@6a78afa0]" started-at="2025-06-26T14:58:55 IST" name="closebroser" finished-at="2025-06-26T14:58:56 IST" duration-ms="657" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closebroser -->

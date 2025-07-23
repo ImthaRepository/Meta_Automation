@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="155.591" tests="38" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="527.473" tests="93" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
-    <property name="sun.java.command" value="C:\Users\Ram prathees\AppData\Local\Temp\surefire974255129093009233\surefirebooter-20250620183632211_3.jar C:\Users\Ram prathees\AppData\Local\Temp\surefire974255129093009233 2025-06-20T18-36-32_055-jvmRun1 surefire-20250620183632211_1tmp surefire_0-20250620183632211_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Ram prathees\AppData\Local\Temp\surefire4495867108287119752\surefirebooter-20250626145008564_3.jar C:\Users\Ram prathees\AppData\Local\Temp\surefire4495867108287119752 2025-06-26T14-50-08_413-jvmRun1 surefire-20250626145008564_1tmp surefire_0-20250626145008564_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Ram prathees\eclipse-workspace\DCI.Meta_Automation\target\test-classes;C:\Users\Ram prathees\eclipse-workspace\DCI.Meta_Automation\target\classes;C:\Users\Ram prathees\.m2\repository\org\seleniumhq\selenium\selenium-java\4.18.1\selenium-java-4.18.1.jar;C:\Users\Ram prathees\.m2\repository\org\seleniumhq\selenium\selenium-api\4.18.1\selenium-api-4.18.1.jar;C:\Users\Ram prathees\.m2\repository\org\seleniumhq\selenium\selenium-chrome-driver\4.18.1\selenium-chrome-driver-4.18.1.jar;C:\Users\Ram prathees\.m2\repository\com\google\auto\service\auto-service-annotations\1.1.1\auto-service-annotations-1.1.1.jar;C:\Users\Ram prathees\.m2\repository\org\seleniumhq\selenium\selenium-chromium-driver\4.18.1\selenium-chromium-driver-4.18.1.jar;C:\Users\Ram prathees\.m2\repository\org\seleniumhq\selenium\selenium-json\4.18.1\selenium-json-4.18.1.jar;C:\Users\Ram prathees\.m2\repository\org\seleniumhq\selenium\selenium-manager\4.18.1\selenium-manager-4.18.1.jar;C:\Users\Ram prathees\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v120\4.18.1\selenium-devtools-v120-4.18.1.jar;C:\Users\Ram prathees\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v121\4.18.1\selenium-devtools-v121-4.18.1.jar;C:\Users\Ram prathees\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v122\4.18.1\selenium-devtools-v122-4.18.1.jar;C:\Users\Ram prathees\.m2\repository\org\seleniumhq\selenium\selenium-devtools-v85\4.18.1\selenium-devtools-v85-4.18.1.jar;C:\Users\Ram prathees\.m2\repository\org\seleniumhq\selenium\selenium-edge-driver\4.18.1\selenium-edge-driver-4.18.1.jar;C:\Users\Ram prathees\.m2\repository\org\seleniumhq\selenium\selenium-firefox-driver\4.18.1\selenium-firefox-driver-4.18.1.jar;C:\Users\Ram prathees\.m2\repository\org\seleniumhq\selenium\selenium-http\4.18.1\selenium-http-4.18.1.jar;C:\Users\Ram prathees\.m2\repository\dev\failsafe\failsafe\3.3.2\failsafe-3.3.2.jar;C:\Users\Ram prathees\.m2\repository\org\seleniumhq\selenium\selenium-ie-driver\4.18.1\selenium-ie-driver-4.18.1.jar;C:\Users\Ram prathees\.m2\repository\org\seleniumhq\selenium\selenium-remote-driver\4.18.1\selenium-remote-driver-4.18.1.jar;C:\Users\Ram prathees\.m2\repository\com\google\guava\guava\33.0.0-jre\guava-33.0.0-jre.jar;C:\Users\Ram prathees\.m2\repository\com\google\guava\failureaccess\1.0.2\failureaccess-1.0.2.jar;C:\Users\Ram prathees\.m2\repository\com\google\guava\listenablefuture\9999.0-empty-to-avoid-conflict-with-guava\listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar;C:\Users\Ram prathees\.m2\repository\com\google\code\findbugs\jsr305\3.0.2\jsr305-3.0.2.jar;C:\Users\Ram prathees\.m2\repository\org\checkerframework\checker-qual\3.41.0\checker-qual-3.41.0.jar;C:\Users\Ram prathees\.m2\repository\com\google\errorprone\error_prone_annotations\2.23.0\error_prone_annotations-2.23.0.jar;C:\Users\Ram prathees\.m2\repository\com\google\j2objc\j2objc-annotations\2.8\j2objc-annotations-2.8.jar;C:\Users\Ram prathees\.m2\repository\io\opentelemetry\semconv\opentelemetry-semconv\1.23.1-alpha\opentelemetry-semconv-1.23.1-alpha.jar;C:\Users\Ram prathees\.m2\repository\io\opentelemetry\opentelemetry-api\1.35.0\opentelemetry-api-1.35.0.jar;C:\Users\Ram prathees\.m2\repository\io\opentelemetry\opentelemetry-context\1.35.0\opentelemetry-context-1.35.0.jar;C:\Users\Ram prathees\.m2\repository\io\opentelemetry\opentelemetry-exporter-logging\1.35.0\opentelemetry-exporter-logging-1.35.0.jar;C:\Users\Ram prathees\.m2\repository\io\opentelemetry\opentelemetry-sdk-common\1.35.0\opentelemetry-sdk-common-1.35.0.jar;C:\Users\Ram prathees\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure-spi\1.35.0\opentelemetry-sdk-extension-autoconfigure-spi-1.35.0.jar;C:\Users\Ram prathees\.m2\repository\io\opentelemetry\opentelemetry-sdk-extension-autoconfigure\1.35.0\opentelemetry-sdk-extension-autoconfigure-1.35.0.jar;C:\Users\Ram prathees\.m2\repository\io\opentelemetry\opentelemetry-api-events\1.35.0-alpha\opentelemetry-api-events-1.35.0-alpha.jar;C:\Users\Ram prathees\.m2\repository\io\opentelemetry\opentelemetry-sdk-trace\1.35.0\opentelemetry-sdk-trace-1.35.0.jar;C:\Users\Ram prathees\.m2\repository\io\opentelemetry\opentelemetry-extension-incubator\1.35.0-alpha\opentelemetry-extension-incubator-1.35.0-alpha.jar;C:\Users\Ram prathees\.m2\repository\io\opentelemetry\opentelemetry-sdk\1.35.0\opentelemetry-sdk-1.35.0.jar;C:\Users\Ram prathees\.m2\repository\io\opentelemetry\opentelemetry-sdk-metrics\1.35.0\opentelemetry-sdk-metrics-1.35.0.jar;C:\Users\Ram prathees\.m2\repository\io\opentelemetry\opentelemetry-sdk-logs\1.35.0\opentelemetry-sdk-logs-1.35.0.jar;C:\Users\Ram prathees\.m2\repository\net\bytebuddy\byte-buddy\1.14.12\byte-buddy-1.14.12.jar;C:\Users\Ram prathees\.m2\repository\org\seleniumhq\selenium\selenium-os\4.18.1\selenium-os-4.18.1.jar;C:\Users\Ram prathees\.m2\repository\org\apache\commons\commons-exec\1.3\commons-exec-1.3.jar;C:\Users\Ram prathees\.m2\repository\org\seleniumhq\selenium\selenium-safari-driver\4.18.1\selenium-safari-driver-4.18.1.jar;C:\Users\Ram prathees\.m2\repository\org\seleniumhq\selenium\selenium-support\4.18.1\selenium-support-4.18.1.jar;C:\Users\Ram prathees\.m2\repository\org\testng\testng\7.9.0\testng-7.9.0.jar;C:\Users\Ram prathees\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\Ram prathees\.m2\repository\com\beust\jcommander\1.82\jcommander-1.82.jar;C:\Users\Ram prathees\.m2\repository\org\webjars\jquery\3.7.1\jquery-3.7.1.jar;C:\Users\Ram prathees\.m2\repository\io\github\bonigarcia\webdrivermanager\5.7.0\webdrivermanager-5.7.0.jar;C:\Users\Ram prathees\.m2\repository\com\google\code\gson\gson\2.10.1\gson-2.10.1.jar;C:\Users\Ram prathees\.m2\repository\com\github\docker-java\docker-java\3.3.5\docker-java-3.3.5.jar;C:\Users\Ram prathees\.m2\repository\com\github\docker-java\docker-java-core\3.3.5\docker-java-core-3.3.5.jar;C:\Users\Ram prathees\.m2\repository\com\github\docker-java\docker-java-api\3.3.5\docker-java-api-3.3.5.jar;C:\Users\Ram prathees\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.10.3\jackson-annotations-2.10.3.jar;C:\Users\Ram prathees\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.10.3\jackson-databind-2.10.3.jar;C:\Users\Ram prathees\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.10.3\jackson-core-2.10.3.jar;C:\Users\Ram prathees\.m2\repository\org\bouncycastle\bcpkix-jdk18on\1.76\bcpkix-jdk18on-1.76.jar;C:\Users\Ram prathees\.m2\repository\org\bouncycastle\bcprov-jdk18on\1.76\bcprov-jdk18on-1.76.jar;C:\Users\Ram prathees\.m2\repository\org\bouncycastle\bcutil-jdk18on\1.76\bcutil-jdk18on-1.76.jar;C:\Users\Ram prathees\.m2\repository\org\slf4j\jcl-over-slf4j\1.7.30\jcl-over-slf4j-1.7.30.jar;C:\Users\Ram prathees\.m2\repository\com\github\docker-java\docker-java-transport-httpclient5\3.3.5\docker-java-transport-httpclient5-3.3.5.jar;C:\Users\Ram prathees\.m2\repository\com\github\docker-java\docker-java-transport\3.3.5\docker-java-transport-3.3.5.jar;C:\Users\Ram prathees\.m2\repository\net\java\dev\jna\jna\5.13.0\jna-5.13.0.jar;C:\Users\Ram prathees\.m2\repository\org\brotli\dec\0.1.2\dec-0.1.2.jar;C:\Users\Ram prathees\.m2\repository\org\apache\commons\commons-compress\1.26.0\commons-compress-1.26.0.jar;C:\Users\Ram prathees\.m2\repository\org\apache\httpcomponents\client5\httpclient5\5.2.1\httpclient5-5.2.1.jar;C:\Users\Ram prathees\.m2\repository\org\apache\httpcomponents\core5\httpcore5\5.2\httpcore5-5.2.jar;C:\Users\Ram prathees\.m2\repository\org\apache\httpcomponents\core5\httpcore5-h2\5.2\httpcore5-h2-5.2.jar;C:\Users\Ram prathees\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;C:\Users\Ram prathees\.m2\repository\com\aventstack\extentreports\5.0.9\extentreports-5.0.9.jar;C:\Users\Ram prathees\.m2\repository\io\reactivex\rxjava3\rxjava\3.0.4\rxjava-3.0.4.jar;C:\Users\Ram prathees\.m2\repository\org\reactivestreams\reactive-streams\1.0.3\reactive-streams-1.0.3.jar;C:\Users\Ram prathees\.m2\repository\org\freemarker\freemarker\2.3.30\freemarker-2.3.30.jar;C:\Users\Ram prathees\.m2\repository\org\projectlombok\lombok\1.18.12\lombok-1.18.12.jar;C:\Users\Ram prathees\.m2\repository\org\apache\commons\commons-lang3\3.14.0\commons-lang3-3.14.0.jar;C:\Users\Ram prathees\.m2\repository\org\apache\poi\poi\5.2.3\poi-5.2.3.jar;C:\Users\Ram prathees\.m2\repository\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;C:\Users\Ram prathees\.m2\repository\org\apache\commons\commons-collections4\4.4\commons-collections4-4.4.jar;C:\Users\Ram prathees\.m2\repository\org\apache\commons\commons-math3\3.6.1\commons-math3-3.6.1.jar;C:\Users\Ram prathees\.m2\repository\com\zaxxer\SparseBitSet\1.2\SparseBitSet-1.2.jar;C:\Users\Ram prathees\.m2\repository\org\apache\logging\log4j\log4j-api\2.18.0\log4j-api-2.18.0.jar;C:\Users\Ram prathees\.m2\repository\org\apache\poi\poi-ooxml\5.2.3\poi-ooxml-5.2.3.jar;C:\Users\Ram prathees\.m2\repository\org\apache\poi\poi-ooxml-lite\5.2.3\poi-ooxml-lite-5.2.3.jar;C:\Users\Ram prathees\.m2\repository\org\apache\xmlbeans\xmlbeans\5.1.1\xmlbeans-5.1.1.jar;C:\Users\Ram prathees\.m2\repository\com\github\virtuald\curvesapi\1.07\curvesapi-1.07.jar;C:\Users\Ram prathees\.m2\repository\commons-io\commons-io\2.16.1\commons-io-2.16.1.jar;C:\Users\Ram prathees\.m2\repository\ru\yandex\qatools\ashot\ashot\1.5.4\ashot-1.5.4.jar;C:\Users\Ram prathees\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Ram prathees\AppData\Local\Temp\surefire974255129093009233\surefirebooter-20250620183632211_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Ram prathees\AppData\Local\Temp\surefire4495867108287119752\surefirebooter-20250626145008564_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.3+7-LTS-152"/>
@@ -58,8 +58,12 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="Fetchdata" classname="Test_Case.Meta_Master_Code" time="77.49">
+  <testcase name="Fetchdata" classname="Test_Case.Meta_Master_Code" time="366.573">
     <system-out><![CDATA[URL Entered
+India
+India has been Choosen
+Data Found
+The Number of Scroll count Entered is - 50
 Scroll: 0
 Scroll: 1
 Scroll: 2
@@ -71,14 +75,54 @@ Scroll: 7
 Scroll: 8
 Scroll: 9
 Scroll: 10
+Scroll: 11
+Scroll: 12
+Scroll: 13
+Scroll: 14
+Scroll: 15
+Scroll: 16
+Scroll: 17
+Scroll: 18
+Scroll: 19
+Scroll: 20
+Scroll: 21
+Scroll: 22
+Scroll: 23
+Scroll: 24
+Scroll: 25
+Scroll: 26
+Scroll: 27
+Scroll: 28
+Scroll: 29
+Scroll: 30
+Scroll: 31
+Scroll: 32
+Scroll: 33
+Scroll: 34
+Scroll: 35
+Scroll: 36
+Scroll: 37
+Scroll: 38
+Scroll: 39
+Scroll: 40
+Scroll: 41
+Scroll: 42
+Scroll: 43
+Scroll: 44
+Scroll: 45
+Scroll: 46
+Scroll: 47
+Scroll: 48
+Scroll: 49
+Scroll: 50
 Excel file created successfully!
-Total link is 54
-1 - Link is disabled
-Data written successfully.
-Data written successfully.
-4 - Link is disabled
-5 - Link is disabled
-6 - Link is disabled
+Total link is 133
+1 - Data written successfully.
+2 - Data written successfully.
+3 - Data written successfully.
+4 - Data written successfully.
+5 - Data written successfully.
+6 - Data written successfully.
 7 - Link is disabled
 8 - Link is disabled
 9 - Link is disabled
@@ -91,248 +135,701 @@ Data written successfully.
 16 - Link is disabled
 17 - Link is disabled
 18 - Link is disabled
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
+19 - Link is disabled
+20 - Link is disabled
+21 - Link is disabled
+22 - Link is disabled
 23 - Link is disabled
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
-Data written successfully.
+24 - Link is disabled
+25 - Link is disabled
+26 - Link is disabled
+27 - Data written successfully.
+28 - Link is disabled
+29 - Link is disabled
+30 - Link is disabled
+31 - Link is disabled
+32 - Link is disabled
+33 - Link is disabled
+34 - Link is disabled
+35 - Link is disabled
+36 - Link is disabled
+37 - Link is disabled
+38 - Link is disabled
+39 - Link is disabled
+40 - Data written successfully.
+41 - Data written successfully.
+42 - Data written successfully.
+43 - Data written successfully.
+44 - Data written successfully.
+45 - Data written successfully.
+46 - Data written successfully.
+47 - Data written successfully.
+48 - Data written successfully.
+49 - Data written successfully.
+50 - Data written successfully.
+51 - Data written successfully.
+52 - Data written successfully.
+53 - Data written successfully.
+54 - Data written successfully.
+55 - Data written successfully.
+56 - Data written successfully.
+57 - Data written successfully.
+58 - Data written successfully.
+59 - Data written successfully.
+60 - Data written successfully.
+61 - Data written successfully.
+62 - Data written successfully.
+63 - Data written successfully.
+64 - Data written successfully.
+65 - Data written successfully.
+66 - Data written successfully.
+67 - Data written successfully.
+68 - Data written successfully.
+69 - Data written successfully.
+70 - Data written successfully.
+71 - Data written successfully.
+72 - Data written successfully.
+73 - Data written successfully.
+74 - Link is disabled
+75 - Data written successfully.
+76 - Link is disabled
+77 - Data written successfully.
+78 - Data written successfully.
+79 - Link is disabled
+80 - Data written successfully.
+81 - Data written successfully.
+82 - Data written successfully.
+83 - Data written successfully.
+84 - Data written successfully.
+85 - Data written successfully.
+86 - Data written successfully.
+87 - Data written successfully.
+88 - Data written successfully.
+89 - Data written successfully.
+90 - Data written successfully.
+91 - Data written successfully.
+92 - Data written successfully.
+93 - Data written successfully.
+94 - Data written successfully.
+95 - Data written successfully.
+96 - Data written successfully.
+97 - Data written successfully.
+98 - Link is disabled
+99 - Data written successfully.
+100 - Data written successfully.
+101 - Data written successfully.
+102 - Data written successfully.
+103 - Data written successfully.
+104 - Data written successfully.
+105 - Data written successfully.
+106 - Data written successfully.
+107 - Data written successfully.
+108 - Data written successfully.
+109 - Data written successfully.
+110 - Data written successfully.
+111 - Data written successfully.
+112 - Link is disabled
+113 - Link is disabled
+114 - Link is disabled
+115 - Data written successfully.
+116 - Link is disabled
+117 - Data written successfully.
+118 - Data written successfully.
+119 - Data written successfully.
+120 - Data written successfully.
+121 - Data written successfully.
+122 - Data written successfully.
+123 - Data written successfully.
+124 - Data written successfully.
+125 - Link is disabled
+126 - Data written successfully.
+127 - Data written successfully.
+128 - Data written successfully.
+129 - Link is disabled
+130 - Data written successfully.
+131 - Data written successfully.
+132 - Data written successfully.
+133 - Data written successfully.
+Excel file has sheets, not deleted.
+Excel file created successfully!
 ]]></system-out>
     <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
 SLF4J: Defaulting to no-operation (NOP) logger implementation
 SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
-Jun 20, 2025 6:36:35 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+Jun 26, 2025 2:50:12 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 WARNING: Unable to find CDP implementation matching 137
-Jun 20, 2025 6:36:35 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+Jun 26, 2025 2:50:12 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
 WARNING: Unable to find version of CDP to use for 137.0.7151.120. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.18.1` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
 ERROR StatusLogger Log4j2 could not find a logging implementation. Please add log4j-core to the classpath. Using SimpleLogger to log to the console...
 ]]></system-err>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.recoveryphotos.videos.allfiles&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](1)" classname="Test_Case.Meta_Master_Code" time="2.092">
-    <system-out><![CDATA[5000000
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](1)" classname="Test_Case.Meta_Master_Code" time="2.627">
+    <system-out><![CDATA[10000000
 0 - The Downloads is more than 1M
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.aichat.chabot.aiassistant&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](2)" classname="Test_Case.Meta_Master_Code" time="1.573">
-    <system-out><![CDATA[500000
-Parsed rating: 2.7
-Data written successfully: https://play.google.com/store/apps/details?id=com.aichat.chabot.aiassistant
-Duplicate entry in the Mastersheet
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dco.shopney.zoukazjnmapp&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](2)" classname="Test_Case.Meta_Master_Code" time="1.822">
+    <system-out><![CDATA[100000
+Parsed rating: 4.4
+Data written successfully: https://play.google.com/store/apps/details?id=co.shopney.zoukazjnmapp
+Data Written in Mastersheet - https://play.google.com/store/apps/details?id=co.shopney.zoukazjnmapp
+Data written at row index: 0
 The rating is less than 4.5
 1 - link in written
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](3)" classname="Test_Case.Meta_Master_Code" time="1.331">
-    <system-out><![CDATA[10000000
-2 - The Downloads is more than 1M
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.ai.chat.askchat.app&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](3)" classname="Test_Case.Meta_Master_Code" time="3.83">
+    <system-out><![CDATA[50000
+No Rating is Given
+Data written successfully: https://play.google.com/store/apps/details?id=com.ai.chat.askchat.app
+Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.ai.chat.askchat.app
+Data written at row index: 1
+2 - link in written
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](4)" classname="Test_Case.Meta_Master_Code" time="1.319">
-    <system-out><![CDATA[10000000
-3 - The Downloads is more than 1M
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.tnibro&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](4)" classname="Test_Case.Meta_Master_Code" time="1.772">
+    <system-out><![CDATA[100000
+Parsed rating: 3.1
+Data written successfully: https://play.google.com/store/apps/details?id=com.tnibro
+Duplicate entry in the Mastersheet
+The rating is less than 4.5
+3 - link in written
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](5)" classname="Test_Case.Meta_Master_Code" time="1.302">
-    <system-out><![CDATA[10000000
-4 - The Downloads is more than 1M
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.tnibro&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](5)" classname="Test_Case.Meta_Master_Code" time="1.689">
+    <system-out><![CDATA[100000
+Parsed rating: 3.1
+Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.tnibro
+Duplicate entry in the Mastersheet
+The rating is less than 4.5
+4 - link in written
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](6)" classname="Test_Case.Meta_Master_Code" time="1.3">
-    <system-out><![CDATA[10000000
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.snapdrama.shortseries&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](6)" classname="Test_Case.Meta_Master_Code" time="2.234">
+    <system-out><![CDATA[1000000
 5 - The Downloads is more than 1M
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](7)" classname="Test_Case.Meta_Master_Code" time="1.272">
-    <system-out><![CDATA[10000000
-6 - The Downloads is more than 1M
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.buffalo.softwave.yoga&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](7)" classname="Test_Case.Meta_Master_Code" time="2.277">
+    <system-out><![CDATA[100000
+Parsed rating: 4.4
+Data written successfully: https://play.google.com/store/apps/details?id=com.buffalo.softwave.yoga
+Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.buffalo.softwave.yoga
+Data written at row index: 2
+The rating is less than 4.5
+6 - link in written
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](8)" classname="Test_Case.Meta_Master_Code" time="1.253">
-    <system-out><![CDATA[10000000
-7 - The Downloads is more than 1M
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dantitheftalarm.donttouchmyphone.antipro&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](8)" classname="Test_Case.Meta_Master_Code" time="2.508">
+    <system-out><![CDATA[500000
+Parsed rating: 4.4
+Data written successfully: https://play.google.com/store/apps/details?id=antitheftalarm.donttouchmyphone.antipro
+Duplicate entry in the Mastersheet
+The rating is less than 4.5
+7 - link in written
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](9)" classname="Test_Case.Meta_Master_Code" time="1.306">
-    <system-out><![CDATA[10000000
-8 - The Downloads is more than 1M
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dantitheftalarm.donttouchmyphone.antipro&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](9)" classname="Test_Case.Meta_Master_Code" time="2.403">
+    <system-out><![CDATA[500000
+Parsed rating: 4.4
+Duplicate entry skipped: https://play.google.com/store/apps/details?id=antitheftalarm.donttouchmyphone.antipro
+Duplicate entry in the Mastersheet
+The rating is less than 4.5
+8 - link in written
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](10)" classname="Test_Case.Meta_Master_Code" time="1.473">
-    <system-out><![CDATA[100000000
-9 - The Downloads is more than 1M
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dantitheftalarm.donttouchmyphone.antipro&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](10)" classname="Test_Case.Meta_Master_Code" time="2.532">
+    <system-out><![CDATA[500000
+Parsed rating: 4.4
+Duplicate entry skipped: https://play.google.com/store/apps/details?id=antitheftalarm.donttouchmyphone.antipro
+Duplicate entry in the Mastersheet
+The rating is less than 4.5
+9 - link in written
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid6466400444&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](11)" classname="Test_Case.Meta_Master_Code" time="3.091">
-    <system-out><![CDATA[10 - The link is App store or other site
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dantitheftalarm.donttouchmyphone.antipro&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](11)" classname="Test_Case.Meta_Master_Code" time="1.688">
+    <system-out><![CDATA[500000
+Parsed rating: 4.4
+Duplicate entry skipped: https://play.google.com/store/apps/details?id=antitheftalarm.donttouchmyphone.antipro
+Duplicate entry in the Mastersheet
+The rating is less than 4.5
+10 - link in written
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid6466400444&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](12)" classname="Test_Case.Meta_Master_Code" time="1.666">
-    <system-out><![CDATA[11 - The link is App store or other site
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Daiart.ai.photo.aiphotogenerator&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](12)" classname="Test_Case.Meta_Master_Code" time="1.557">
+    <system-out><![CDATA[1000000
+11 - The Downloads is more than 1M
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid6466400444&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](13)" classname="Test_Case.Meta_Master_Code" time="1.573">
-    <system-out><![CDATA[12 - The link is App store or other site
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dprankcall.fakevideocall.idolcall.chat&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](13)" classname="Test_Case.Meta_Master_Code" time="2.088">
+    <system-out><![CDATA[1000000
+12 - The Downloads is more than 1M
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid6466400444&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](14)" classname="Test_Case.Meta_Master_Code" time="1.578">
-    <system-out><![CDATA[13 - The link is App store or other site
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dprankcall.fakevideocall.idolcall.chat&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](14)" classname="Test_Case.Meta_Master_Code" time="2.376">
+    <system-out><![CDATA[1000000
+13 - The Downloads is more than 1M
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](15)" classname="Test_Case.Meta_Master_Code" time="1.302">
-    <system-out><![CDATA[50000000
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grow.score&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](15)" classname="Test_Case.Meta_Master_Code" time="2.03">
+    <system-out><![CDATA[1000000
 14 - The Downloads is more than 1M
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.athena.ayushdev&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](16)" classname="Test_Case.Meta_Master_Code" time="14.775">
-    <system-out><![CDATA[1000
-Parsed rating: 4.4
-Data written successfully: https://play.google.com/store/apps/details?id=com.athena.ayushdev
-Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.athena.ayushdev
-The rating is less than 4.5
-15 - link in written
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grow.score&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](16)" classname="Test_Case.Meta_Master_Code" time="1.352">
+    <system-out><![CDATA[1000000
+15 - The Downloads is more than 1M
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.w_14735706&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](17)" classname="Test_Case.Meta_Master_Code" time="3.606">
-    <system-out><![CDATA[50000
-Parsed rating: 2.7
-Data written successfully: https://play.google.com/store/apps/details?id=com.w_14735706
-Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.w_14735706
-The rating is less than 4.5
-16 - link in written
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grow.score&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](17)" classname="Test_Case.Meta_Master_Code" time="1.267">
+    <system-out><![CDATA[1000000
+16 - The Downloads is more than 1M
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.w_14735706&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](18)" classname="Test_Case.Meta_Master_Code" time="1.315">
-    <system-out><![CDATA[50000
-Parsed rating: 2.7
-Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.w_14735706
-Duplicate entry in the Mastersheet
-The rating is less than 4.5
-17 - link in written
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grow.score&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](18)" classname="Test_Case.Meta_Master_Code" time="1.335">
+    <system-out><![CDATA[1000000
+17 - The Downloads is more than 1M
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](19)" classname="Test_Case.Meta_Master_Code" time="1.245">
-    <system-out><![CDATA[50000000
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grow.score&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](19)" classname="Test_Case.Meta_Master_Code" time="1.385">
+    <system-out><![CDATA[1000000
 18 - The Downloads is more than 1M
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](20)" classname="Test_Case.Meta_Master_Code" time="1.228">
-    <system-out><![CDATA[100000000
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grow.score&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](20)" classname="Test_Case.Meta_Master_Code" time="1.353">
+    <system-out><![CDATA[1000000
 19 - The Downloads is more than 1M
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](21)" classname="Test_Case.Meta_Master_Code" time="1.345">
-    <system-out><![CDATA[100000000
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grow.score&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](21)" classname="Test_Case.Meta_Master_Code" time="1.309">
+    <system-out><![CDATA[1000000
 20 - The Downloads is more than 1M
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](22)" classname="Test_Case.Meta_Master_Code" time="1.269">
-    <system-out><![CDATA[100000000
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grow.score&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](22)" classname="Test_Case.Meta_Master_Code" time="1.612">
+    <system-out><![CDATA[1000000
 21 - The Downloads is more than 1M
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](23)" classname="Test_Case.Meta_Master_Code" time="1.239">
-    <system-out><![CDATA[100000000
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grow.score&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](23)" classname="Test_Case.Meta_Master_Code" time="1.252">
+    <system-out><![CDATA[1000000
 22 - The Downloads is more than 1M
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](24)" classname="Test_Case.Meta_Master_Code" time="1.278">
-    <system-out><![CDATA[100000000
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grow.score&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](24)" classname="Test_Case.Meta_Master_Code" time="1.315">
+    <system-out><![CDATA[1000000
 23 - The Downloads is more than 1M
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](25)" classname="Test_Case.Meta_Master_Code" time="1.325">
-    <system-out><![CDATA[100000000
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grow.score&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](25)" classname="Test_Case.Meta_Master_Code" time="1.77">
+    <system-out><![CDATA[1000000
 24 - The Downloads is more than 1M
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](26)" classname="Test_Case.Meta_Master_Code" time="1.178">
-    <system-out><![CDATA[50000000
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grow.score&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](26)" classname="Test_Case.Meta_Master_Code" time="1.622">
+    <system-out><![CDATA[1000000
 25 - The Downloads is more than 1M
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](27)" classname="Test_Case.Meta_Master_Code" time="1.203">
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.crafto.android&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](27)" classname="Test_Case.Meta_Master_Code" time="1.609">
     <system-out><![CDATA[50000000
 26 - The Downloads is more than 1M
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](28)" classname="Test_Case.Meta_Master_Code" time="1.259">
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.crafto.android&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](28)" classname="Test_Case.Meta_Master_Code" time="1.397">
     <system-out><![CDATA[50000000
 27 - The Downloads is more than 1M
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](29)" classname="Test_Case.Meta_Master_Code" time="1.241">
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.crafto.android&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](29)" classname="Test_Case.Meta_Master_Code" time="1.376">
     <system-out><![CDATA[50000000
 28 - The Downloads is more than 1M
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](30)" classname="Test_Case.Meta_Master_Code" time="1.303">
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.inspironlabs.taxisanchalak&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](30)" classname="Test_Case.Meta_Master_Code" time="1.547">
+    <system-out><![CDATA[100000
+Parsed rating: 3.8
+Data written successfully: https://play.google.com/store/apps/details?id=com.inspironlabs.taxisanchalak
+Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.inspironlabs.taxisanchalak
+Data written at row index: 3
+The rating is less than 4.5
+29 - link in written
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.app.malgopay&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](31)" classname="Test_Case.Meta_Master_Code" time="1.837">
+    <system-out><![CDATA[10000
+Parsed rating: 4.2
+Data written successfully: https://play.google.com/store/apps/details?id=com.app.malgopay
+Duplicate entry in the Mastersheet
+The rating is less than 4.5
+30 - link in written
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.crafto.android&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](32)" classname="Test_Case.Meta_Master_Code" time="1.45">
     <system-out><![CDATA[50000000
-29 - The Downloads is more than 1M
-]]></system-out>
-  </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](31)" classname="Test_Case.Meta_Master_Code" time="1.348">
-    <system-out><![CDATA[100000000
-30 - The Downloads is more than 1M
-]]></system-out>
-  </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](32)" classname="Test_Case.Meta_Master_Code" time="1.218">
-    <system-out><![CDATA[100000000
 31 - The Downloads is more than 1M
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](33)" classname="Test_Case.Meta_Master_Code" time="1.284">
-    <system-out><![CDATA[100000000
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](33)" classname="Test_Case.Meta_Master_Code" time="1.572">
+    <system-out><![CDATA[10000000
 32 - The Downloads is more than 1M
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](34)" classname="Test_Case.Meta_Master_Code" time="1.222">
-    <system-out><![CDATA[100000000
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](34)" classname="Test_Case.Meta_Master_Code" time="1.464">
+    <system-out><![CDATA[10000000
 33 - The Downloads is more than 1M
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](35)" classname="Test_Case.Meta_Master_Code" time="1.241">
-    <system-out><![CDATA[100000000
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](35)" classname="Test_Case.Meta_Master_Code" time="1.406">
+    <system-out><![CDATA[10000000
 34 - The Downloads is more than 1M
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](36)" classname="Test_Case.Meta_Master_Code" time="1.294">
-    <system-out><![CDATA[100000000
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](36)" classname="Test_Case.Meta_Master_Code" time="1.648">
+    <system-out><![CDATA[10000000
 35 - The Downloads is more than 1M
 ]]></system-out>
   </testcase>
-  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&amp;h=AT2518dKX-LL0oR7zQh3GJXyI-IVm3kSxlECFfA8r5X2UcIKkBkuQqI-LuSjuCxqzhwWj7iGrfPKwmpPvOsmGcUlOR7oxT2Ntcn0L4-RBe6BSQg7EX7PK7eFo2PbQ6B9Y4DopigXuOMPpacRhOVAnA](37)" classname="Test_Case.Meta_Master_Code" time="1.281">
-    <system-out><![CDATA[100000000
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](37)" classname="Test_Case.Meta_Master_Code" time="1.427">
+    <system-out><![CDATA[10000000
 36 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](38)" classname="Test_Case.Meta_Master_Code" time="1.438">
+    <system-out><![CDATA[10000000
+37 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.radio.pocketfm&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](39)" classname="Test_Case.Meta_Master_Code" time="1.519">
+    <system-out><![CDATA[100000000
+38 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid1603285284&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](40)" classname="Test_Case.Meta_Master_Code" time="2.771">
+    <system-out><![CDATA[39 - The link is App store or other site
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grow.score&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](41)" classname="Test_Case.Meta_Master_Code" time="1.468">
+    <system-out><![CDATA[1000000
+40 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](42)" classname="Test_Case.Meta_Master_Code" time="1.712">
+    <system-out><![CDATA[50000000
+41 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](43)" classname="Test_Case.Meta_Master_Code" time="1.594">
+    <system-out><![CDATA[50000000
+42 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Daiart.aiphoto.aiartgenerator&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](44)" classname="Test_Case.Meta_Master_Code" time="1.564">
+    <system-out><![CDATA[1000
+No Rating is Given
+Data written successfully: https://play.google.com/store/apps/details?id=aiart.aiphoto.aiartgenerator
+Data Written in Mastersheet - https://play.google.com/store/apps/details?id=aiart.aiphoto.aiartgenerator
+Data written at row index: 4
+43 - link in written
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.amo.gps.geo.map.gpscamera&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](45)" classname="Test_Case.Meta_Master_Code" time="1.552">
+    <system-out><![CDATA[1000
+No Rating is Given
+Data written successfully: https://play.google.com/store/apps/details?id=com.amo.gps.geo.map.gpscamera
+Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.amo.gps.geo.map.gpscamera
+Data written at row index: 5
+44 - link in written
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](46)" classname="Test_Case.Meta_Master_Code" time="1.775">
+    <system-out><![CDATA[50000000
+45 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.amo.gps.geo.map.gpscamera&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](47)" classname="Test_Case.Meta_Master_Code" time="1.539">
+    <system-out><![CDATA[1000
+No Rating is Given
+Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.amo.gps.geo.map.gpscamera
+Duplicate entry in the Mastersheet
+46 - link in written
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.amo.gps.geo.map.gpscamera&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](48)" classname="Test_Case.Meta_Master_Code" time="1.558">
+    <system-out><![CDATA[1000
+No Rating is Given
+Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.amo.gps.geo.map.gpscamera
+Duplicate entry in the Mastersheet
+47 - link in written
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](49)" classname="Test_Case.Meta_Master_Code" time="1.591">
+    <system-out><![CDATA[50000000
+48 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](50)" classname="Test_Case.Meta_Master_Code" time="1.364">
+    <system-out><![CDATA[50000000
+49 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](51)" classname="Test_Case.Meta_Master_Code" time="1.422">
+    <system-out><![CDATA[50000000
+50 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.seekho.android&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](52)" classname="Test_Case.Meta_Master_Code" time="1.458">
+    <system-out><![CDATA[50000000
+51 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.grykuby.minesweeper&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](53)" classname="Test_Case.Meta_Master_Code" time="2.831">
+    <system-out><![CDATA[100000
+Parsed rating: 4.2
+Data written successfully: https://play.google.com/store/apps/details?id=com.grykuby.minesweeper
+Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.grykuby.minesweeper
+Data written at row index: 6
+The rating is less than 4.5
+52 - link in written
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid6742885800&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](54)" classname="Test_Case.Meta_Master_Code" time="2.685">
+    <system-out><![CDATA[53 - The link is App store or other site
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](55)" classname="Test_Case.Meta_Master_Code" time="1.556">
+    <system-out><![CDATA[10000000
+54 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](56)" classname="Test_Case.Meta_Master_Code" time="1.667">
+    <system-out><![CDATA[10000000
+55 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](57)" classname="Test_Case.Meta_Master_Code" time="1.424">
+    <system-out><![CDATA[10000000
+56 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dapp.tm&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](58)" classname="Test_Case.Meta_Master_Code" time="1.891">
+    <system-out><![CDATA[1000000
+57 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dapp.tm&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](59)" classname="Test_Case.Meta_Master_Code" time="1.778">
+    <system-out><![CDATA[1000000
+58 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dapp.tm&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](60)" classname="Test_Case.Meta_Master_Code" time="1.532">
+    <system-out><![CDATA[1000000
+59 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dapp.tm&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](61)" classname="Test_Case.Meta_Master_Code" time="1.601">
+    <system-out><![CDATA[1000000
+60 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dapp.tm&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](62)" classname="Test_Case.Meta_Master_Code" time="1.558">
+    <system-out><![CDATA[1000000
+61 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](63)" classname="Test_Case.Meta_Master_Code" time="1.755">
+    <system-out><![CDATA[10000000
+62 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid6636479582&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](64)" classname="Test_Case.Meta_Master_Code" time="2.716">
+    <system-out><![CDATA[63 - The link is App store or other site
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](65)" classname="Test_Case.Meta_Master_Code" time="1.489">
+    <system-out><![CDATA[10000000
+64 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](66)" classname="Test_Case.Meta_Master_Code" time="1.584">
+    <system-out><![CDATA[10000000
+65 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](67)" classname="Test_Case.Meta_Master_Code" time="1.387">
+    <system-out><![CDATA[10000000
+66 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](68)" classname="Test_Case.Meta_Master_Code" time="1.407">
+    <system-out><![CDATA[10000000
+67 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.day.night.live.wallpapers&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](69)" classname="Test_Case.Meta_Master_Code" time="1.605">
+    <system-out><![CDATA[500000
+Parsed rating: 4.2
+Data written successfully: https://play.google.com/store/apps/details?id=com.day.night.live.wallpapers
+Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.day.night.live.wallpapers
+Data written at row index: 7
+The rating is less than 4.5
+68 - link in written
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.day.night.live.wallpapers&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](70)" classname="Test_Case.Meta_Master_Code" time="1.252">
+    <system-out><![CDATA[500000
+Parsed rating: 4.2
+Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.day.night.live.wallpapers
+Duplicate entry in the Mastersheet
+The rating is less than 4.5
+69 - link in written
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.day.night.live.wallpapers&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](71)" classname="Test_Case.Meta_Master_Code" time="1.499">
+    <system-out><![CDATA[500000
+Parsed rating: 4.2
+Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.day.night.live.wallpapers
+Duplicate entry in the Mastersheet
+The rating is less than 4.5
+70 - link in written
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.day.night.live.wallpapers&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](72)" classname="Test_Case.Meta_Master_Code" time="1.575">
+    <system-out><![CDATA[500000
+Parsed rating: 4.2
+Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.day.night.live.wallpapers
+Duplicate entry in the Mastersheet
+The rating is less than 4.5
+71 - link in written
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.day.night.live.wallpapers&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](73)" classname="Test_Case.Meta_Master_Code" time="1.429">
+    <system-out><![CDATA[500000
+Parsed rating: 4.2
+Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.day.night.live.wallpapers
+Duplicate entry in the Mastersheet
+The rating is less than 4.5
+72 - link in written
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.day.night.live.wallpapers&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](74)" classname="Test_Case.Meta_Master_Code" time="1.57">
+    <system-out><![CDATA[500000
+Parsed rating: 4.2
+Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.day.night.live.wallpapers
+Duplicate entry in the Mastersheet
+The rating is less than 4.5
+73 - link in written
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.day.night.live.wallpapers&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](75)" classname="Test_Case.Meta_Master_Code" time="1.464">
+    <system-out><![CDATA[500000
+Parsed rating: 4.2
+Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.day.night.live.wallpapers
+Duplicate entry in the Mastersheet
+The rating is less than 4.5
+74 - link in written
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.suvichar.photo&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](76)" classname="Test_Case.Meta_Master_Code" time="1.185">
+    <system-out><![CDATA[50000
+Parsed rating: 4.0
+Data written successfully: https://play.google.com/store/apps/details?id=com.suvichar.photo
+Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.suvichar.photo
+Data written at row index: 8
+The rating is less than 4.5
+75 - link in written
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](77)" classname="Test_Case.Meta_Master_Code" time="1.374">
+    <system-out><![CDATA[10000000
+76 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](78)" classname="Test_Case.Meta_Master_Code" time="1.535">
+    <system-out><![CDATA[10000000
+77 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](79)" classname="Test_Case.Meta_Master_Code" time="1.624">
+    <system-out><![CDATA[10000000
+78 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](80)" classname="Test_Case.Meta_Master_Code" time="1.304">
+    <system-out><![CDATA[10000000
+79 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](81)" classname="Test_Case.Meta_Master_Code" time="1.393">
+    <system-out><![CDATA[10000000
+80 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.fungames.sniper3d&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](82)" classname="Test_Case.Meta_Master_Code" time="2.286">
+    <system-out><![CDATA[500000000
+81 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.trdev.translt.ploet&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](83)" classname="Test_Case.Meta_Master_Code" time="1.392">
+    <system-out><![CDATA[10000
+No Rating is Given
+Data written successfully: https://play.google.com/store/apps/details?id=com.trdev.translt.ploet
+Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.trdev.translt.ploet
+Data written at row index: 9
+82 - link in written
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid6502925584&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](84)" classname="Test_Case.Meta_Master_Code" time="2.488">
+    <system-out><![CDATA[83 - The link is App store or other site
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.trdev.translt.ploet&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](85)" classname="Test_Case.Meta_Master_Code" time="1.451">
+    <system-out><![CDATA[10000
+No Rating is Given
+Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.trdev.translt.ploet
+Duplicate entry in the Mastersheet
+84 - link in written
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.changdu.mobovideo&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](86)" classname="Test_Case.Meta_Master_Code" time="1.38">
+    <system-out><![CDATA[10000000
+85 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid6744350345&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](87)" classname="Test_Case.Meta_Master_Code" time="2.606">
+    <system-out><![CDATA[86 - The link is App store or other site
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.dialo.great&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](88)" classname="Test_Case.Meta_Master_Code" time="1.563">
+    <system-out><![CDATA[100000
+Parsed rating: 3.9
+Data written successfully: https://play.google.com/store/apps/details?id=com.dialo.great
+Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.dialo.great
+Data written at row index: 10
+The rating is less than 4.5
+87 - link in written
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.artgenerator.texttoimage.aiart.outpaiting&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](89)" classname="Test_Case.Meta_Master_Code" time="1.408">
+    <system-out><![CDATA[50000000
+88 - The Downloads is more than 1M
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.antitheft.smartapp.donottouch.alarm.donttouchmyphone&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](90)" classname="Test_Case.Meta_Master_Code" time="1.454">
+    <system-out><![CDATA[5000
+No Rating is Given
+Data written successfully: https://play.google.com/store/apps/details?id=com.antitheft.smartapp.donottouch.alarm.donttouchmyphone
+Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.antitheft.smartapp.donottouch.alarm.donttouchmyphone
+Data written at row index: 11
+89 - link in written
+]]></system-out>
+  </testcase>
+  <testcase name="analyseURLs[https://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Fid6478513085&amp;h=AT0_LgcnOpiaulXZde3e-MsjMBFRGcjUbKoZlIcpwvY_Jb0xkzLb-00v4Ia3fo_ELHhfXGB5qCz2NA_O5AvbUDdEcfnUU3wQywZCIgdhzITLDfI7MdZamhtPBEu75LlT3UjQLmQOURJD6yXKIx6Myw](91)" classname="Test_Case.Meta_Master_Code" time="2.47">
+    <system-out><![CDATA[90 - The link is App store or other site
+]]></system-out>
+  </testcase>
+  <testcase name="deleteExcelIfNoSheet" classname="Test_Case.Meta_Master_Code" time="0.008">
+    <system-out><![CDATA[Excel file has sheets, not deleted.
 ]]></system-out>
   </testcase>
 </testsuite>

@@ -1,0 +1,463 @@
+2025-07-14 11:42:42,670 INFO  Meta_Master_Code - The number of Runs input is - 4
+2025-07-14 11:42:42,670 INFO  Meta_Master_Code - ----- Running TestNG Suite: Run #1 -----
+2025-07-14 11:42:47,571 INFO  Meta_Master_Code - URL Entered
+2025-07-14 11:42:47,712 INFO  Meta_Master_Code - Entered country is - India
+2025-07-14 11:42:47,712 INFO  Meta_Master_Code - India has been Choosen
+2025-07-14 11:42:48,014 INFO  Meta_Master_Code - Data Found
+2025-07-14 11:42:48,021 INFO  Meta_Master_Code - The Number of Scroll count Entered is - 20
+2025-07-14 11:42:48,022 INFO  Meta_Master_Code - Scroll: 0
+2025-07-14 11:42:54,759 INFO  Meta_Master_Code - Scroll: 1
+2025-07-14 11:43:00,844 INFO  Meta_Master_Code - Scroll: 2
+2025-07-14 11:43:06,985 INFO  Meta_Master_Code - Scroll: 3
+2025-07-14 11:43:13,192 INFO  Meta_Master_Code - Scroll: 4
+2025-07-14 11:43:19,569 INFO  Meta_Master_Code - Scroll: 5
+2025-07-14 11:43:26,134 INFO  Meta_Master_Code - Scroll: 6
+2025-07-14 11:43:32,348 INFO  Meta_Master_Code - Scroll: 7
+2025-07-14 11:43:38,796 INFO  Meta_Master_Code - Scroll: 8
+2025-07-14 11:43:45,138 INFO  Meta_Master_Code - Scroll: 9
+2025-07-14 11:43:51,260 INFO  Meta_Master_Code - Scroll: 10
+2025-07-14 11:43:57,396 INFO  Meta_Master_Code - Scroll: 11
+2025-07-14 11:44:03,453 INFO  Meta_Master_Code - Scroll: 12
+2025-07-14 11:44:09,544 INFO  Meta_Master_Code - Scroll: 13
+2025-07-14 11:44:15,626 INFO  Meta_Master_Code - Scroll: 14
+2025-07-14 11:44:21,671 INFO  Meta_Master_Code - Scroll: 15
+2025-07-14 11:44:27,912 INFO  Meta_Master_Code - Scroll: 16
+2025-07-14 11:44:34,101 INFO  Meta_Master_Code - Scroll: 17
+2025-07-14 11:44:40,508 INFO  Meta_Master_Code - Scroll: 18
+2025-07-14 11:44:46,801 INFO  Meta_Master_Code - Scroll: 19
+2025-07-14 11:44:53,113 INFO  Meta_Master_Code - Scroll: 20
+2025-07-14 11:45:00,020 INFO  Meta_Master_Code - 2025.07.14.11.42.42 - Excel file created successfully!
+2025-07-14 11:45:00,060 INFO  Meta_Master_Code - Total link is 12
+2025-07-14 11:45:00,305 INFO  Meta_Master_Code - 1 - Data written successfully.
+2025-07-14 11:45:00,384 INFO  Meta_Master_Code - 2 - Data written successfully.
+2025-07-14 11:45:00,451 INFO  Meta_Master_Code - 3 - Data written successfully.
+2025-07-14 11:45:00,527 INFO  Meta_Master_Code - 4 - Data written successfully.
+2025-07-14 11:45:00,586 INFO  Meta_Master_Code - 5 - Data written successfully.
+2025-07-14 11:45:00,646 INFO  Meta_Master_Code - 6 - Data written successfully.
+2025-07-14 11:45:00,704 INFO  Meta_Master_Code - 7 - Data written successfully.
+2025-07-14 11:45:00,764 INFO  Meta_Master_Code - 8 - Data written successfully.
+2025-07-14 11:45:00,832 INFO  Meta_Master_Code - 9 - Data written successfully.
+2025-07-14 11:45:00,908 INFO  Meta_Master_Code - 10 - Data written successfully.
+2025-07-14 11:45:00,965 INFO  Meta_Master_Code - 11 - Data written successfully.
+2025-07-14 11:45:01,025 INFO  Meta_Master_Code - 12 - Data written successfully.
+2025-07-14 11:45:01,051 INFO  Meta_Master_Code - Excel file has sheets, not deleted.
+2025-07-14 11:45:01,074 INFO  Meta_Master_Code - 2025.07.14.11.42.42-India- New sheet - Excel file created successfully!
+2025-07-14 11:45:03,158 INFO  Meta_Master_Code - 0-The downloads Count is -100000
+2025-07-14 11:45:03,172 INFO  Meta_Master_Code - 0No Rating is Given
+2025-07-14 11:45:03,207 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.moneytracker.loan.currency
+2025-07-14 11:45:03,342 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:45:03,434 INFO  Meta_Master_Code - 0 - link in written
+2025-07-14 11:45:04,851 INFO  Meta_Master_Code - 1-The downloads Count is -100000
+2025-07-14 11:45:04,866 INFO  Meta_Master_Code - 1No Rating is Given
+2025-07-14 11:45:04,888 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.moneytracker.loan.currency
+2025-07-14 11:45:04,930 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:45:04,978 INFO  Meta_Master_Code - 1 - link in written
+2025-07-14 11:45:06,384 INFO  Meta_Master_Code - 2-The downloads Count is -10000
+2025-07-14 11:45:06,404 INFO  Meta_Master_Code - 2No Rating is Given
+2025-07-14 11:45:06,459 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.Neon9puriy.lkkop.wor
+2025-07-14 11:45:06,505 INFO  Meta_Master_Code - Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.Neon9puriy.lkkop.wor
+2025-07-14 11:45:06,540 INFO  Meta_Master_Code - Data written at row index: 0
+2025-07-14 11:45:06,615 INFO  Meta_Master_Code - 2 - link in written
+2025-07-14 11:45:08,179 INFO  Meta_Master_Code - 3-The downloads Count is -10000
+2025-07-14 11:45:08,203 INFO  Meta_Master_Code - 3No Rating is Given
+2025-07-14 11:45:08,220 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.Neon9puriy.lkkop.wor
+2025-07-14 11:45:08,265 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:45:08,318 INFO  Meta_Master_Code - 3 - link in written
+2025-07-14 11:45:09,679 INFO  Meta_Master_Code - 4-The downloads Count is -10000
+2025-07-14 11:45:09,698 INFO  Meta_Master_Code - 4No Rating is Given
+2025-07-14 11:45:09,714 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.Neon9puriy.lkkop.wor
+2025-07-14 11:45:09,752 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:45:09,794 INFO  Meta_Master_Code - 4 - link in written
+2025-07-14 11:45:11,036 INFO  Meta_Master_Code - 5-The downloads Count is -10000
+2025-07-14 11:45:11,053 INFO  Meta_Master_Code - 5No Rating is Given
+2025-07-14 11:45:11,072 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.Neon9puriy.lkkop.wor
+2025-07-14 11:45:11,108 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:45:11,150 INFO  Meta_Master_Code - 5 - link in written
+2025-07-14 11:45:12,448 INFO  Meta_Master_Code - 6-The downloads Count is -10000
+2025-07-14 11:45:12,466 INFO  Meta_Master_Code - 6No Rating is Given
+2025-07-14 11:45:12,482 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.Neon9puriy.lkkop.wor
+2025-07-14 11:45:12,516 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:45:12,559 INFO  Meta_Master_Code - 6 - link in written
+2025-07-14 11:45:15,612 INFO  Meta_Master_Code - 7 - The link is App store or other site
+2025-07-14 11:45:17,058 INFO  Meta_Master_Code - 8-The downloads Count is -1000000
+2025-07-14 11:45:17,085 INFO  Meta_Master_Code - Parsed rating: 4.8
+2025-07-14 11:45:17,085 INFO  Meta_Master_Code - 8 - The Rating Count is Greater than 4.5
+2025-07-14 11:45:18,530 INFO  Meta_Master_Code - 9-The downloads Count is -1000000
+2025-07-14 11:45:18,558 INFO  Meta_Master_Code - Parsed rating: 3.5
+2025-07-14 11:45:18,588 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.location.sharing.fwhere.mapswithme.android
+2025-07-14 11:45:18,681 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:45:18,750 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:45:18,750 INFO  Meta_Master_Code - 9 - link in written
+2025-07-14 11:45:20,264 INFO  Meta_Master_Code - 10-The downloads Count is -10000
+2025-07-14 11:45:20,291 INFO  Meta_Master_Code - Parsed rating: 4.5
+2025-07-14 11:45:20,318 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=io.carx.CarX
+2025-07-14 11:45:20,357 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:45:20,403 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:45:20,403 INFO  Meta_Master_Code - 10 - link in written
+2025-07-14 11:45:21,788 INFO  Meta_Master_Code - 11-The downloads Count is -1000000
+2025-07-14 11:45:21,815 INFO  Meta_Master_Code - Parsed rating: 4.3
+2025-07-14 11:45:21,847 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.zudo
+2025-07-14 11:45:21,889 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:45:21,917 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:45:21,917 INFO  Meta_Master_Code - 11 - link in written
+2025-07-14 11:45:21,938 INFO  Meta_Master_Code - Excel file has sheets, not deleted.
+2025-07-14 11:45:21,969 INFO  Meta_Master_Code - Total filtered Link count: 1
+2025-07-14 11:45:22,423 INFO  Meta_Master_Code - ----- Completed Run #1 -----
+
+2025-07-14 11:45:22,423 INFO  Meta_Master_Code - ----- Running TestNG Suite: Run #2 -----
+2025-07-14 11:45:26,666 INFO  Meta_Master_Code - URL Entered
+2025-07-14 11:45:26,696 INFO  Meta_Master_Code - Entered country is - India
+2025-07-14 11:45:26,696 INFO  Meta_Master_Code - India has been Choosen
+2025-07-14 11:45:26,974 INFO  Meta_Master_Code - Data Found
+2025-07-14 11:45:26,979 INFO  Meta_Master_Code - The Number of Scroll count Entered is - 20
+2025-07-14 11:45:26,979 INFO  Meta_Master_Code - Scroll: 0
+2025-07-14 11:45:33,326 INFO  Meta_Master_Code - Scroll: 1
+2025-07-14 11:45:39,794 INFO  Meta_Master_Code - Scroll: 2
+2025-07-14 11:45:45,941 INFO  Meta_Master_Code - Scroll: 3
+2025-07-14 11:45:53,127 INFO  Meta_Master_Code - Scroll: 4
+2025-07-14 11:46:00,133 INFO  Meta_Master_Code - Scroll: 5
+2025-07-14 11:46:06,369 INFO  Meta_Master_Code - Scroll: 6
+2025-07-14 11:46:13,104 INFO  Meta_Master_Code - Scroll: 7
+2025-07-14 11:46:19,252 INFO  Meta_Master_Code - Scroll: 8
+2025-07-14 11:46:26,067 INFO  Meta_Master_Code - Scroll: 9
+2025-07-14 11:46:32,288 INFO  Meta_Master_Code - Scroll: 10
+2025-07-14 11:46:38,389 INFO  Meta_Master_Code - Scroll: 11
+2025-07-14 11:46:44,446 INFO  Meta_Master_Code - Scroll: 12
+2025-07-14 11:46:50,741 INFO  Meta_Master_Code - Scroll: 13
+2025-07-14 11:46:56,897 INFO  Meta_Master_Code - Scroll: 14
+2025-07-14 11:47:03,048 INFO  Meta_Master_Code - Scroll: 15
+2025-07-14 11:47:09,295 INFO  Meta_Master_Code - Scroll: 16
+2025-07-14 11:47:15,422 INFO  Meta_Master_Code - Scroll: 17
+2025-07-14 11:47:21,897 INFO  Meta_Master_Code - Scroll: 18
+2025-07-14 11:47:28,062 INFO  Meta_Master_Code - Scroll: 19
+2025-07-14 11:47:34,206 INFO  Meta_Master_Code - Scroll: 20
+2025-07-14 11:47:40,355 INFO  Meta_Master_Code - 2025.07.14.11.42.42 - Excel file already exists. Skipping creation.
+2025-07-14 11:47:40,400 INFO  Meta_Master_Code - Total link is 11
+2025-07-14 11:47:40,589 INFO  Meta_Master_Code - 1 - Data written successfully.
+2025-07-14 11:47:40,799 INFO  Meta_Master_Code - 2 - Data written successfully.
+2025-07-14 11:47:41,070 INFO  Meta_Master_Code - 3 - Data written successfully.
+2025-07-14 11:47:41,136 INFO  Meta_Master_Code - 4 - Data written successfully.
+2025-07-14 11:47:41,185 INFO  Meta_Master_Code - 5 - Data written successfully.
+2025-07-14 11:47:41,232 INFO  Meta_Master_Code - 6 - Data written successfully.
+2025-07-14 11:47:41,284 INFO  Meta_Master_Code - 7 - Data written successfully.
+2025-07-14 11:47:41,335 INFO  Meta_Master_Code - 8 - Data written successfully.
+2025-07-14 11:47:41,386 INFO  Meta_Master_Code - 9 - Data written successfully.
+2025-07-14 11:47:41,437 INFO  Meta_Master_Code - 10 - Data written successfully.
+2025-07-14 11:47:41,487 INFO  Meta_Master_Code - 11 - Data written successfully.
+2025-07-14 11:47:41,497 INFO  Meta_Master_Code - Excel file has sheets, not deleted.
+2025-07-14 11:47:41,497 INFO  Meta_Master_Code - 2025.07.14.11.42.42-India- New sheet - Excel file already exists. Skipping creation.
+2025-07-14 11:47:43,700 INFO  Meta_Master_Code - 12-The downloads Count is -100000
+2025-07-14 11:47:43,717 INFO  Meta_Master_Code - 12No Rating is Given
+2025-07-14 11:47:43,734 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.moneytracker.loan.currency
+2025-07-14 11:47:43,804 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:47:43,861 INFO  Meta_Master_Code - 12 - link in written
+2025-07-14 11:47:45,413 INFO  Meta_Master_Code - 13-The downloads Count is -100000
+2025-07-14 11:47:45,429 INFO  Meta_Master_Code - 13No Rating is Given
+2025-07-14 11:47:45,453 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.moneytracker.loan.currency
+2025-07-14 11:47:45,476 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:47:45,499 INFO  Meta_Master_Code - 13 - link in written
+2025-07-14 11:47:47,391 INFO  Meta_Master_Code - 14 - The link is App store or other site
+2025-07-14 11:47:48,919 INFO  Meta_Master_Code - 15-The downloads Count is -100000000
+2025-07-14 11:47:48,919 INFO  Meta_Master_Code - 15 - The Downloads is more than 1M
+2025-07-14 11:47:50,304 INFO  Meta_Master_Code - 16-The downloads Count is -1000000
+2025-07-14 11:47:50,335 INFO  Meta_Master_Code - Parsed rating: 4.8
+2025-07-14 11:47:50,335 INFO  Meta_Master_Code - 16 - The Rating Count is Greater than 4.5
+2025-07-14 11:47:51,657 INFO  Meta_Master_Code - 17-The downloads Count is -1000000
+2025-07-14 11:47:51,686 INFO  Meta_Master_Code - Parsed rating: 3.5
+2025-07-14 11:47:51,701 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.location.sharing.fwhere.mapswithme.android
+2025-07-14 11:47:51,720 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:47:51,761 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:47:51,761 INFO  Meta_Master_Code - 17 - link in written
+2025-07-14 11:47:53,043 INFO  Meta_Master_Code - 18-The downloads Count is -10000
+2025-07-14 11:47:53,070 INFO  Meta_Master_Code - Parsed rating: 4.5
+2025-07-14 11:47:53,083 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=io.carx.CarX
+2025-07-14 11:47:53,101 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:47:53,124 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:47:53,124 INFO  Meta_Master_Code - 18 - link in written
+2025-07-14 11:47:54,597 INFO  Meta_Master_Code - 19-The downloads Count is -1000000
+2025-07-14 11:47:54,626 INFO  Meta_Master_Code - Parsed rating: 4.3
+2025-07-14 11:47:54,636 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.zudo
+2025-07-14 11:47:54,655 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:47:54,672 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:47:54,672 INFO  Meta_Master_Code - 19 - link in written
+2025-07-14 11:47:56,116 INFO  Meta_Master_Code - 20-The downloads Count is -1000000
+2025-07-14 11:47:56,139 INFO  Meta_Master_Code - Parsed rating: 4.3
+2025-07-14 11:47:56,154 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.zudo
+2025-07-14 11:47:56,182 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:47:56,208 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:47:56,208 INFO  Meta_Master_Code - 20 - link in written
+2025-07-14 11:47:57,563 INFO  Meta_Master_Code - 21-The downloads Count is -1000000
+2025-07-14 11:47:57,590 INFO  Meta_Master_Code - Parsed rating: 4.3
+2025-07-14 11:47:57,600 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.zudo
+2025-07-14 11:47:57,618 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:47:57,642 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:47:57,642 INFO  Meta_Master_Code - 21 - link in written
+2025-07-14 11:47:58,988 INFO  Meta_Master_Code - 22-The downloads Count is -1000000
+2025-07-14 11:47:59,017 INFO  Meta_Master_Code - Parsed rating: 3.5
+2025-07-14 11:47:59,031 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.location.sharing.fwhere.mapswithme.android
+2025-07-14 11:47:59,059 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:47:59,092 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:47:59,092 INFO  Meta_Master_Code - 22 - link in written
+2025-07-14 11:48:00,416 INFO  Meta_Master_Code - 23-The downloads Count is -1000000
+2025-07-14 11:48:00,446 INFO  Meta_Master_Code - Parsed rating: 4.3
+2025-07-14 11:48:00,459 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.zudo
+2025-07-14 11:48:00,481 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:48:00,510 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:48:00,510 INFO  Meta_Master_Code - 23 - link in written
+2025-07-14 11:48:00,527 INFO  Meta_Master_Code - Excel file has sheets, not deleted.
+2025-07-14 11:48:00,544 INFO  Meta_Master_Code - Total filtered Link count: 1
+2025-07-14 11:48:00,969 INFO  Meta_Master_Code - ----- Completed Run #2 -----
+
+2025-07-14 11:48:00,969 INFO  Meta_Master_Code - ----- Running TestNG Suite: Run #3 -----
+2025-07-14 11:48:05,420 INFO  Meta_Master_Code - URL Entered
+2025-07-14 11:48:05,500 INFO  Meta_Master_Code - Entered country is - India
+2025-07-14 11:48:05,500 INFO  Meta_Master_Code - India has been Choosen
+2025-07-14 11:48:05,720 INFO  Meta_Master_Code - Data Found
+2025-07-14 11:48:05,727 INFO  Meta_Master_Code - The Number of Scroll count Entered is - 20
+2025-07-14 11:48:05,727 INFO  Meta_Master_Code - Scroll: 0
+2025-07-14 11:48:11,782 INFO  Meta_Master_Code - Scroll: 1
+2025-07-14 11:48:17,884 INFO  Meta_Master_Code - Scroll: 2
+2025-07-14 11:48:24,080 INFO  Meta_Master_Code - Scroll: 3
+2025-07-14 11:48:30,424 INFO  Meta_Master_Code - Scroll: 4
+2025-07-14 11:48:37,433 INFO  Meta_Master_Code - Scroll: 5
+2025-07-14 11:48:43,547 INFO  Meta_Master_Code - Scroll: 6
+2025-07-14 11:48:49,665 INFO  Meta_Master_Code - Scroll: 7
+2025-07-14 11:48:55,944 INFO  Meta_Master_Code - Scroll: 8
+2025-07-14 11:49:02,350 INFO  Meta_Master_Code - Scroll: 9
+2025-07-14 11:49:08,524 INFO  Meta_Master_Code - Scroll: 10
+2025-07-14 11:49:14,642 INFO  Meta_Master_Code - Scroll: 11
+2025-07-14 11:49:20,674 INFO  Meta_Master_Code - Scroll: 12
+2025-07-14 11:49:26,809 INFO  Meta_Master_Code - Scroll: 13
+2025-07-14 11:49:33,280 INFO  Meta_Master_Code - Scroll: 14
+2025-07-14 11:49:39,340 INFO  Meta_Master_Code - Scroll: 15
+2025-07-14 11:49:45,441 INFO  Meta_Master_Code - Scroll: 16
+2025-07-14 11:49:52,309 INFO  Meta_Master_Code - Scroll: 17
+2025-07-14 11:49:58,433 INFO  Meta_Master_Code - Scroll: 18
+2025-07-14 11:50:04,565 INFO  Meta_Master_Code - Scroll: 19
+2025-07-14 11:50:10,774 INFO  Meta_Master_Code - Scroll: 20
+2025-07-14 11:50:16,919 INFO  Meta_Master_Code - 2025.07.14.11.42.42 - Excel file already exists. Skipping creation.
+2025-07-14 11:50:16,963 INFO  Meta_Master_Code - Total link is 16
+2025-07-14 11:50:17,026 INFO  Meta_Master_Code - 1 - Data written successfully.
+2025-07-14 11:50:17,087 INFO  Meta_Master_Code - 2 - Data written successfully.
+2025-07-14 11:50:17,137 INFO  Meta_Master_Code - 3 - Data written successfully.
+2025-07-14 11:50:17,207 INFO  Meta_Master_Code - 4 - Data written successfully.
+2025-07-14 11:50:17,260 INFO  Meta_Master_Code - 5 - Data written successfully.
+2025-07-14 11:50:17,311 INFO  Meta_Master_Code - 6 - Data written successfully.
+2025-07-14 11:50:17,364 INFO  Meta_Master_Code - 7 - Data written successfully.
+2025-07-14 11:50:17,422 INFO  Meta_Master_Code - 8 - Data written successfully.
+2025-07-14 11:50:17,487 INFO  Meta_Master_Code - 9 - Data written successfully.
+2025-07-14 11:50:17,556 INFO  Meta_Master_Code - 10 - Data written successfully.
+2025-07-14 11:50:17,626 INFO  Meta_Master_Code - 11 - Data written successfully.
+2025-07-14 11:50:17,700 INFO  Meta_Master_Code - 12 - Data written successfully.
+2025-07-14 11:50:17,755 INFO  Meta_Master_Code - 13 - Data written successfully.
+2025-07-14 11:50:17,803 INFO  Meta_Master_Code - 14 - Data written successfully.
+2025-07-14 11:50:17,859 INFO  Meta_Master_Code - 15 - Data written successfully.
+2025-07-14 11:50:17,916 INFO  Meta_Master_Code - 16 - Data written successfully.
+2025-07-14 11:50:17,924 INFO  Meta_Master_Code - Excel file has sheets, not deleted.
+2025-07-14 11:50:17,924 INFO  Meta_Master_Code - 2025.07.14.11.42.42-India- New sheet - Excel file already exists. Skipping creation.
+2025-07-14 11:50:21,021 INFO  Meta_Master_Code - 24 - The link is App store or other site
+2025-07-14 11:50:23,219 INFO  Meta_Master_Code - 25-The downloads Count is -100000
+2025-07-14 11:50:23,231 INFO  Meta_Master_Code - 25No Rating is Given
+2025-07-14 11:50:23,240 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.moneytracker.loan.currency
+2025-07-14 11:50:23,256 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:50:23,272 INFO  Meta_Master_Code - 25 - link in written
+2025-07-14 11:50:24,699 INFO  Meta_Master_Code - 26-The downloads Count is -100000
+2025-07-14 11:50:24,711 INFO  Meta_Master_Code - 26No Rating is Given
+2025-07-14 11:50:24,725 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.moneytracker.loan.currency
+2025-07-14 11:50:24,744 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:50:24,772 INFO  Meta_Master_Code - 26 - link in written
+2025-07-14 11:50:26,216 INFO  Meta_Master_Code - 27-The downloads Count is -10000
+2025-07-14 11:50:26,232 INFO  Meta_Master_Code - 27No Rating is Given
+2025-07-14 11:50:26,244 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.Neon9puriy.lkkop.wor
+2025-07-14 11:50:26,270 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:50:26,292 INFO  Meta_Master_Code - 27 - link in written
+2025-07-14 11:50:27,664 INFO  Meta_Master_Code - 28-The downloads Count is -10000
+2025-07-14 11:50:27,680 INFO  Meta_Master_Code - 28No Rating is Given
+2025-07-14 11:50:27,692 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.Neon9puriy.lkkop.wor
+2025-07-14 11:50:27,708 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:50:27,747 INFO  Meta_Master_Code - 28 - link in written
+2025-07-14 11:50:29,082 INFO  Meta_Master_Code - 29-The downloads Count is -10000
+2025-07-14 11:50:29,097 INFO  Meta_Master_Code - 29No Rating is Given
+2025-07-14 11:50:29,107 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.Neon9puriy.lkkop.wor
+2025-07-14 11:50:29,122 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:50:29,164 INFO  Meta_Master_Code - 29 - link in written
+2025-07-14 11:50:30,461 INFO  Meta_Master_Code - 30-The downloads Count is -10000
+2025-07-14 11:50:30,477 INFO  Meta_Master_Code - 30No Rating is Given
+2025-07-14 11:50:30,489 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.Neon9puriy.lkkop.wor
+2025-07-14 11:50:30,508 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:50:30,531 INFO  Meta_Master_Code - 30 - link in written
+2025-07-14 11:50:31,866 INFO  Meta_Master_Code - 31-The downloads Count is -10000
+2025-07-14 11:50:31,879 INFO  Meta_Master_Code - 31No Rating is Given
+2025-07-14 11:50:31,891 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.Neon9puriy.lkkop.wor
+2025-07-14 11:50:31,907 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:50:31,929 INFO  Meta_Master_Code - 31 - link in written
+2025-07-14 11:50:33,552 INFO  Meta_Master_Code - 32 - The link is App store or other site
+2025-07-14 11:50:35,078 INFO  Meta_Master_Code - 33-The downloads Count is -100000000
+2025-07-14 11:50:35,078 INFO  Meta_Master_Code - 33 - The Downloads is more than 1M
+2025-07-14 11:50:36,548 INFO  Meta_Master_Code - 34-The downloads Count is -1000000
+2025-07-14 11:50:36,571 INFO  Meta_Master_Code - Parsed rating: 4.8
+2025-07-14 11:50:36,571 INFO  Meta_Master_Code - 34 - The Rating Count is Greater than 4.5
+2025-07-14 11:50:37,997 INFO  Meta_Master_Code - 35-The downloads Count is -1000000
+2025-07-14 11:50:38,021 INFO  Meta_Master_Code - Parsed rating: 3.5
+2025-07-14 11:50:38,034 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.location.sharing.fwhere.mapswithme.android
+2025-07-14 11:50:38,049 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:50:38,074 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:50:38,074 INFO  Meta_Master_Code - 35 - link in written
+2025-07-14 11:50:39,485 INFO  Meta_Master_Code - 36-The downloads Count is -1000000
+2025-07-14 11:50:39,512 INFO  Meta_Master_Code - Parsed rating: 3.5
+2025-07-14 11:50:39,523 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.location.sharing.fwhere.mapswithme.android
+2025-07-14 11:50:39,539 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:50:39,557 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:50:39,558 INFO  Meta_Master_Code - 36 - link in written
+2025-07-14 11:50:40,941 INFO  Meta_Master_Code - 37-The downloads Count is -10000
+2025-07-14 11:50:40,974 INFO  Meta_Master_Code - Parsed rating: 4.5
+2025-07-14 11:50:40,987 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=io.carx.CarX
+2025-07-14 11:50:41,003 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:50:41,031 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:50:41,031 INFO  Meta_Master_Code - 37 - link in written
+2025-07-14 11:50:42,428 INFO  Meta_Master_Code - 38-The downloads Count is -1000000
+2025-07-14 11:50:42,451 INFO  Meta_Master_Code - Parsed rating: 4.3
+2025-07-14 11:50:42,464 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.zudo
+2025-07-14 11:50:42,478 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:50:42,488 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:50:42,488 INFO  Meta_Master_Code - 38 - link in written
+2025-07-14 11:50:43,871 INFO  Meta_Master_Code - 39-The downloads Count is -1000000
+2025-07-14 11:50:43,897 INFO  Meta_Master_Code - Parsed rating: 4.3
+2025-07-14 11:50:43,908 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.zudo
+2025-07-14 11:50:43,923 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:50:43,938 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:50:43,939 INFO  Meta_Master_Code - 39 - link in written
+2025-07-14 11:50:43,953 INFO  Meta_Master_Code - Excel file has sheets, not deleted.
+2025-07-14 11:50:43,961 INFO  Meta_Master_Code - Total filtered Link count: 1
+2025-07-14 11:50:44,335 INFO  Meta_Master_Code - ----- Completed Run #3 -----
+
+2025-07-14 11:50:44,335 INFO  Meta_Master_Code - ----- Running TestNG Suite: Run #4 -----
+2025-07-14 11:50:46,969 INFO  Meta_Master_Code - URL Entered
+2025-07-14 11:50:47,802 INFO  Meta_Master_Code - Entered country is - India
+2025-07-14 11:50:47,802 INFO  Meta_Master_Code - India has been Choosen
+2025-07-14 11:50:48,010 INFO  Meta_Master_Code - Data Found
+2025-07-14 11:50:48,020 INFO  Meta_Master_Code - The Number of Scroll count Entered is - 20
+2025-07-14 11:50:48,020 INFO  Meta_Master_Code - Scroll: 0
+2025-07-14 11:50:54,062 INFO  Meta_Master_Code - Scroll: 1
+2025-07-14 11:51:00,117 INFO  Meta_Master_Code - Scroll: 2
+2025-07-14 11:51:06,204 INFO  Meta_Master_Code - Scroll: 3
+2025-07-14 11:51:12,319 INFO  Meta_Master_Code - Scroll: 4
+2025-07-14 11:51:21,795 INFO  Meta_Master_Code - Scroll: 5
+2025-07-14 11:51:27,987 INFO  Meta_Master_Code - Scroll: 6
+2025-07-14 11:51:34,164 INFO  Meta_Master_Code - Scroll: 7
+2025-07-14 11:51:40,636 INFO  Meta_Master_Code - Scroll: 8
+2025-07-14 11:51:47,335 INFO  Meta_Master_Code - Scroll: 9
+2025-07-14 11:51:55,648 INFO  Meta_Master_Code - Scroll: 10
+2025-07-14 11:52:02,314 INFO  Meta_Master_Code - Scroll: 11
+2025-07-14 11:52:08,388 INFO  Meta_Master_Code - Scroll: 12
+2025-07-14 11:52:14,483 INFO  Meta_Master_Code - Scroll: 13
+2025-07-14 11:52:20,732 INFO  Meta_Master_Code - Scroll: 14
+2025-07-14 11:52:26,949 INFO  Meta_Master_Code - Scroll: 15
+2025-07-14 11:52:33,022 INFO  Meta_Master_Code - Scroll: 16
+2025-07-14 11:52:39,104 INFO  Meta_Master_Code - Scroll: 17
+2025-07-14 11:52:45,302 INFO  Meta_Master_Code - Scroll: 18
+2025-07-14 11:52:52,710 INFO  Meta_Master_Code - Scroll: 19
+2025-07-14 11:52:58,942 INFO  Meta_Master_Code - Scroll: 20
+2025-07-14 11:53:05,309 INFO  Meta_Master_Code - 2025.07.14.11.42.42 - Excel file already exists. Skipping creation.
+2025-07-14 11:53:05,356 INFO  Meta_Master_Code - Total link is 17
+2025-07-14 11:53:05,426 INFO  Meta_Master_Code - 1 - Data written successfully.
+2025-07-14 11:53:05,473 INFO  Meta_Master_Code - 2 - Data written successfully.
+2025-07-14 11:53:05,524 INFO  Meta_Master_Code - 3 - Data written successfully.
+2025-07-14 11:53:05,575 INFO  Meta_Master_Code - 4 - Data written successfully.
+2025-07-14 11:53:05,622 INFO  Meta_Master_Code - 5 - Data written successfully.
+2025-07-14 11:53:05,668 INFO  Meta_Master_Code - 6 - Data written successfully.
+2025-07-14 11:53:05,716 INFO  Meta_Master_Code - 7 - Data written successfully.
+2025-07-14 11:53:05,761 INFO  Meta_Master_Code - 8 - Data written successfully.
+2025-07-14 11:53:05,816 INFO  Meta_Master_Code - 9 - Data written successfully.
+2025-07-14 11:53:05,864 INFO  Meta_Master_Code - 10 - Data written successfully.
+2025-07-14 11:53:05,910 INFO  Meta_Master_Code - 11 - Data written successfully.
+2025-07-14 11:53:05,968 INFO  Meta_Master_Code - 12 - Data written successfully.
+2025-07-14 11:53:06,028 INFO  Meta_Master_Code - 13 - Data written successfully.
+2025-07-14 11:53:06,075 INFO  Meta_Master_Code - 14 - Data written successfully.
+2025-07-14 11:53:06,129 INFO  Meta_Master_Code - 15 - Data written successfully.
+2025-07-14 11:53:06,201 INFO  Meta_Master_Code - 16 - Data written successfully.
+2025-07-14 11:53:06,261 INFO  Meta_Master_Code - 17 - Data written successfully.
+2025-07-14 11:53:06,267 INFO  Meta_Master_Code - Excel file has sheets, not deleted.
+2025-07-14 11:53:06,267 INFO  Meta_Master_Code - 2025.07.14.11.42.42-India- New sheet - Excel file already exists. Skipping creation.
+2025-07-14 11:53:08,451 INFO  Meta_Master_Code - 40 - The link is App store or other site
+2025-07-14 11:53:10,457 INFO  Meta_Master_Code - 41-The downloads Count is -100000
+2025-07-14 11:53:10,470 INFO  Meta_Master_Code - 41No Rating is Given
+2025-07-14 11:53:10,477 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.moneytracker.loan.currency
+2025-07-14 11:53:10,491 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:53:10,502 INFO  Meta_Master_Code - 41 - link in written
+2025-07-14 11:53:11,934 INFO  Meta_Master_Code - 42-The downloads Count is -100000
+2025-07-14 11:53:11,950 INFO  Meta_Master_Code - 42No Rating is Given
+2025-07-14 11:53:11,963 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.moneytracker.loan.currency
+2025-07-14 11:53:11,978 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:53:11,994 INFO  Meta_Master_Code - 42 - link in written
+2025-07-14 11:53:13,287 INFO  Meta_Master_Code - 43-The downloads Count is -10000
+2025-07-14 11:53:13,303 INFO  Meta_Master_Code - 43No Rating is Given
+2025-07-14 11:53:13,313 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.Neon9puriy.lkkop.wor
+2025-07-14 11:53:13,330 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:53:13,344 INFO  Meta_Master_Code - 43 - link in written
+2025-07-14 11:53:14,608 INFO  Meta_Master_Code - 44-The downloads Count is -10000
+2025-07-14 11:53:14,621 INFO  Meta_Master_Code - 44No Rating is Given
+2025-07-14 11:53:14,632 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.Neon9puriy.lkkop.wor
+2025-07-14 11:53:14,648 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:53:14,660 INFO  Meta_Master_Code - 44 - link in written
+2025-07-14 11:53:15,909 INFO  Meta_Master_Code - 45-The downloads Count is -10000
+2025-07-14 11:53:15,923 INFO  Meta_Master_Code - 45No Rating is Given
+2025-07-14 11:53:15,935 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.Neon9puriy.lkkop.wor
+2025-07-14 11:53:15,952 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:53:15,969 INFO  Meta_Master_Code - 45 - link in written
+2025-07-14 11:53:17,178 INFO  Meta_Master_Code - 46-The downloads Count is -10000
+2025-07-14 11:53:17,194 INFO  Meta_Master_Code - 46No Rating is Given
+2025-07-14 11:53:17,205 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.Neon9puriy.lkkop.wor
+2025-07-14 11:53:17,218 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:53:17,230 INFO  Meta_Master_Code - 46 - link in written
+2025-07-14 11:53:18,471 INFO  Meta_Master_Code - 47-The downloads Count is -10000
+2025-07-14 11:53:18,486 INFO  Meta_Master_Code - 47No Rating is Given
+2025-07-14 11:53:18,497 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.Neon9puriy.lkkop.wor
+2025-07-14 11:53:18,516 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:53:18,532 INFO  Meta_Master_Code - 47 - link in written
+2025-07-14 11:53:19,809 INFO  Meta_Master_Code - 48 - The link is App store or other site
+2025-07-14 11:53:21,331 INFO  Meta_Master_Code - 49-The downloads Count is -100000000
+2025-07-14 11:53:21,331 INFO  Meta_Master_Code - 49 - The Downloads is more than 1M
+2025-07-14 11:53:22,746 INFO  Meta_Master_Code - 50-The downloads Count is -1000000
+2025-07-14 11:53:22,769 INFO  Meta_Master_Code - Parsed rating: 4.8
+2025-07-14 11:53:22,769 INFO  Meta_Master_Code - 50 - The Rating Count is Greater than 4.5
+2025-07-14 11:53:24,113 INFO  Meta_Master_Code - 51-The downloads Count is -1000000
+2025-07-14 11:53:24,136 INFO  Meta_Master_Code - Parsed rating: 3.5
+2025-07-14 11:53:24,150 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.location.sharing.fwhere.mapswithme.android
+2025-07-14 11:53:24,166 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:53:24,182 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:53:24,182 INFO  Meta_Master_Code - 51 - link in written
+2025-07-14 11:53:25,541 INFO  Meta_Master_Code - 52-The downloads Count is -1000000
+2025-07-14 11:53:25,569 INFO  Meta_Master_Code - Parsed rating: 3.5
+2025-07-14 11:53:25,579 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.location.sharing.fwhere.mapswithme.android
+2025-07-14 11:53:25,595 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:53:25,609 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:53:25,609 INFO  Meta_Master_Code - 52 - link in written
+2025-07-14 11:53:27,016 INFO  Meta_Master_Code - 53-The downloads Count is -10000
+2025-07-14 11:53:27,046 INFO  Meta_Master_Code - Parsed rating: 4.5
+2025-07-14 11:53:27,057 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=io.carx.CarX
+2025-07-14 11:53:27,073 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:53:27,092 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:53:27,092 INFO  Meta_Master_Code - 53 - link in written
+2025-07-14 11:53:28,483 INFO  Meta_Master_Code - 54-The downloads Count is -1000000
+2025-07-14 11:53:28,507 INFO  Meta_Master_Code - Parsed rating: 4.3
+2025-07-14 11:53:28,518 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.zudo
+2025-07-14 11:53:28,531 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:53:28,545 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:53:28,545 INFO  Meta_Master_Code - 54 - link in written
+2025-07-14 11:53:29,882 INFO  Meta_Master_Code - 55-The downloads Count is -1000000
+2025-07-14 11:53:29,916 INFO  Meta_Master_Code - Parsed rating: 4.3
+2025-07-14 11:53:29,925 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.zudo
+2025-07-14 11:53:29,941 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:53:29,954 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:53:29,954 INFO  Meta_Master_Code - 55 - link in written
+2025-07-14 11:53:31,274 INFO  Meta_Master_Code - 56-The downloads Count is -1000000
+2025-07-14 11:53:31,299 INFO  Meta_Master_Code - Parsed rating: 4.3
+2025-07-14 11:53:31,310 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.zudo
+2025-07-14 11:53:31,324 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:53:31,338 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:53:31,338 INFO  Meta_Master_Code - 56 - link in written
+2025-07-14 11:53:31,348 INFO  Meta_Master_Code - Excel file has sheets, not deleted.
+2025-07-14 11:53:31,356 INFO  Meta_Master_Code - Total filtered Link count: 1
+2025-07-14 11:53:31,733 INFO  Meta_Master_Code - ----- Completed Run #4 -----
+

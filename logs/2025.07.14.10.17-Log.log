@@ -1,0 +1,167 @@
+2025-07-14 10:17:55,809 INFO  Meta_Master_Code - The number of Runs input is - 3
+2025-07-14 10:18:01,905 INFO  Meta_Master_Code - URL Entered
+2025-07-14 10:18:02,093 INFO  Meta_Master_Code - Entered country is - United States
+2025-07-14 10:18:02,371 INFO  Meta_Master_Code - United States has been Choosen
+2025-07-14 10:18:02,686 INFO  Meta_Master_Code - All ads is clicked
+2025-07-14 10:18:02,934 INFO  Meta_Master_Code - Data Found
+2025-07-14 10:18:02,943 INFO  Meta_Master_Code - The Number of Scroll count Entered is - 5
+2025-07-14 10:18:02,943 INFO  Meta_Master_Code - Scroll: 0
+2025-07-14 10:18:10,927 INFO  Meta_Master_Code - Scroll: 1
+2025-07-14 10:18:17,368 INFO  Meta_Master_Code - Scroll: 2
+2025-07-14 10:18:26,071 INFO  Meta_Master_Code - Scroll: 3
+2025-07-14 10:18:32,676 INFO  Meta_Master_Code - Scroll: 4
+2025-07-14 10:18:38,744 INFO  Meta_Master_Code - Scroll: 5
+2025-07-14 10:18:45,586 INFO  Meta_Master_Code - 2025.07.14.10.17.55 - Excel file created successfully!
+2025-07-14 10:18:45,614 INFO  Meta_Master_Code - Total link is 6
+2025-07-14 10:18:45,816 INFO  Meta_Master_Code - 1 - Data written successfully.
+2025-07-14 10:18:45,892 INFO  Meta_Master_Code - 2 - Data written successfully.
+2025-07-14 10:18:45,948 INFO  Meta_Master_Code - 3 - Data written successfully.
+2025-07-14 10:18:46,028 INFO  Meta_Master_Code - 4 - Data written successfully.
+2025-07-14 10:18:46,078 INFO  Meta_Master_Code - 5 - Data written successfully.
+2025-07-14 10:18:46,129 INFO  Meta_Master_Code - 6 - Data written successfully.
+2025-07-14 10:18:46,143 INFO  Meta_Master_Code - Excel file has sheets, not deleted.
+2025-07-14 10:18:46,159 INFO  Meta_Master_Code - 2025.07.14.10.17.55-United States- New sheet - Excel file created successfully!
+2025-07-14 10:18:48,275 INFO  Meta_Master_Code - 0-The downloads Count is -100
+2025-07-14 10:18:48,288 INFO  Meta_Master_Code - 0No Rating is Given
+2025-07-14 10:18:48,346 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.cfbfantasy.cfb_fantasy
+2025-07-14 10:18:48,453 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 10:18:48,490 INFO  Meta_Master_Code - 0 - link in written
+2025-07-14 10:18:49,999 INFO  Meta_Master_Code - 1-The downloads Count is -100
+2025-07-14 10:18:50,015 INFO  Meta_Master_Code - 1No Rating is Given
+2025-07-14 10:18:50,060 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.cfbfantasy.cfb_fantasy
+2025-07-14 10:18:50,205 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 10:18:50,253 INFO  Meta_Master_Code - 1 - link in written
+2025-07-14 10:18:51,659 INFO  Meta_Master_Code - 2-The downloads Count is -100
+2025-07-14 10:18:51,674 INFO  Meta_Master_Code - 2No Rating is Given
+2025-07-14 10:18:51,698 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.cfbfantasy.cfb_fantasy
+2025-07-14 10:18:51,787 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 10:18:51,829 INFO  Meta_Master_Code - 2 - link in written
+2025-07-14 10:18:53,111 INFO  Meta_Master_Code - 3-The downloads Count is -100
+2025-07-14 10:18:53,125 INFO  Meta_Master_Code - 3No Rating is Given
+2025-07-14 10:18:53,148 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.cfbfantasy.cfb_fantasy
+2025-07-14 10:18:53,219 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 10:18:53,254 INFO  Meta_Master_Code - 3 - link in written
+2025-07-14 10:18:54,785 INFO  Meta_Master_Code - 4-The downloads Count is -10000
+2025-07-14 10:18:54,800 INFO  Meta_Master_Code - 4No Rating is Given
+2025-07-14 10:18:54,836 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.flyingcat.spades
+2025-07-14 10:18:54,918 INFO  Meta_Master_Code - Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.flyingcat.spades
+2025-07-14 10:18:54,956 INFO  Meta_Master_Code - Data written at row index: 0
+2025-07-14 10:18:54,997 INFO  Meta_Master_Code - 4 - link in written
+2025-07-14 10:18:56,607 INFO  Meta_Master_Code - 5-The downloads Count is -1000
+2025-07-14 10:18:56,729 INFO  Meta_Master_Code - 5No Rating is Given
+2025-07-14 10:18:56,782 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.mimsin.wordgame
+2025-07-14 10:18:56,850 INFO  Meta_Master_Code - Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.mimsin.wordgame
+2025-07-14 10:18:56,880 INFO  Meta_Master_Code - Data written at row index: 1
+2025-07-14 10:18:56,899 INFO  Meta_Master_Code - 5 - link in written
+2025-07-14 10:18:56,930 INFO  Meta_Master_Code - Excel file has sheets, not deleted.
+2025-07-14 10:18:56,984 INFO  Meta_Master_Code - Total filtered Link count: 2
+2025-07-14 10:19:01,261 INFO  Meta_Master_Code - URL Entered
+2025-07-14 10:19:01,365 INFO  Meta_Master_Code - Entered country is - United States
+2025-07-14 10:19:01,632 INFO  Meta_Master_Code - United States has been Choosen
+2025-07-14 10:19:01,961 INFO  Meta_Master_Code - All ads is clicked
+2025-07-14 10:19:02,210 INFO  Meta_Master_Code - Data Found
+2025-07-14 10:19:02,217 INFO  Meta_Master_Code - The Number of Scroll count Entered is - 5
+2025-07-14 10:19:02,217 INFO  Meta_Master_Code - Scroll: 0
+2025-07-14 10:19:08,296 INFO  Meta_Master_Code - Scroll: 1
+2025-07-14 10:19:14,462 INFO  Meta_Master_Code - Scroll: 2
+2025-07-14 10:19:20,720 INFO  Meta_Master_Code - Scroll: 3
+2025-07-14 10:19:26,853 INFO  Meta_Master_Code - Scroll: 4
+2025-07-14 10:19:32,939 INFO  Meta_Master_Code - Scroll: 5
+2025-07-14 10:19:39,068 INFO  Meta_Master_Code - 2025.07.14.10.17.55 - Excel file created successfully!
+2025-07-14 10:19:39,114 INFO  Meta_Master_Code - Total link is 6
+2025-07-14 10:19:39,162 INFO  Meta_Master_Code - 1 - Data written successfully.
+2025-07-14 10:19:39,218 INFO  Meta_Master_Code - 2 - Data written successfully.
+2025-07-14 10:19:39,305 INFO  Meta_Master_Code - 3 - Data written successfully.
+2025-07-14 10:19:39,509 INFO  Meta_Master_Code - 4 - Data written successfully.
+2025-07-14 10:19:39,660 INFO  Meta_Master_Code - 5 - Data written successfully.
+2025-07-14 10:19:39,706 INFO  Meta_Master_Code - 6 - Data written successfully.
+2025-07-14 10:19:39,716 INFO  Meta_Master_Code - Excel file has sheets, not deleted.
+2025-07-14 10:19:39,731 INFO  Meta_Master_Code - 2025.07.14.10.17.55-United States- New sheet - Excel file created successfully!
+2025-07-14 10:19:41,703 INFO  Meta_Master_Code - 6-The downloads Count is -100
+2025-07-14 10:19:41,716 INFO  Meta_Master_Code - 6No Rating is Given
+2025-07-14 10:19:41,739 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.cfbfantasy.cfb_fantasy
+2025-07-14 10:19:41,769 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 10:19:41,787 INFO  Meta_Master_Code - 6 - link in written
+2025-07-14 10:19:43,350 INFO  Meta_Master_Code - 7-The downloads Count is -100
+2025-07-14 10:19:43,363 INFO  Meta_Master_Code - 7No Rating is Given
+2025-07-14 10:19:43,379 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.cfbfantasy.cfb_fantasy
+2025-07-14 10:19:43,410 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 10:19:43,442 INFO  Meta_Master_Code - 7 - link in written
+2025-07-14 10:19:44,927 INFO  Meta_Master_Code - 8-The downloads Count is -100
+2025-07-14 10:19:44,941 INFO  Meta_Master_Code - 8No Rating is Given
+2025-07-14 10:19:44,958 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.cfbfantasy.cfb_fantasy
+2025-07-14 10:19:44,982 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 10:19:45,003 INFO  Meta_Master_Code - 8 - link in written
+2025-07-14 10:19:46,361 INFO  Meta_Master_Code - 9-The downloads Count is -100
+2025-07-14 10:19:46,377 INFO  Meta_Master_Code - 9No Rating is Given
+2025-07-14 10:19:46,394 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.cfbfantasy.cfb_fantasy
+2025-07-14 10:19:46,421 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 10:19:46,445 INFO  Meta_Master_Code - 9 - link in written
+2025-07-14 10:19:47,858 INFO  Meta_Master_Code - 10-The downloads Count is -10000
+2025-07-14 10:19:47,876 INFO  Meta_Master_Code - 10No Rating is Given
+2025-07-14 10:19:47,904 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.flyingcat.spades
+2025-07-14 10:19:47,929 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 10:19:48,011 INFO  Meta_Master_Code - 10 - link in written
+2025-07-14 10:19:49,367 INFO  Meta_Master_Code - 11-The downloads Count is -1000
+2025-07-14 10:19:49,384 INFO  Meta_Master_Code - 11No Rating is Given
+2025-07-14 10:19:49,410 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.mimsin.wordgame
+2025-07-14 10:19:49,441 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 10:19:49,459 INFO  Meta_Master_Code - 11 - link in written
+2025-07-14 10:19:49,476 INFO  Meta_Master_Code - Excel file deleted as it contains no sheets.
+2025-07-14 10:19:51,985 INFO  Meta_Master_Code - URL Entered
+2025-07-14 10:19:52,801 INFO  Meta_Master_Code - Entered country is - United States
+2025-07-14 10:19:53,064 INFO  Meta_Master_Code - United States has been Choosen
+2025-07-14 10:19:53,387 INFO  Meta_Master_Code - All ads is clicked
+2025-07-14 10:19:53,665 INFO  Meta_Master_Code - Data Found
+2025-07-14 10:19:53,672 INFO  Meta_Master_Code - The Number of Scroll count Entered is - 5
+2025-07-14 10:19:53,672 INFO  Meta_Master_Code - Scroll: 0
+2025-07-14 10:19:59,707 INFO  Meta_Master_Code - Scroll: 1
+2025-07-14 10:20:06,925 INFO  Meta_Master_Code - Scroll: 2
+2025-07-14 10:20:13,088 INFO  Meta_Master_Code - Scroll: 3
+2025-07-14 10:20:19,151 INFO  Meta_Master_Code - Scroll: 4
+2025-07-14 10:20:25,373 INFO  Meta_Master_Code - Scroll: 5
+2025-07-14 10:20:31,460 INFO  Meta_Master_Code - 2025.07.14.10.17.55 - Excel file created successfully!
+2025-07-14 10:20:31,508 INFO  Meta_Master_Code - Total link is 8
+2025-07-14 10:20:31,546 INFO  Meta_Master_Code - 1 - Data written successfully.
+2025-07-14 10:20:31,584 INFO  Meta_Master_Code - 2 - Data written successfully.
+2025-07-14 10:20:31,622 INFO  Meta_Master_Code - 3 - Data written successfully.
+2025-07-14 10:20:31,661 INFO  Meta_Master_Code - 4 - Data written successfully.
+2025-07-14 10:20:31,701 INFO  Meta_Master_Code - 5 - Data written successfully.
+2025-07-14 10:20:31,742 INFO  Meta_Master_Code - 6 - Data written successfully.
+2025-07-14 10:20:31,788 INFO  Meta_Master_Code - 7 - Data written successfully.
+2025-07-14 10:20:31,834 INFO  Meta_Master_Code - 8 - Data written successfully.
+2025-07-14 10:20:31,843 INFO  Meta_Master_Code - Excel file has sheets, not deleted.
+2025-07-14 10:20:31,856 INFO  Meta_Master_Code - 2025.07.14.10.17.55-United States- New sheet - Excel file created successfully!
+2025-07-14 10:20:33,757 INFO  Meta_Master_Code - 12-The downloads Count is -100
+2025-07-14 10:20:33,769 INFO  Meta_Master_Code - 12No Rating is Given
+2025-07-14 10:20:33,789 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.cfbfantasy.cfb_fantasy
+2025-07-14 10:20:33,808 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 10:20:33,836 INFO  Meta_Master_Code - 12 - link in written
+2025-07-14 10:20:35,224 INFO  Meta_Master_Code - 13-The downloads Count is -100
+2025-07-14 10:20:35,238 INFO  Meta_Master_Code - 13No Rating is Given
+2025-07-14 10:20:35,251 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.cfbfantasy.cfb_fantasy
+2025-07-14 10:20:35,273 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 10:20:35,303 INFO  Meta_Master_Code - 13 - link in written
+2025-07-14 10:20:36,543 INFO  Meta_Master_Code - 14-The downloads Count is -100
+2025-07-14 10:20:36,558 INFO  Meta_Master_Code - 14No Rating is Given
+2025-07-14 10:20:36,569 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.cfbfantasy.cfb_fantasy
+2025-07-14 10:20:36,590 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 10:20:36,608 INFO  Meta_Master_Code - 14 - link in written
+2025-07-14 10:20:37,819 INFO  Meta_Master_Code - 15-The downloads Count is -100
+2025-07-14 10:20:37,839 INFO  Meta_Master_Code - 15No Rating is Given
+2025-07-14 10:20:37,852 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.cfbfantasy.cfb_fantasy
+2025-07-14 10:20:37,887 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 10:20:37,933 INFO  Meta_Master_Code - 15 - link in written
+2025-07-14 10:20:40,515 INFO  Meta_Master_Code - 16 - The link is App store or other site
+2025-07-14 10:20:42,111 INFO  Meta_Master_Code - 17-The downloads Count is -10000
+2025-07-14 10:20:42,128 INFO  Meta_Master_Code - 17No Rating is Given
+2025-07-14 10:20:42,151 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.flyingcat.spades
+2025-07-14 10:20:42,176 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 10:20:42,201 INFO  Meta_Master_Code - 17 - link in written
+2025-07-14 10:20:43,398 INFO  Meta_Master_Code - 18-The downloads Count is -1000
+2025-07-14 10:20:43,412 INFO  Meta_Master_Code - 18No Rating is Given
+2025-07-14 10:20:43,438 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.mimsin.wordgame
+2025-07-14 10:20:43,466 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 10:20:43,502 INFO  Meta_Master_Code - 18 - link in written
+2025-07-14 10:20:46,003 INFO  Meta_Master_Code - 19 - The link is App store or other site
+2025-07-14 10:20:46,011 INFO  Meta_Master_Code - Excel file deleted as it contains no sheets.

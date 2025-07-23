@@ -1,0 +1,112 @@
+2025-07-10 17:13:00,954 INFO  Meta_Master_Code - URL Entered
+2025-07-10 17:13:01,003 INFO  Meta_Master_Code - Entered country is - United States
+2025-07-10 17:13:01,288 INFO  Meta_Master_Code - United States has been Choosen
+2025-07-10 17:13:01,693 INFO  Meta_Master_Code - All ads is clicked
+2025-07-10 17:13:01,969 INFO  Meta_Master_Code - Data Found
+2025-07-10 17:13:01,978 INFO  Meta_Master_Code - The Number of Scroll count Entered is - 5
+2025-07-10 17:13:01,978 INFO  Meta_Master_Code - Scroll: 0
+2025-07-10 17:13:08,313 INFO  Meta_Master_Code - Scroll: 1
+2025-07-10 17:13:18,085 INFO  Meta_Master_Code - Scroll: 2
+2025-07-10 17:13:24,624 INFO  Meta_Master_Code - Scroll: 3
+2025-07-10 17:13:30,888 INFO  Meta_Master_Code - Scroll: 4
+2025-07-10 17:13:37,849 INFO  Meta_Master_Code - Scroll: 5
+2025-07-10 17:13:45,959 INFO  Meta_Master_Code - 2025.07.10.17.12.54 - Excel file created successfully!
+2025-07-10 17:13:46,321 INFO  Meta_Master_Code - Total link is 26
+2025-07-10 17:13:46,976 INFO  Meta_Master_Code - 1 - Data written successfully.
+2025-07-10 17:13:47,147 INFO  Meta_Master_Code - 2 - Data written successfully.
+2025-07-10 17:13:47,494 INFO  Meta_Master_Code - 3 - Data written successfully.
+2025-07-10 17:13:47,672 INFO  Meta_Master_Code - 4 - Data written successfully.
+2025-07-10 17:13:47,739 INFO  Meta_Master_Code - 5 - Data written successfully.
+2025-07-10 17:13:47,874 INFO  Meta_Master_Code - 6 - Data written successfully.
+2025-07-10 17:13:47,950 INFO  Meta_Master_Code - 7 - Data written successfully.
+2025-07-10 17:13:48,018 INFO  Meta_Master_Code - 8 - Data written successfully.
+2025-07-10 17:13:48,087 INFO  Meta_Master_Code - 9 - Data written successfully.
+2025-07-10 17:13:48,171 INFO  Meta_Master_Code - 10 - Data written successfully.
+2025-07-10 17:13:48,243 INFO  Meta_Master_Code - 11 - Data written successfully.
+2025-07-10 17:13:48,331 INFO  Meta_Master_Code - 12 - Data written successfully.
+2025-07-10 17:13:48,411 INFO  Meta_Master_Code - 13 - Data written successfully.
+2025-07-10 17:13:48,487 INFO  Meta_Master_Code - 14 - Data written successfully.
+2025-07-10 17:13:48,564 INFO  Meta_Master_Code - 15 - Data written successfully.
+2025-07-10 17:13:48,600 WARN  Meta_Master_Code - 16 - Link is disabled
+2025-07-10 17:13:48,628 WARN  Meta_Master_Code - 17 - Link is disabled
+2025-07-10 17:13:48,701 INFO  Meta_Master_Code - 18 - Data written successfully.
+2025-07-10 17:13:48,732 WARN  Meta_Master_Code - 19 - Link is disabled
+2025-07-10 17:13:48,760 WARN  Meta_Master_Code - 20 - Link is disabled
+2025-07-10 17:13:48,797 WARN  Meta_Master_Code - 21 - Link is disabled
+2025-07-10 17:13:48,834 WARN  Meta_Master_Code - 22 - Link is disabled
+2025-07-10 17:13:48,861 WARN  Meta_Master_Code - 23 - Link is disabled
+2025-07-10 17:13:48,888 WARN  Meta_Master_Code - 24 - Link is disabled
+2025-07-10 17:13:48,915 WARN  Meta_Master_Code - 25 - Link is disabled
+2025-07-10 17:13:48,941 WARN  Meta_Master_Code - 26 - Link is disabled
+2025-07-10 17:13:48,956 INFO  Meta_Master_Code - Excel file has sheets, not deleted.
+2025-07-10 17:13:48,975 INFO  Meta_Master_Code - 2025.07.10.17.12.54-United States- New sheet - Excel file created successfully!
+2025-07-10 17:13:50,784 INFO  Meta_Master_Code - 0-The downloads Count is -100
+2025-07-10 17:13:50,797 INFO  Meta_Master_Code - 0No Rating is Given
+2025-07-10 17:13:50,824 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.cfbfantasy.cfb_fantasy
+2025-07-10 17:13:50,886 INFO  Meta_Master_Code - Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.cfbfantasy.cfb_fantasy
+2025-07-10 17:13:50,921 INFO  Meta_Master_Code - Data written at row index: 0
+2025-07-10 17:13:50,954 INFO  Meta_Master_Code - 0 - link in written
+2025-07-10 17:13:52,288 INFO  Meta_Master_Code - 1-The downloads Count is -100
+2025-07-10 17:13:52,300 INFO  Meta_Master_Code - 1No Rating is Given
+2025-07-10 17:13:52,319 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.cfbfantasy.cfb_fantasy
+2025-07-10 17:13:52,368 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-10 17:13:52,714 INFO  Meta_Master_Code - 1 - link in written
+2025-07-10 17:13:53,785 INFO  Meta_Master_Code - 2-The downloads Count is -100
+2025-07-10 17:13:53,797 INFO  Meta_Master_Code - 2No Rating is Given
+2025-07-10 17:13:53,814 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.cfbfantasy.cfb_fantasy
+2025-07-10 17:13:53,842 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-10 17:13:53,868 INFO  Meta_Master_Code - 2 - link in written
+2025-07-10 17:13:55,269 INFO  Meta_Master_Code - 3-The downloads Count is -10000000
+2025-07-10 17:13:55,269 INFO  Meta_Master_Code - 3 - The Downloads is more than 1M
+2025-07-10 17:13:56,491 INFO  Meta_Master_Code - 4-The downloads Count is -10000000
+2025-07-10 17:13:56,491 INFO  Meta_Master_Code - 4 - The Downloads is more than 1M
+2025-07-10 17:13:57,717 INFO  Meta_Master_Code - 5-The downloads Count is -10000000
+2025-07-10 17:13:57,717 INFO  Meta_Master_Code - 5 - The Downloads is more than 1M
+2025-07-10 17:13:59,205 INFO  Meta_Master_Code - 6-The downloads Count is -50000
+2025-07-10 17:13:59,216 INFO  Meta_Master_Code - 6No Rating is Given
+2025-07-10 17:13:59,243 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.igs.polyslots
+2025-07-10 17:13:59,269 INFO  Meta_Master_Code - Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.igs.polyslots
+2025-07-10 17:13:59,302 INFO  Meta_Master_Code - Data written at row index: 1
+2025-07-10 17:13:59,323 INFO  Meta_Master_Code - 6 - link in written
+2025-07-10 17:14:02,072 INFO  Meta_Master_Code - 7 - The link is App store or other site
+2025-07-10 17:14:03,499 INFO  Meta_Master_Code - 8-The downloads Count is -10000000
+2025-07-10 17:14:03,500 INFO  Meta_Master_Code - 8 - The Downloads is more than 1M
+2025-07-10 17:14:04,845 INFO  Meta_Master_Code - 9-The downloads Count is -10000
+2025-07-10 17:14:04,865 INFO  Meta_Master_Code - Parsed rating: 4.4
+2025-07-10 17:14:04,891 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.storage.junk.sparkclean.new
+2025-07-10 17:14:04,920 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-10 17:14:04,943 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-10 17:14:04,943 INFO  Meta_Master_Code - 9 - link in written
+2025-07-10 17:14:06,266 INFO  Meta_Master_Code - 10-The downloads Count is -500000
+2025-07-10 17:14:06,291 INFO  Meta_Master_Code - Parsed rating: 3.8
+2025-07-10 17:14:06,322 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.funnyapp4u.healthy.bloodpressure
+2025-07-10 17:14:06,349 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-10 17:14:06,370 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-10 17:14:06,371 INFO  Meta_Master_Code - 10 - link in written
+2025-07-10 17:14:07,893 INFO  Meta_Master_Code - 11-The downloads Count is -1000000
+2025-07-10 17:14:07,893 INFO  Meta_Master_Code - 11 - The Downloads is more than 1M
+2025-07-10 17:14:09,150 INFO  Meta_Master_Code - 12-The downloads Count is -100000
+2025-07-10 17:14:09,165 INFO  Meta_Master_Code - 12No Rating is Given
+2025-07-10 17:14:09,190 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.gzqd.goddess
+2025-07-10 17:14:09,210 INFO  Meta_Master_Code - Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.gzqd.goddess
+2025-07-10 17:14:09,235 INFO  Meta_Master_Code - Data written at row index: 2
+2025-07-10 17:14:09,253 INFO  Meta_Master_Code - 12 - link in written
+2025-07-10 17:14:10,627 INFO  Meta_Master_Code - 13-The downloads Count is -50000
+2025-07-10 17:14:10,640 INFO  Meta_Master_Code - 13No Rating is Given
+2025-07-10 17:14:10,667 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.flashlight.strobelight.soslight
+2025-07-10 17:14:10,702 INFO  Meta_Master_Code - Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.flashlight.strobelight.soslight
+2025-07-10 17:14:10,729 INFO  Meta_Master_Code - Data written at row index: 3
+2025-07-10 17:14:10,760 INFO  Meta_Master_Code - 13 - link in written
+2025-07-10 17:14:11,845 INFO  Meta_Master_Code - 14-The downloads Count is -50000
+2025-07-10 17:14:11,856 INFO  Meta_Master_Code - 14No Rating is Given
+2025-07-10 17:14:11,876 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.flashlight.strobelight.soslight
+2025-07-10 17:14:11,904 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-10 17:14:11,924 INFO  Meta_Master_Code - 14 - link in written
+2025-07-10 17:14:13,248 INFO  Meta_Master_Code - 15-The downloads Count is -5000
+2025-07-10 17:14:13,260 INFO  Meta_Master_Code - 15No Rating is Given
+2025-07-10 17:14:13,288 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.reelvideo.videodownloader
+2025-07-10 17:14:13,311 INFO  Meta_Master_Code - Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.reelvideo.videodownloader
+2025-07-10 17:14:13,338 INFO  Meta_Master_Code - Data written at row index: 4
+2025-07-10 17:14:13,356 INFO  Meta_Master_Code - 15 - link in written
+2025-07-10 17:14:13,372 INFO  Meta_Master_Code - Excel file has sheets, not deleted.
+2025-07-10 17:14:13,381 INFO  Meta_Master_Code - Total filtered Link count: 5

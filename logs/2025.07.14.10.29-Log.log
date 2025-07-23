@@ -1,0 +1,196 @@
+2025-07-14 10:29:35,541 INFO  Meta_Master_Code - The number of Runs input is - 4
+2025-07-14 10:29:35,541 INFO  Meta_Master_Code - ----- Running TestNG Suite: Run #1 -----
+2025-07-14 10:29:38,767 INFO  Meta_Master_Code - URL Entered
+2025-07-14 10:29:39,622 INFO  Meta_Master_Code - Entered country is - India
+2025-07-14 10:29:39,622 INFO  Meta_Master_Code - India has been Choosen
+2025-07-14 10:29:39,846 INFO  Meta_Master_Code - Data Found
+2025-07-14 10:29:39,852 INFO  Meta_Master_Code - The Number of Scroll count Entered is - 20
+2025-07-14 10:29:39,852 INFO  Meta_Master_Code - Scroll: 0
+2025-07-14 10:29:45,919 INFO  Meta_Master_Code - Scroll: 1
+2025-07-14 10:29:52,491 INFO  Meta_Master_Code - Scroll: 2
+2025-07-14 10:29:58,997 INFO  Meta_Master_Code - Scroll: 3
+2025-07-14 10:30:05,723 INFO  Meta_Master_Code - Scroll: 4
+2025-07-14 10:30:12,158 INFO  Meta_Master_Code - Scroll: 5
+2025-07-14 10:30:18,647 INFO  Meta_Master_Code - Scroll: 6
+2025-07-14 10:30:24,865 INFO  Meta_Master_Code - Scroll: 7
+2025-07-14 10:30:30,924 INFO  Meta_Master_Code - Scroll: 8
+2025-07-14 10:30:37,097 INFO  Meta_Master_Code - Scroll: 9
+2025-07-14 10:30:43,149 INFO  Meta_Master_Code - Scroll: 10
+2025-07-14 10:30:49,231 INFO  Meta_Master_Code - Scroll: 11
+2025-07-14 10:30:55,376 INFO  Meta_Master_Code - Scroll: 12
+2025-07-14 10:31:01,525 INFO  Meta_Master_Code - Scroll: 13
+2025-07-14 10:31:07,628 INFO  Meta_Master_Code - Scroll: 14
+2025-07-14 10:31:13,702 INFO  Meta_Master_Code - Scroll: 15
+2025-07-14 10:31:19,820 INFO  Meta_Master_Code - Scroll: 16
+2025-07-14 10:31:26,014 INFO  Meta_Master_Code - Scroll: 17
+2025-07-14 10:31:32,162 INFO  Meta_Master_Code - Scroll: 18
+2025-07-14 10:31:38,307 INFO  Meta_Master_Code - Scroll: 19
+2025-07-14 10:31:46,212 INFO  Meta_Master_Code - Scroll: 20
+2025-07-14 10:31:53,049 INFO  Meta_Master_Code - 2025.07.14.10.29.35 - Excel file created successfully!
+2025-07-14 10:31:53,095 INFO  Meta_Master_Code - Total link is 4
+2025-07-14 10:31:53,293 INFO  Meta_Master_Code - 1 - Data written successfully.
+2025-07-14 10:31:53,366 INFO  Meta_Master_Code - 2 - Data written successfully.
+2025-07-14 10:31:53,452 INFO  Meta_Master_Code - 3 - Data written successfully.
+2025-07-14 10:31:53,514 INFO  Meta_Master_Code - 4 - Data written successfully.
+2025-07-14 10:31:53,531 INFO  Meta_Master_Code - Excel file has sheets, not deleted.
+2025-07-14 10:31:53,554 INFO  Meta_Master_Code - 2025.07.14.10.29.35-India- New sheet - Excel file created successfully!
+2025-07-14 10:31:55,761 INFO  Meta_Master_Code - 0-The downloads Count is -1000000
+2025-07-14 10:31:55,761 INFO  Meta_Master_Code - 0 - The Downloads is more than 1M
+2025-07-14 10:31:57,273 INFO  Meta_Master_Code - 1-The downloads Count is -1000000
+2025-07-14 10:31:57,273 INFO  Meta_Master_Code - 1 - The Downloads is more than 1M
+2025-07-14 10:31:58,744 INFO  Meta_Master_Code - 2-The downloads Count is -1000000
+2025-07-14 10:31:58,744 INFO  Meta_Master_Code - 2 - The Downloads is more than 1M
+2025-07-14 10:32:00,593 INFO  Meta_Master_Code - 3 - The link is App store or other site
+2025-07-14 10:32:00,605 INFO  Meta_Master_Code - Excel file deleted as it contains no sheets.
+2025-07-14 10:32:01,092 INFO  Meta_Master_Code - ----- Completed Run #1 -----
+
+2025-07-14 10:32:01,094 INFO  Meta_Master_Code - ----- Running TestNG Suite: Run #2 -----
+2025-07-14 10:32:05,564 INFO  Meta_Master_Code - URL Entered
+2025-07-14 10:32:05,713 INFO  Meta_Master_Code - Entered country is - India
+2025-07-14 10:32:05,713 INFO  Meta_Master_Code - India has been Choosen
+2025-07-14 10:32:05,935 INFO  Meta_Master_Code - Data Found
+2025-07-14 10:32:05,943 INFO  Meta_Master_Code - The Number of Scroll count Entered is - 20
+2025-07-14 10:32:05,943 INFO  Meta_Master_Code - Scroll: 0
+2025-07-14 10:32:14,597 INFO  Meta_Master_Code - Scroll: 1
+2025-07-14 10:32:20,955 INFO  Meta_Master_Code - Scroll: 2
+2025-07-14 10:32:30,570 INFO  Meta_Master_Code - Scroll: 3
+2025-07-14 10:32:37,027 INFO  Meta_Master_Code - Scroll: 4
+2025-07-14 10:32:43,095 INFO  Meta_Master_Code - Scroll: 5
+2025-07-14 10:32:49,535 INFO  Meta_Master_Code - Scroll: 6
+2025-07-14 10:32:56,631 INFO  Meta_Master_Code - Scroll: 7
+2025-07-14 10:33:03,195 INFO  Meta_Master_Code - Scroll: 8
+2025-07-14 10:33:09,258 INFO  Meta_Master_Code - Scroll: 9
+2025-07-14 10:33:15,476 INFO  Meta_Master_Code - Scroll: 10
+2025-07-14 10:33:21,630 INFO  Meta_Master_Code - Scroll: 11
+2025-07-14 10:33:27,670 INFO  Meta_Master_Code - Scroll: 12
+2025-07-14 10:33:34,006 INFO  Meta_Master_Code - Scroll: 13
+2025-07-14 10:33:40,228 INFO  Meta_Master_Code - Scroll: 14
+2025-07-14 10:33:46,762 INFO  Meta_Master_Code - Scroll: 15
+2025-07-14 10:33:53,021 INFO  Meta_Master_Code - Scroll: 16
+2025-07-14 10:34:00,946 INFO  Meta_Master_Code - Scroll: 17
+2025-07-14 10:34:07,085 INFO  Meta_Master_Code - Scroll: 18
+2025-07-14 10:34:13,630 INFO  Meta_Master_Code - Scroll: 19
+2025-07-14 10:34:19,799 INFO  Meta_Master_Code - Scroll: 20
+2025-07-14 10:34:26,138 INFO  Meta_Master_Code - 2025.07.14.10.29.35 - Excel file created successfully!
+2025-07-14 10:34:26,264 INFO  Meta_Master_Code - Total link is 6
+2025-07-14 10:34:26,499 INFO  Meta_Master_Code - 1 - Data written successfully.
+2025-07-14 10:34:26,622 INFO  Meta_Master_Code - 2 - Data written successfully.
+2025-07-14 10:34:26,685 INFO  Meta_Master_Code - 3 - Data written successfully.
+2025-07-14 10:34:26,768 INFO  Meta_Master_Code - 4 - Data written successfully.
+2025-07-14 10:34:26,835 INFO  Meta_Master_Code - 5 - Data written successfully.
+2025-07-14 10:34:26,910 INFO  Meta_Master_Code - 6 - Data written successfully.
+2025-07-14 10:34:26,929 INFO  Meta_Master_Code - Excel file has sheets, not deleted.
+2025-07-14 10:34:26,949 INFO  Meta_Master_Code - 2025.07.14.10.29.35-India- New sheet - Excel file created successfully!
+2025-07-14 10:34:29,234 INFO  Meta_Master_Code - 4-The downloads Count is -100000000
+2025-07-14 10:34:29,234 INFO  Meta_Master_Code - 4 - The Downloads is more than 1M
+2025-07-14 10:34:30,700 INFO  Meta_Master_Code - 5-The downloads Count is -1000000
+2025-07-14 10:34:30,700 INFO  Meta_Master_Code - 5 - The Downloads is more than 1M
+2025-07-14 10:34:32,039 INFO  Meta_Master_Code - 6-The downloads Count is -1000000
+2025-07-14 10:34:32,039 INFO  Meta_Master_Code - 6 - The Downloads is more than 1M
+2025-07-14 10:34:33,397 INFO  Meta_Master_Code - 7-The downloads Count is -1000000
+2025-07-14 10:34:33,398 INFO  Meta_Master_Code - 7 - The Downloads is more than 1M
+2025-07-14 10:34:34,715 INFO  Meta_Master_Code - 8-The downloads Count is -1000000
+2025-07-14 10:34:34,716 INFO  Meta_Master_Code - 8 - The Downloads is more than 1M
+2025-07-14 10:34:35,994 INFO  Meta_Master_Code - 9-The downloads Count is -1000000
+2025-07-14 10:34:35,994 INFO  Meta_Master_Code - 9 - The Downloads is more than 1M
+2025-07-14 10:34:36,011 INFO  Meta_Master_Code - Excel file deleted as it contains no sheets.
+2025-07-14 10:34:36,559 INFO  Meta_Master_Code - ----- Completed Run #2 -----
+
+2025-07-14 10:34:36,559 INFO  Meta_Master_Code - ----- Running TestNG Suite: Run #3 -----
+2025-07-14 10:34:41,174 INFO  Meta_Master_Code - URL Entered
+2025-07-14 10:34:41,297 INFO  Meta_Master_Code - Entered country is - India
+2025-07-14 10:34:41,297 INFO  Meta_Master_Code - India has been Choosen
+2025-07-14 10:34:41,583 INFO  Meta_Master_Code - Data Found
+2025-07-14 10:34:41,591 INFO  Meta_Master_Code - The Number of Scroll count Entered is - 20
+2025-07-14 10:34:41,592 INFO  Meta_Master_Code - Scroll: 0
+2025-07-14 10:34:48,416 INFO  Meta_Master_Code - Scroll: 1
+2025-07-14 10:34:54,540 INFO  Meta_Master_Code - Scroll: 2
+2025-07-14 10:35:00,767 INFO  Meta_Master_Code - Scroll: 3
+2025-07-14 10:35:09,211 INFO  Meta_Master_Code - Scroll: 4
+2025-07-14 10:35:15,279 INFO  Meta_Master_Code - Scroll: 5
+2025-07-14 10:35:21,666 INFO  Meta_Master_Code - Scroll: 6
+2025-07-14 10:35:28,105 INFO  Meta_Master_Code - Scroll: 7
+2025-07-14 10:35:34,864 INFO  Meta_Master_Code - Scroll: 8
+2025-07-14 10:35:41,185 INFO  Meta_Master_Code - Scroll: 9
+2025-07-14 10:35:47,936 INFO  Meta_Master_Code - Scroll: 10
+2025-07-14 10:35:54,230 INFO  Meta_Master_Code - Scroll: 11
+2025-07-14 10:36:00,488 INFO  Meta_Master_Code - Scroll: 12
+2025-07-14 10:36:06,627 INFO  Meta_Master_Code - Scroll: 13
+2025-07-14 10:36:13,003 INFO  Meta_Master_Code - Scroll: 14
+2025-07-14 10:36:19,308 INFO  Meta_Master_Code - Scroll: 15
+2025-07-14 10:36:25,368 INFO  Meta_Master_Code - Scroll: 16
+2025-07-14 10:36:31,479 INFO  Meta_Master_Code - Scroll: 17
+2025-07-14 10:36:37,621 INFO  Meta_Master_Code - Scroll: 18
+2025-07-14 10:36:43,727 INFO  Meta_Master_Code - Scroll: 19
+2025-07-14 10:36:49,899 INFO  Meta_Master_Code - Scroll: 20
+2025-07-14 10:36:56,125 INFO  Meta_Master_Code - 2025.07.14.10.29.35 - Excel file created successfully!
+2025-07-14 10:36:56,231 INFO  Meta_Master_Code - Total link is 6
+2025-07-14 10:36:56,418 INFO  Meta_Master_Code - 1 - Data written successfully.
+2025-07-14 10:36:56,739 INFO  Meta_Master_Code - 2 - Data written successfully.
+2025-07-14 10:36:56,896 INFO  Meta_Master_Code - 3 - Data written successfully.
+2025-07-14 10:36:57,013 INFO  Meta_Master_Code - 4 - Data written successfully.
+2025-07-14 10:36:57,078 INFO  Meta_Master_Code - 5 - Data written successfully.
+2025-07-14 10:36:57,128 INFO  Meta_Master_Code - 6 - Data written successfully.
+2025-07-14 10:36:57,138 INFO  Meta_Master_Code - Excel file has sheets, not deleted.
+2025-07-14 10:36:57,150 INFO  Meta_Master_Code - 2025.07.14.10.29.35-India- New sheet - Excel file created successfully!
+2025-07-14 10:36:59,278 INFO  Meta_Master_Code - 10-The downloads Count is -100000000
+2025-07-14 10:36:59,279 INFO  Meta_Master_Code - 10 - The Downloads is more than 1M
+2025-07-14 10:37:01,019 INFO  Meta_Master_Code - 11-The downloads Count is -1000000
+2025-07-14 10:37:01,020 INFO  Meta_Master_Code - 11 - The Downloads is more than 1M
+2025-07-14 10:37:02,607 INFO  Meta_Master_Code - 12-The downloads Count is -1000000
+2025-07-14 10:37:02,607 INFO  Meta_Master_Code - 12 - The Downloads is more than 1M
+2025-07-14 10:37:04,267 INFO  Meta_Master_Code - 13-The downloads Count is -1000000
+2025-07-14 10:37:04,268 INFO  Meta_Master_Code - 13 - The Downloads is more than 1M
+2025-07-14 10:37:06,099 INFO  Meta_Master_Code - 14-The downloads Count is -1000000
+2025-07-14 10:37:06,099 INFO  Meta_Master_Code - 14 - The Downloads is more than 1M
+2025-07-14 10:37:07,666 INFO  Meta_Master_Code - 15-The downloads Count is -1000000
+2025-07-14 10:37:07,666 INFO  Meta_Master_Code - 15 - The Downloads is more than 1M
+2025-07-14 10:37:07,679 INFO  Meta_Master_Code - Excel file deleted as it contains no sheets.
+2025-07-14 10:37:08,202 INFO  Meta_Master_Code - ----- Completed Run #3 -----
+
+2025-07-14 10:37:08,202 INFO  Meta_Master_Code - ----- Running TestNG Suite: Run #4 -----
+2025-07-14 10:37:11,655 INFO  Meta_Master_Code - URL Entered
+2025-07-14 10:37:11,699 INFO  Meta_Master_Code - Entered country is - India
+2025-07-14 10:37:11,699 INFO  Meta_Master_Code - India has been Choosen
+2025-07-14 10:37:12,001 INFO  Meta_Master_Code - Data Found
+2025-07-14 10:37:12,006 INFO  Meta_Master_Code - The Number of Scroll count Entered is - 20
+2025-07-14 10:37:12,006 INFO  Meta_Master_Code - Scroll: 0
+2025-07-14 10:37:18,056 INFO  Meta_Master_Code - Scroll: 1
+2025-07-14 10:37:24,718 INFO  Meta_Master_Code - Scroll: 2
+2025-07-14 10:37:33,120 INFO  Meta_Master_Code - Scroll: 3
+2025-07-14 10:37:39,229 INFO  Meta_Master_Code - Scroll: 4
+2025-07-14 10:37:45,313 INFO  Meta_Master_Code - Scroll: 5
+2025-07-14 10:37:51,711 INFO  Meta_Master_Code - Scroll: 6
+2025-07-14 10:37:58,477 INFO  Meta_Master_Code - Scroll: 7
+2025-07-14 10:38:04,571 INFO  Meta_Master_Code - Scroll: 8
+2025-07-14 10:38:10,704 INFO  Meta_Master_Code - Scroll: 9
+2025-07-14 10:38:16,836 INFO  Meta_Master_Code - Scroll: 10
+2025-07-14 10:38:22,923 INFO  Meta_Master_Code - Scroll: 11
+2025-07-14 10:38:29,076 INFO  Meta_Master_Code - Scroll: 12
+2025-07-14 10:38:35,230 INFO  Meta_Master_Code - Scroll: 13
+2025-07-14 10:38:41,309 INFO  Meta_Master_Code - Scroll: 14
+2025-07-14 10:38:47,472 INFO  Meta_Master_Code - Scroll: 15
+2025-07-14 10:38:53,612 INFO  Meta_Master_Code - Scroll: 16
+2025-07-14 10:39:00,038 INFO  Meta_Master_Code - Scroll: 17
+2025-07-14 10:39:06,185 INFO  Meta_Master_Code - Scroll: 18
+2025-07-14 10:39:12,336 INFO  Meta_Master_Code - Scroll: 19
+2025-07-14 10:39:18,631 INFO  Meta_Master_Code - Scroll: 20
+2025-07-14 10:39:24,872 INFO  Meta_Master_Code - 2025.07.14.10.29.35 - Excel file created successfully!
+2025-07-14 10:39:24,899 INFO  Meta_Master_Code - Total link is 4
+2025-07-14 10:39:24,954 INFO  Meta_Master_Code - 1 - Data written successfully.
+2025-07-14 10:39:25,008 INFO  Meta_Master_Code - 2 - Data written successfully.
+2025-07-14 10:39:25,059 INFO  Meta_Master_Code - 3 - Data written successfully.
+2025-07-14 10:39:25,104 INFO  Meta_Master_Code - 4 - Data written successfully.
+2025-07-14 10:39:25,116 INFO  Meta_Master_Code - Excel file has sheets, not deleted.
+2025-07-14 10:39:25,131 INFO  Meta_Master_Code - 2025.07.14.10.29.35-India- New sheet - Excel file created successfully!
+2025-07-14 10:39:27,315 INFO  Meta_Master_Code - 16-The downloads Count is -1000000
+2025-07-14 10:39:27,315 INFO  Meta_Master_Code - 16 - The Downloads is more than 1M
+2025-07-14 10:39:28,886 INFO  Meta_Master_Code - 17-The downloads Count is -1000000
+2025-07-14 10:39:28,887 INFO  Meta_Master_Code - 17 - The Downloads is more than 1M
+2025-07-14 10:39:30,288 INFO  Meta_Master_Code - 18-The downloads Count is -1000000
+2025-07-14 10:39:30,288 INFO  Meta_Master_Code - 18 - The Downloads is more than 1M
+2025-07-14 10:39:31,749 INFO  Meta_Master_Code - 19-The downloads Count is -1000000
+2025-07-14 10:39:31,749 INFO  Meta_Master_Code - 19 - The Downloads is more than 1M
+2025-07-14 10:39:31,764 INFO  Meta_Master_Code - Excel file deleted as it contains no sheets.
+2025-07-14 10:39:32,179 INFO  Meta_Master_Code - ----- Completed Run #4 -----
+

@@ -204,7 +204,7 @@ public class Meta_Master_Code {
 
 		// --------------------------------------Excel Written Process-------------------------------
 		createExcelFile("excel files Raw",stamp);
-
+		//Thread.sleep(4000);
 		int linkCount = driver.findElements(By.xpath("//div[text()='Install now']")).size();
 		System.out.println("Total link is " + linkCount);
 		logger.info("Total link is " + linkCount);
@@ -229,7 +229,7 @@ public class Meta_Master_Code {
 
 		}
 		deleteExcelIfNoSheets();
-		createExcelFile("excel files updated",stamp + "-" + Country + "- New sheet");
+		createExcelFile("excel files filtered",stamp + "-" + Country + "- New sheet");
 	}
 
 	// -------------------------------------------------Fetched link Validation and Filter----------------------------------------------
@@ -240,7 +240,7 @@ public class Meta_Master_Code {
 	public void analyseURLs(String URL1) throws IOException {
 		driver.get(URL1);
 		String Country = getPropertyFileValue("Country");
-		String filepath = System.getProperty("user.dir") + "\\excel files updated\\" + stamp + "-" + Country + "- New sheet.xlsx";
+		String filepath = System.getProperty("user.dir") + "\\excel files filtered\\" + stamp + "-" + Country + "- New sheet.xlsx";
 		try {
 			driver.findElement(By.xpath("//a[text()='Follow Link']")).click();
 		} catch (Exception e) {
@@ -254,7 +254,9 @@ public class Meta_Master_Code {
 			long count = convertToNumber(downloadCounts);
 			System.out.println(count);
 			logger.info(iterate+"-The downloads Count is -"+count);
-			if (count < 1000000) {
+			String downloadsCount=getPropertyFileValue("downloadCounts");
+			int downloadcnt=Integer.parseInt(downloadsCount);
+			if (count <= downloadcnt) {
 				try {
 					WebElement ratingElement = driver.findElement(By.xpath("//div[@itemprop='starRating']//div"));
 					String rating = ratingElement.getText();
@@ -343,7 +345,77 @@ public class Meta_Master_Code {
 		iterate++;
 	}
 	
-	
+	//----------------------------------------------------Delete Excel file if it has no Sheet -----------------------------------------------	
+		@Test(priority = 3, dependsOnMethods = "analyseURLs")
+		public void deleteExcelIfNoSheet() throws FileNotFoundException, IOException {
+			String Country = getPropertyFileValue("Country");
+			String filePath = System.getProperty("user.dir") + "\\excel files filtered\\" + stamp + "-" + Country + "- New sheet.xlsx"; // Replace with actual file path
+			File file = new File(filePath);
+
+			if (!file.exists()) {
+				System.out.println("File does not exist.");
+				return;
+			}
+
+			try (FileInputStream fis = new FileInputStream(file); Workbook workbook = new XSSFWorkbook(fis)) {
+
+				int numberOfSheets = workbook.getNumberOfSheets();
+				if (numberOfSheets == 0) {
+					// Close workbook before deleting file
+					workbook.close();
+
+					if (file.delete()) {
+						System.out.println("Excel file deleted as it contains no sheets.");
+						logger.info("Excel file deleted as it contains no sheets.");
+					} else {
+						System.out.println("Failed to delete the file.");
+						logger.info("Failed to delete the file.");
+					}
+				} else {
+					System.out.println("Excel file has sheets, not deleted.");
+					logger.info("Excel file has sheets, not deleted.");
+					countFilledCellsInExcel(filePath);
+				}
+
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+		
+		public void deleteExcelIfNoSheets() throws FileNotFoundException, IOException {
+			String filePath = System.getProperty("user.dir") + "\\excel files Raw\\" + stamp +".xlsx"; // Replace with actual file path
+			File file = new File(filePath);
+
+			if (!file.exists()) {
+				System.out.println("File does not exist.");
+				logger.info("File does not exist.");
+				return;
+			}
+
+			try (FileInputStream fis = new FileInputStream(file); Workbook workbook = new XSSFWorkbook(fis)) {
+
+				int numberOfSheets = workbook.getNumberOfSheets();
+				if (numberOfSheets == 0) {
+					// Close workbook before deleting file
+					workbook.close();
+
+					if (file.delete()) {
+						System.out.println("Excel file deleted as it contains no sheets.");
+						logger.info("Excel file deleted as it contains no sheets.");
+						Assert.fail();
+					} else {
+						System.out.println("Failed to delete the file.");
+						logger.info("Failed to delete the file.");
+					}
+				} else {
+					System.out.println("Excel file has sheets, not deleted.");
+					logger.info("Excel file has sheets, not deleted.");
+				}
+
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
 
 	// ----------------------------------------------Data Provider Code--------------------------------------------------------------------
 	@DataProvider(name = "excelData")
@@ -669,8 +741,36 @@ public class Meta_Master_Code {
 		}
 	}
 
-	// --------------------------------------------- Create New Excel File-----------------------------------------------------
-	public static void createExcelFile(String folderName,String fileName) {
+	// --------------------------------------------- Create New Excel File -----------------------------------------------------
+    public static void createExcelFile(String folderName, String fileName) {
+        String filePath = System.getProperty("user.dir") + "//" + folderName + "//" + fileName + ".xlsx";
+        File file = new File(filePath);
+
+        if (file.exists()) {
+            System.out.println("Excel file already exists. Skipping creation.");
+            logger.info(fileName + " - Excel file already exists. Skipping creation.");
+            return;
+        }
+
+        // Create parent folder if not exists
+        File folder = new File(System.getProperty("user.dir") + "//" + folderName);
+        if (!folder.exists()) {
+            folder.mkdirs();
+        }
+
+        Workbook workbook = new XSSFWorkbook();
+        try (FileOutputStream fileOut = new FileOutputStream(filePath)) {
+            workbook.write(fileOut);
+            workbook.close();
+            System.out.println("Excel file created successfully!");
+            logger.info(fileName + " - Excel file created successfully!");
+        } catch (IOException e) {
+            e.printStackTrace();
+            logger.warn("Error while creating Excel file: " + e.getMessage());
+        }
+    }
+	
+	/*public static void createExcelFile(String folderName,String fileName) {
 		// Create a new workbook
 		Workbook workbook = new XSSFWorkbook();
 		// Sheet sheet;
@@ -699,7 +799,7 @@ public class Meta_Master_Code {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-	}
+	}*/
 
 	public static void writeDatainExcel(String sheetName, int rownum, int cellnum, String data) throws IOException {
 		File file = new File(System.getProperty("user.dir") + "//" + stamp + "- Unique Links.xlsx");
@@ -801,77 +901,33 @@ public class Meta_Master_Code {
 		}
 
 	}
-	
-//----------------------------------------------------Delete Excel file if it has no Sheet -----------------------------------------------	
-	@Test(priority = 3, dependsOnMethods = "analyseURLs")
-	public void deleteExcelIfNoSheet() throws FileNotFoundException, IOException {
-		String Country = getPropertyFileValue("Country");
-		String filePath = System.getProperty("user.dir") + "\\excel files updated\\" + stamp + "-" + Country + "- New sheet.xlsx"; // Replace with actual file path
-		File file = new File(filePath);
 
-		if (!file.exists()) {
-			System.out.println("File does not exist.");
-			return;
-		}
+    public void countFilledCellsInExcel(String filepath) {
+        String excelFilePath = filepath; // Update with your actual file path
+        int filledCellCount = 0;
 
-		try (FileInputStream fis = new FileInputStream(file); Workbook workbook = new XSSFWorkbook(fis)) {
+        try (FileInputStream fis = new FileInputStream(new File(excelFilePath));
+             Workbook workbook = new XSSFWorkbook(fis)) {
 
-			int numberOfSheets = workbook.getNumberOfSheets();
-			if (numberOfSheets == 0) {
-				// Close workbook before deleting file
-				workbook.close();
+            Sheet sheet = workbook.getSheetAt(0); // You can loop through multiple sheets if needed
 
-				if (file.delete()) {
-					System.out.println("Excel file deleted as it contains no sheets.");
-					logger.info("Excel file deleted as it contains no sheets.");
-				} else {
-					System.out.println("Failed to delete the file.");
-					logger.info("Failed to delete the file.");
-				}
-			} else {
-				System.out.println("Excel file has sheets, not deleted.");
-				logger.info("Excel file has sheets, not deleted.");
-			}
+            for (Row row : sheet) {
+                for (Cell cell : row) {
+                    if (cell != null && cell.getCellType() != CellType.BLANK &&
+                        !cell.toString().trim().isEmpty()) {
+                        filledCellCount++;
+                    }
+                }
+            }
 
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-	}
-	
-	public void deleteExcelIfNoSheets() throws FileNotFoundException, IOException {
-		String filePath = System.getProperty("user.dir") + "\\excel files Raw\\" + stamp +".xlsx"; // Replace with actual file path
-		File file = new File(filePath);
+            System.out.println("Total filtered Link count: " + filledCellCount);
+            logger.info("Total filtered Link count: " + filledCellCount);
 
-		if (!file.exists()) {
-			System.out.println("File does not exist.");
-			logger.info("File does not exist.");
-			return;
-		}
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
 
-		try (FileInputStream fis = new FileInputStream(file); Workbook workbook = new XSSFWorkbook(fis)) {
-
-			int numberOfSheets = workbook.getNumberOfSheets();
-			if (numberOfSheets == 0) {
-				// Close workbook before deleting file
-				workbook.close();
-
-				if (file.delete()) {
-					System.out.println("Excel file deleted as it contains no sheets.");
-					logger.info("Excel file deleted as it contains no sheets.");
-					Assert.fail();
-				} else {
-					System.out.println("Failed to delete the file.");
-					logger.info("Failed to delete the file.");
-				}
-			} else {
-				System.out.println("Excel file has sheets, not deleted.");
-				logger.info("Excel file has sheets, not deleted.");
-			}
-
-		} catch (IOException e) {
-			e.printStackTrace();
-		}
-	}
 //----------------------------------------------------------------Log File Appender -------------------------------------------------------
 	   public static  Logger logger= Logger.getLogger(Meta_Master_Code.class);
 	   static {

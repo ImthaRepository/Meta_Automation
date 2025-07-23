@@ -5,9 +5,71 @@ import java.io.IOException;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
+import com.google.api.client.googleapis.auth.oauth2.GoogleCredential;
+import com.google.api.services.sheets.v4.Sheets;
+import com.google.api.services.sheets.v4.SheetsScopes;
+import com.google.api.services.sheets.v4.model.*;
+import java.io.FileInputStream;
+import java.security.GeneralSecurityException;
+import java.util.*;
 
 public class Sample_Test extends Meta_Phase2_Copy_1{
-@Test
+	
+
+
+	    private static final String APPLICATION_NAME = "Google Sheets API Java";
+	    private static final String SPREADSHEET_ID = "14D5ntocrV4nVN5RocvRPApsm7J5TLaUpuL64_39QdX8"; // Change this
+	    private static final String RANGE = "Sheet1!A:A"; // Column A
+
+	    @SuppressWarnings("deprecation")
+		private static Sheets getSheetsService() throws IOException, GeneralSecurityException {
+	        FileInputStream serviceAccountStream = new FileInputStream("path-to-your-service-account.json");
+
+	        GoogleCredential credential = GoogleCredential.fromStream(serviceAccountStream)
+	                .createScoped(Collections.singleton(SheetsScopes.SPREADSHEETS));
+
+	        return new Sheets.Builder(credential.getTransport(), credential.getJsonFactory(), credential)
+	                .setApplicationName(APPLICATION_NAME)
+	                .build();
+	    }
+
+	    @Test
+	    public void writeDataSkippingExistingCells() throws IOException, GeneralSecurityException {
+	        Sheets service = getSheetsService();
+
+	        List<String> dataToInsert = Arrays.asList("Apple", "Banana", "Cherry", "Mango");
+
+	        // 1. Read current values in column A
+	        ValueRange readResult = service.spreadsheets().values()
+	                .get(SPREADSHEET_ID, RANGE)
+	                .execute();
+
+	        List<List<Object>> existingRows = readResult.getValues();
+	        int startRow = existingRows != null ? existingRows.size() + 1 : 1;
+
+	        // 2. Prepare data to write starting from next empty cell
+	        List<List<Object>> values = new ArrayList<>();
+	        for (String item : dataToInsert) {
+	            values.add(Collections.singletonList(item));
+	        }
+
+	        ValueRange body = new ValueRange()
+	                .setValues(values);
+
+	        String rangeToWrite = "Sheet1!A" + startRow;
+	        service.spreadsheets().values()
+	                .update(SPREADSHEET_ID, rangeToWrite, body)
+	                .setValueInputOption("RAW")
+	                .execute();
+
+	        System.out.println("Data written starting at row: " + startRow);
+	    }
+	
+
+	
+	
+	
+//@Test
 public  void test() throws IOException {
 	
 	String URL="https://play.google.com/store/apps/details?id=com.gameloft.android.ANMP.GloftA9HM&pcampaignid=merch_published_cluster_promotion_battlestar_top_picks";

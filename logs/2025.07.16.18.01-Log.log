@@ -1,0 +1,473 @@
+2025-07-16 18:01:38,750 INFO  Meta_Website_Master_Code - URL Entered
+2025-07-16 18:01:38,927 INFO  Meta_Website_Master_Code - Entered country is - India
+2025-07-16 18:01:38,927 INFO  Meta_Website_Master_Code - India has been Choosen
+2025-07-16 18:01:39,163 INFO  Meta_Website_Master_Code - Data Found
+2025-07-16 18:01:39,170 INFO  Meta_Website_Master_Code - The Number of Scroll count Entered is - 20
+2025-07-16 18:01:39,170 INFO  Meta_Website_Master_Code - Scroll: 0
+2025-07-16 18:01:45,205 INFO  Meta_Website_Master_Code - Scroll: 1
+2025-07-16 18:01:51,258 INFO  Meta_Website_Master_Code - Scroll: 2
+2025-07-16 18:01:57,335 INFO  Meta_Website_Master_Code - Scroll: 3
+2025-07-16 18:02:03,398 INFO  Meta_Website_Master_Code - Scroll: 4
+2025-07-16 18:02:09,475 INFO  Meta_Website_Master_Code - Scroll: 5
+2025-07-16 18:02:15,534 INFO  Meta_Website_Master_Code - Scroll: 6
+2025-07-16 18:02:21,601 INFO  Meta_Website_Master_Code - Scroll: 7
+2025-07-16 18:02:27,707 INFO  Meta_Website_Master_Code - Scroll: 8
+2025-07-16 18:02:33,795 INFO  Meta_Website_Master_Code - Scroll: 9
+2025-07-16 18:02:39,884 INFO  Meta_Website_Master_Code - Scroll: 10
+2025-07-16 18:02:45,971 INFO  Meta_Website_Master_Code - Scroll: 11
+2025-07-16 18:02:52,047 INFO  Meta_Website_Master_Code - Scroll: 12
+2025-07-16 18:02:58,143 INFO  Meta_Website_Master_Code - Scroll: 13
+2025-07-16 18:03:04,242 INFO  Meta_Website_Master_Code - Scroll: 14
+2025-07-16 18:03:10,309 INFO  Meta_Website_Master_Code - Scroll: 15
+2025-07-16 18:03:16,388 INFO  Meta_Website_Master_Code - Scroll: 16
+2025-07-16 18:03:22,539 INFO  Meta_Website_Master_Code - Scroll: 17
+2025-07-16 18:03:28,580 INFO  Meta_Website_Master_Code - Scroll: 18
+2025-07-16 18:03:34,650 INFO  Meta_Website_Master_Code - Scroll: 19
+2025-07-16 18:03:40,717 INFO  Meta_Website_Master_Code - Scroll: 20
+2025-07-16 18:03:47,483 INFO  Meta_Website_Master_Code - 2025.07.16.18.01.33 - Excel file created successfully!
+2025-07-16 18:03:47,531 INFO  Meta_Website_Master_Code - Total link is 22
+2025-07-16 18:03:47,738 INFO  Meta_Website_Master_Code - 1 - Data written successfully.
+2025-07-16 18:03:47,811 INFO  Meta_Website_Master_Code - 2 - Data written successfully.
+2025-07-16 18:03:47,906 INFO  Meta_Website_Master_Code - 3 - Data written successfully.
+2025-07-16 18:03:47,988 INFO  Meta_Website_Master_Code - 4 - Data written successfully.
+2025-07-16 18:03:48,062 INFO  Meta_Website_Master_Code - 5 - Data written successfully.
+2025-07-16 18:03:48,128 INFO  Meta_Website_Master_Code - 6 - Data written successfully.
+2025-07-16 18:03:48,198 INFO  Meta_Website_Master_Code - 7 - Data written successfully.
+2025-07-16 18:03:48,263 INFO  Meta_Website_Master_Code - 8 - Data written successfully.
+2025-07-16 18:03:48,337 INFO  Meta_Website_Master_Code - 9 - Data written successfully.
+2025-07-16 18:03:48,409 INFO  Meta_Website_Master_Code - 10 - Data written successfully.
+2025-07-16 18:03:48,484 INFO  Meta_Website_Master_Code - 11 - Data written successfully.
+2025-07-16 18:03:48,549 INFO  Meta_Website_Master_Code - 12 - Data written successfully.
+2025-07-16 18:03:48,621 INFO  Meta_Website_Master_Code - 13 - Data written successfully.
+2025-07-16 18:03:48,695 INFO  Meta_Website_Master_Code - 14 - Data written successfully.
+2025-07-16 18:03:48,764 INFO  Meta_Website_Master_Code - 15 - Data written successfully.
+2025-07-16 18:03:48,840 INFO  Meta_Website_Master_Code - 16 - Data written successfully.
+2025-07-16 18:03:48,909 INFO  Meta_Website_Master_Code - 17 - Data written successfully.
+2025-07-16 18:03:48,981 INFO  Meta_Website_Master_Code - 18 - Data written successfully.
+2025-07-16 18:03:49,068 INFO  Meta_Website_Master_Code - 19 - Data written successfully.
+2025-07-16 18:03:49,133 INFO  Meta_Website_Master_Code - 20 - Data written successfully.
+2025-07-16 18:03:49,196 INFO  Meta_Website_Master_Code - 21 - Data written successfully.
+2025-07-16 18:03:49,264 INFO  Meta_Website_Master_Code - 22 - Data written successfully.
+2025-07-16 18:03:49,303 INFO  Meta_Website_Master_Code - Total link is 114
+2025-07-16 18:03:49,366 INFO  Meta_Website_Master_Code - 1 - Data written successfully.
+2025-07-16 18:03:49,432 INFO  Meta_Website_Master_Code - 2 - Data written successfully.
+2025-07-16 18:03:49,495 INFO  Meta_Website_Master_Code - 3 - Data written successfully.
+2025-07-16 18:03:49,573 INFO  Meta_Website_Master_Code - 4 - Data written successfully.
+2025-07-16 18:03:49,661 INFO  Meta_Website_Master_Code - 5 - Data written successfully.
+2025-07-16 18:03:49,731 INFO  Meta_Website_Master_Code - 6 - Data written successfully.
+2025-07-16 18:03:49,804 INFO  Meta_Website_Master_Code - 7 - Data written successfully.
+2025-07-16 18:03:49,870 INFO  Meta_Website_Master_Code - 8 - Data written successfully.
+2025-07-16 18:03:49,934 INFO  Meta_Website_Master_Code - 9 - Data written successfully.
+2025-07-16 18:03:50,000 INFO  Meta_Website_Master_Code - 10 - Data written successfully.
+2025-07-16 18:03:50,073 INFO  Meta_Website_Master_Code - 11 - Data written successfully.
+2025-07-16 18:03:50,160 INFO  Meta_Website_Master_Code - 12 - Data written successfully.
+2025-07-16 18:03:50,216 INFO  Meta_Website_Master_Code - 13 - Data written successfully.
+2025-07-16 18:03:50,274 INFO  Meta_Website_Master_Code - 14 - Data written successfully.
+2025-07-16 18:03:50,333 INFO  Meta_Website_Master_Code - 15 - Data written successfully.
+2025-07-16 18:03:50,395 INFO  Meta_Website_Master_Code - 16 - Data written successfully.
+2025-07-16 18:03:50,456 INFO  Meta_Website_Master_Code - 17 - Data written successfully.
+2025-07-16 18:03:50,515 INFO  Meta_Website_Master_Code - 18 - Data written successfully.
+2025-07-16 18:03:50,576 INFO  Meta_Website_Master_Code - 19 - Data written successfully.
+2025-07-16 18:03:50,642 INFO  Meta_Website_Master_Code - 20 - Data written successfully.
+2025-07-16 18:03:50,711 INFO  Meta_Website_Master_Code - 21 - Data written successfully.
+2025-07-16 18:03:50,773 INFO  Meta_Website_Master_Code - 22 - Data written successfully.
+2025-07-16 18:03:50,839 INFO  Meta_Website_Master_Code - 23 - Data written successfully.
+2025-07-16 18:03:50,895 INFO  Meta_Website_Master_Code - 24 - Data written successfully.
+2025-07-16 18:03:50,958 INFO  Meta_Website_Master_Code - 25 - Data written successfully.
+2025-07-16 18:03:51,034 INFO  Meta_Website_Master_Code - 26 - Data written successfully.
+2025-07-16 18:03:51,111 INFO  Meta_Website_Master_Code - 27 - Data written successfully.
+2025-07-16 18:03:51,183 INFO  Meta_Website_Master_Code - 28 - Data written successfully.
+2025-07-16 18:03:51,259 INFO  Meta_Website_Master_Code - 29 - Data written successfully.
+2025-07-16 18:03:51,326 INFO  Meta_Website_Master_Code - 30 - Data written successfully.
+2025-07-16 18:03:51,386 INFO  Meta_Website_Master_Code - 31 - Data written successfully.
+2025-07-16 18:03:51,447 INFO  Meta_Website_Master_Code - 32 - Data written successfully.
+2025-07-16 18:03:51,523 INFO  Meta_Website_Master_Code - 33 - Data written successfully.
+2025-07-16 18:03:51,605 INFO  Meta_Website_Master_Code - 34 - Data written successfully.
+2025-07-16 18:03:51,663 INFO  Meta_Website_Master_Code - 35 - Data written successfully.
+2025-07-16 18:03:51,722 INFO  Meta_Website_Master_Code - 36 - Data written successfully.
+2025-07-16 18:03:51,781 INFO  Meta_Website_Master_Code - 37 - Data written successfully.
+2025-07-16 18:03:51,844 INFO  Meta_Website_Master_Code - 38 - Data written successfully.
+2025-07-16 18:03:51,903 INFO  Meta_Website_Master_Code - 39 - Data written successfully.
+2025-07-16 18:03:51,960 INFO  Meta_Website_Master_Code - 40 - Data written successfully.
+2025-07-16 18:03:52,023 INFO  Meta_Website_Master_Code - 41 - Data written successfully.
+2025-07-16 18:03:52,086 INFO  Meta_Website_Master_Code - 42 - Data written successfully.
+2025-07-16 18:03:52,146 INFO  Meta_Website_Master_Code - 43 - Data written successfully.
+2025-07-16 18:03:52,228 INFO  Meta_Website_Master_Code - 44 - Data written successfully.
+2025-07-16 18:03:52,313 INFO  Meta_Website_Master_Code - 45 - Data written successfully.
+2025-07-16 18:03:52,389 INFO  Meta_Website_Master_Code - 46 - Data written successfully.
+2025-07-16 18:03:52,444 INFO  Meta_Website_Master_Code - 47 - Data written successfully.
+2025-07-16 18:03:52,497 INFO  Meta_Website_Master_Code - 48 - Data written successfully.
+2025-07-16 18:03:52,555 INFO  Meta_Website_Master_Code - 49 - Data written successfully.
+2025-07-16 18:03:52,620 INFO  Meta_Website_Master_Code - 50 - Data written successfully.
+2025-07-16 18:03:52,677 INFO  Meta_Website_Master_Code - 51 - Data written successfully.
+2025-07-16 18:03:52,773 INFO  Meta_Website_Master_Code - 52 - Data written successfully.
+2025-07-16 18:03:52,835 INFO  Meta_Website_Master_Code - 53 - Data written successfully.
+2025-07-16 18:03:52,899 INFO  Meta_Website_Master_Code - 54 - Data written successfully.
+2025-07-16 18:03:52,960 INFO  Meta_Website_Master_Code - 55 - Data written successfully.
+2025-07-16 18:03:53,020 INFO  Meta_Website_Master_Code - 56 - Data written successfully.
+2025-07-16 18:03:53,089 INFO  Meta_Website_Master_Code - 57 - Data written successfully.
+2025-07-16 18:03:53,158 INFO  Meta_Website_Master_Code - 58 - Data written successfully.
+2025-07-16 18:03:53,220 INFO  Meta_Website_Master_Code - 59 - Data written successfully.
+2025-07-16 18:03:53,312 INFO  Meta_Website_Master_Code - 60 - Data written successfully.
+2025-07-16 18:03:53,381 INFO  Meta_Website_Master_Code - 61 - Data written successfully.
+2025-07-16 18:03:53,439 INFO  Meta_Website_Master_Code - 62 - Data written successfully.
+2025-07-16 18:03:53,500 INFO  Meta_Website_Master_Code - 63 - Data written successfully.
+2025-07-16 18:03:53,552 INFO  Meta_Website_Master_Code - 64 - Data written successfully.
+2025-07-16 18:03:53,608 INFO  Meta_Website_Master_Code - 65 - Data written successfully.
+2025-07-16 18:03:53,668 INFO  Meta_Website_Master_Code - 66 - Data written successfully.
+2025-07-16 18:03:53,725 INFO  Meta_Website_Master_Code - 67 - Data written successfully.
+2025-07-16 18:03:53,789 INFO  Meta_Website_Master_Code - 68 - Data written successfully.
+2025-07-16 18:03:53,849 INFO  Meta_Website_Master_Code - 69 - Data written successfully.
+2025-07-16 18:03:53,917 INFO  Meta_Website_Master_Code - 70 - Data written successfully.
+2025-07-16 18:03:53,976 INFO  Meta_Website_Master_Code - 71 - Data written successfully.
+2025-07-16 18:03:54,025 INFO  Meta_Website_Master_Code - 72 - Data written successfully.
+2025-07-16 18:03:54,080 INFO  Meta_Website_Master_Code - 73 - Data written successfully.
+2025-07-16 18:03:54,133 INFO  Meta_Website_Master_Code - 74 - Data written successfully.
+2025-07-16 18:03:54,183 INFO  Meta_Website_Master_Code - 75 - Data written successfully.
+2025-07-16 18:03:54,241 INFO  Meta_Website_Master_Code - 76 - Data written successfully.
+2025-07-16 18:03:54,303 INFO  Meta_Website_Master_Code - 77 - Data written successfully.
+2025-07-16 18:03:54,357 INFO  Meta_Website_Master_Code - 78 - Data written successfully.
+2025-07-16 18:03:54,410 INFO  Meta_Website_Master_Code - 79 - Data written successfully.
+2025-07-16 18:03:54,462 INFO  Meta_Website_Master_Code - 80 - Data written successfully.
+2025-07-16 18:03:54,523 INFO  Meta_Website_Master_Code - 81 - Data written successfully.
+2025-07-16 18:03:54,591 INFO  Meta_Website_Master_Code - 82 - Data written successfully.
+2025-07-16 18:03:54,656 INFO  Meta_Website_Master_Code - 83 - Data written successfully.
+2025-07-16 18:03:54,715 INFO  Meta_Website_Master_Code - 84 - Data written successfully.
+2025-07-16 18:03:54,770 INFO  Meta_Website_Master_Code - 85 - Data written successfully.
+2025-07-16 18:03:54,823 INFO  Meta_Website_Master_Code - 86 - Data written successfully.
+2025-07-16 18:03:54,884 INFO  Meta_Website_Master_Code - 87 - Data written successfully.
+2025-07-16 18:03:54,937 INFO  Meta_Website_Master_Code - 88 - Data written successfully.
+2025-07-16 18:03:54,987 INFO  Meta_Website_Master_Code - 89 - Data written successfully.
+2025-07-16 18:03:55,045 INFO  Meta_Website_Master_Code - 90 - Data written successfully.
+2025-07-16 18:03:55,098 INFO  Meta_Website_Master_Code - 91 - Data written successfully.
+2025-07-16 18:03:55,152 INFO  Meta_Website_Master_Code - 92 - Data written successfully.
+2025-07-16 18:03:55,215 INFO  Meta_Website_Master_Code - 93 - Data written successfully.
+2025-07-16 18:03:55,263 INFO  Meta_Website_Master_Code - 94 - Data written successfully.
+2025-07-16 18:03:55,312 INFO  Meta_Website_Master_Code - 95 - Data written successfully.
+2025-07-16 18:03:55,372 INFO  Meta_Website_Master_Code - 96 - Data written successfully.
+2025-07-16 18:03:55,427 INFO  Meta_Website_Master_Code - 97 - Data written successfully.
+2025-07-16 18:03:55,481 INFO  Meta_Website_Master_Code - 98 - Data written successfully.
+2025-07-16 18:03:55,537 INFO  Meta_Website_Master_Code - 99 - Data written successfully.
+2025-07-16 18:03:55,596 INFO  Meta_Website_Master_Code - 100 - Data written successfully.
+2025-07-16 18:03:55,658 INFO  Meta_Website_Master_Code - 101 - Data written successfully.
+2025-07-16 18:03:55,709 INFO  Meta_Website_Master_Code - 102 - Data written successfully.
+2025-07-16 18:03:55,956 INFO  Meta_Website_Master_Code - 103 - Data written successfully.
+2025-07-16 18:03:56,220 INFO  Meta_Website_Master_Code - 104 - Data written successfully.
+2025-07-16 18:03:56,336 INFO  Meta_Website_Master_Code - 105 - Data written successfully.
+2025-07-16 18:03:56,448 INFO  Meta_Website_Master_Code - 106 - Data written successfully.
+2025-07-16 18:03:56,501 INFO  Meta_Website_Master_Code - 107 - Data written successfully.
+2025-07-16 18:03:56,549 INFO  Meta_Website_Master_Code - 108 - Data written successfully.
+2025-07-16 18:03:56,595 INFO  Meta_Website_Master_Code - 109 - Data written successfully.
+2025-07-16 18:03:56,645 INFO  Meta_Website_Master_Code - 110 - Data written successfully.
+2025-07-16 18:03:56,697 INFO  Meta_Website_Master_Code - 111 - Data written successfully.
+2025-07-16 18:03:56,744 INFO  Meta_Website_Master_Code - 112 - Data written successfully.
+2025-07-16 18:03:56,789 INFO  Meta_Website_Master_Code - 113 - Data written successfully.
+2025-07-16 18:03:56,834 INFO  Meta_Website_Master_Code - 114 - Data written successfully.
+2025-07-16 18:03:56,841 INFO  Meta_Website_Master_Code - Excel file has sheets, not deleted.
+2025-07-16 18:03:56,841 INFO  Meta_Website_Master_Code - 2025.07.16-India- New sheet - Excel file already exists. Skipping creation.
+2025-07-16 18:03:59,587 INFO  Meta_Website_Master_Code - Data written successfully: https://mituscouture.com/
+2025-07-16 18:03:59,641 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:03:59,669 INFO  Meta_Website_Master_Code - 0-Valid URL:https://mituscouture.com/
+2025-07-16 18:04:01,300 INFO  Meta_Website_Master_Code - Duplicate entry skipped: https://mituscouture.com/
+2025-07-16 18:04:01,327 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:04:01,347 INFO  Meta_Website_Master_Code - 1-Valid URL:https://mituscouture.com/
+2025-07-16 18:04:03,339 INFO  Meta_Website_Master_Code - Duplicate entry skipped: https://mituscouture.com/
+2025-07-16 18:04:03,374 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:04:03,402 INFO  Meta_Website_Master_Code - 2-Valid URL:https://mituscouture.com/
+2025-07-16 18:04:04,971 INFO  Meta_Website_Master_Code - Duplicate entry skipped: https://mituscouture.com/
+2025-07-16 18:04:04,992 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:04:05,019 INFO  Meta_Website_Master_Code - 3-Valid URL:https://mituscouture.com/
+2025-07-16 18:04:11,765 INFO  Meta_Website_Master_Code - Data written successfully: https://trybloom.in/
+2025-07-16 18:04:11,828 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:04:11,861 INFO  Meta_Website_Master_Code - 5-Valid URL:https://trybloom.in/
+2025-07-16 18:04:20,370 INFO  Meta_Website_Master_Code - Data written successfully: https://www.niviasports.com/
+2025-07-16 18:04:20,396 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:04:20,418 INFO  Meta_Website_Master_Code - 6-Valid URL:https://www.niviasports.com/
+2025-07-16 18:04:23,308 INFO  Meta_Website_Master_Code - Data written successfully: https://sugandh.co/
+2025-07-16 18:04:23,324 INFO  Meta_Website_Master_Code - Data Written in Mastersheet - https://sugandh.co/
+2025-07-16 18:04:23,351 INFO  Meta_Website_Master_Code - Data written at row index: 12
+2025-07-16 18:04:23,372 INFO  Meta_Website_Master_Code - 7-Valid URL:https://sugandh.co/
+2025-07-16 18:04:25,940 INFO  Meta_Website_Master_Code - Data written successfully: https://threadnneedles.com/
+2025-07-16 18:04:25,962 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:04:25,978 INFO  Meta_Website_Master_Code - 8-Valid URL:https://threadnneedles.com/
+2025-07-16 18:04:29,211 INFO  Meta_Website_Master_Code - Data written successfully: https://newwoffer.gtatens.com/
+2025-07-16 18:04:29,225 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:04:29,238 INFO  Meta_Website_Master_Code - 9-Valid URL:https://newwoffer.gtatens.com/
+2025-07-16 18:04:30,499 INFO  Meta_Website_Master_Code - Data written successfully: https://threadnneedles.com/
+2025-07-16 18:04:30,512 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:04:30,526 INFO  Meta_Website_Master_Code - 10-Valid URL:https://threadnneedles.com/
+2025-07-16 18:04:33,188 INFO  Meta_Website_Master_Code - Data written successfully: https://bio.site/
+2025-07-16 18:04:33,210 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:04:33,245 INFO  Meta_Website_Master_Code - 12-Valid URL:https://bio.site/
+2025-07-16 18:04:37,206 INFO  Meta_Website_Master_Code - Data written successfully: https://veonmax.com/
+2025-07-16 18:04:37,231 INFO  Meta_Website_Master_Code - Data Written in Mastersheet - https://veonmax.com/
+2025-07-16 18:04:37,269 INFO  Meta_Website_Master_Code - Data written at row index: 13
+2025-07-16 18:04:37,283 INFO  Meta_Website_Master_Code - 13-Valid URL:https://veonmax.com/
+2025-07-16 18:04:40,561 INFO  Meta_Website_Master_Code - Data written successfully: https://olavi.in/
+2025-07-16 18:04:40,587 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:04:40,618 INFO  Meta_Website_Master_Code - 14-Valid URL:https://olavi.in/
+2025-07-16 18:04:43,138 INFO  Meta_Website_Master_Code - Data written successfully: https://alvongrayindia.myshopify.com/
+2025-07-16 18:04:43,148 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:04:43,160 INFO  Meta_Website_Master_Code - 15-Valid URL:https://alvongrayindia.myshopify.com/
+2025-07-16 18:04:45,516 INFO  Meta_Website_Master_Code - Data written successfully: https://big-billion-flipkart.0ffer.shop/
+2025-07-16 18:04:45,528 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:04:45,536 INFO  Meta_Website_Master_Code - 16-Valid URL:https://big-billion-flipkart.0ffer.shop/
+2025-07-16 18:04:49,952 INFO  Meta_Website_Master_Code - Data written successfully: https://www.layers.shop/
+2025-07-16 18:04:49,977 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:04:49,994 INFO  Meta_Website_Master_Code - 17-Valid URL:https://www.layers.shop/
+2025-07-16 18:04:53,557 INFO  Meta_Website_Master_Code - Data written successfully: https://www.loot.in.net/
+2025-07-16 18:04:53,567 INFO  Meta_Website_Master_Code - Data Written in Mastersheet - https://www.loot.in.net/
+2025-07-16 18:04:53,588 INFO  Meta_Website_Master_Code - Data written at row index: 14
+2025-07-16 18:04:53,601 INFO  Meta_Website_Master_Code - 19-Valid URL:https://www.loot.in.net/
+2025-07-16 18:04:56,924 INFO  Meta_Website_Master_Code - Data written successfully: https://t.me/
+2025-07-16 18:04:56,940 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:04:56,955 INFO  Meta_Website_Master_Code - 20-Valid URL:https://t.me/
+2025-07-16 18:05:00,475 INFO  Meta_Website_Master_Code - Data written successfully: https://onemile.in/
+2025-07-16 18:05:00,485 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:05:00,496 INFO  Meta_Website_Master_Code - 21-Valid URL:https://onemile.in/
+2025-07-16 18:05:04,935 INFO  Meta_Website_Master_Code - Data written successfully: https://www.beyoung.in/
+2025-07-16 18:05:04,947 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:05:04,956 INFO  Meta_Website_Master_Code - 24-Valid URL:https://www.beyoung.in/
+2025-07-16 18:05:08,783 INFO  Meta_Website_Master_Code - Data written successfully: https://www.birkenstock.in/
+2025-07-16 18:05:08,800 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:05:08,809 INFO  Meta_Website_Master_Code - 25-Valid URL:https://www.birkenstock.in/
+2025-07-16 18:05:12,331 INFO  Meta_Website_Master_Code - Data written successfully: https://charmacyworld.com/
+2025-07-16 18:05:12,379 INFO  Meta_Website_Master_Code - Data Written in Mastersheet - https://charmacyworld.com/
+2025-07-16 18:05:12,429 INFO  Meta_Website_Master_Code - Data written at row index: 15
+2025-07-16 18:05:12,457 INFO  Meta_Website_Master_Code - 26-Valid URL:https://charmacyworld.com/
+2025-07-16 18:05:14,640 INFO  Meta_Website_Master_Code - Data written successfully: https://alvo.chat/
+2025-07-16 18:05:14,652 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:05:14,663 INFO  Meta_Website_Master_Code - 27-Valid URL:https://alvo.chat/
+2025-07-16 18:05:16,325 INFO  Meta_Website_Master_Code - Data written successfully: https://newwoffer.gtatens.com/
+2025-07-16 18:05:16,339 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:05:16,352 INFO  Meta_Website_Master_Code - 28-Valid URL:https://newwoffer.gtatens.com/
+2025-07-16 18:05:19,519 INFO  Meta_Website_Master_Code - Data written successfully: https://www.stonestoryjewellery.com/
+2025-07-16 18:05:19,547 INFO  Meta_Website_Master_Code - Data Written in Mastersheet - https://www.stonestoryjewellery.com/
+2025-07-16 18:05:19,585 INFO  Meta_Website_Master_Code - Data written at row index: 16
+2025-07-16 18:05:19,600 INFO  Meta_Website_Master_Code - 29-Valid URL:https://www.stonestoryjewellery.com/
+2025-07-16 18:05:22,441 INFO  Meta_Website_Master_Code - Data written successfully: https://charmacyworld.com/
+2025-07-16 18:05:22,450 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:05:22,458 INFO  Meta_Website_Master_Code - 30-Valid URL:https://charmacyworld.com/
+2025-07-16 18:05:23,617 INFO  Meta_Website_Master_Code - Data written successfully: https://t.me/
+2025-07-16 18:05:23,629 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:05:23,638 INFO  Meta_Website_Master_Code - 31-Valid URL:https://t.me/
+2025-07-16 18:05:27,332 INFO  Meta_Website_Master_Code - Data written successfully: https://everlasting.shop/
+2025-07-16 18:05:27,348 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:05:27,360 INFO  Meta_Website_Master_Code - 32-Valid URL:https://everlasting.shop/
+2025-07-16 18:05:30,164 INFO  Meta_Website_Master_Code - Duplicate entry skipped: https://everlasting.shop/
+2025-07-16 18:05:30,184 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:05:30,193 INFO  Meta_Website_Master_Code - 33-Valid URL:https://everlasting.shop/
+2025-07-16 18:05:33,887 INFO  Meta_Website_Master_Code - Duplicate entry skipped: https://everlasting.shop/
+2025-07-16 18:05:33,922 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:05:33,943 INFO  Meta_Website_Master_Code - 34-Valid URL:https://everlasting.shop/
+2025-07-16 18:05:37,539 INFO  Meta_Website_Master_Code - Data written successfully: https://shop.teamsg.in/
+2025-07-16 18:05:37,559 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:05:37,577 INFO  Meta_Website_Master_Code - 35-Valid URL:https://shop.teamsg.in/
+2025-07-16 18:05:40,907 INFO  Meta_Website_Master_Code - Data written successfully: https://ciaobella.in/
+2025-07-16 18:05:40,926 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:05:40,957 INFO  Meta_Website_Master_Code - 36-Valid URL:https://ciaobella.in/
+2025-07-16 18:05:46,560 INFO  Meta_Website_Master_Code - Data written successfully: https://www.afari.co.in/
+2025-07-16 18:05:46,576 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:05:46,594 INFO  Meta_Website_Master_Code - 37-Valid URL:https://www.afari.co.in/
+2025-07-16 18:05:50,348 INFO  Meta_Website_Master_Code - Data written successfully: https://ciaobella.in/
+2025-07-16 18:05:50,359 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:05:50,371 INFO  Meta_Website_Master_Code - 39-Valid URL:https://ciaobella.in/
+2025-07-16 18:05:53,081 INFO  Meta_Website_Master_Code - Data written successfully: https://sgs.flipkart-op-offers.com/
+2025-07-16 18:05:53,091 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:05:53,102 INFO  Meta_Website_Master_Code - 41-Valid URL:https://sgs.flipkart-op-offers.com/
+2025-07-16 18:05:56,639 INFO  Meta_Website_Master_Code - Data written successfully: https://secret-descont.shop/
+2025-07-16 18:05:56,651 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:05:56,663 INFO  Meta_Website_Master_Code - 42-Valid URL:https://secret-descont.shop/
+2025-07-16 18:06:02,361 INFO  Meta_Website_Master_Code - Data written successfully: https://www.hairexcellence.in/
+2025-07-16 18:06:02,375 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:06:02,389 INFO  Meta_Website_Master_Code - 43-Valid URL:https://www.hairexcellence.in/
+2025-07-16 18:06:09,099 INFO  Meta_Website_Master_Code - Data written successfully: https://cart.99outlet.shop/
+2025-07-16 18:06:09,108 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:06:09,116 INFO  Meta_Website_Master_Code - 44-Valid URL:https://cart.99outlet.shop/
+2025-07-16 18:06:10,427 INFO  Meta_Website_Master_Code - Data written successfully: https://newwoffer.gtatens.com/
+2025-07-16 18:06:10,437 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:06:10,446 INFO  Meta_Website_Master_Code - 45-Valid URL:https://newwoffer.gtatens.com/
+2025-07-16 18:06:12,525 INFO  Meta_Website_Master_Code - Data written successfully: https://big-billion-flipkart.0ffer.shop/
+2025-07-16 18:06:12,533 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:06:12,540 INFO  Meta_Website_Master_Code - 46-Valid URL:https://big-billion-flipkart.0ffer.shop/
+2025-07-16 18:06:15,166 INFO  Meta_Website_Master_Code - Data written successfully: https://ciaobella.in/
+2025-07-16 18:06:15,178 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:06:15,185 INFO  Meta_Website_Master_Code - 47-Valid URL:https://ciaobella.in/
+2025-07-16 18:06:18,716 INFO  Meta_Website_Master_Code - Data written successfully: https://garudwear.com/
+2025-07-16 18:06:18,729 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:06:18,739 INFO  Meta_Website_Master_Code - 48-Valid URL:https://garudwear.com/
+2025-07-16 18:06:21,224 INFO  Meta_Website_Master_Code - Data written successfully: https://mrucha.com/
+2025-07-16 18:06:21,236 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:06:21,247 INFO  Meta_Website_Master_Code - 49-Valid URL:https://mrucha.com/
+2025-07-16 18:06:24,865 INFO  Meta_Website_Master_Code - Data written successfully: https://fibreworldluxe.com/
+2025-07-16 18:06:24,883 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:06:24,892 INFO  Meta_Website_Master_Code - 50-Valid URL:https://fibreworldluxe.com/
+2025-07-16 18:06:28,364 INFO  Meta_Website_Master_Code - Data written successfully: https://esale24.com/
+2025-07-16 18:06:28,380 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:06:28,390 INFO  Meta_Website_Master_Code - 51-Valid URL:https://esale24.com/
+2025-07-16 18:06:31,464 INFO  Meta_Website_Master_Code - Data written successfully: https://everlasting.shop/
+2025-07-16 18:06:31,510 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:06:31,521 INFO  Meta_Website_Master_Code - 52-Valid URL:https://everlasting.shop/
+2025-07-16 18:06:35,418 INFO  Meta_Website_Master_Code - Data written successfully: https://forteefied.com/
+2025-07-16 18:06:35,425 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:06:35,434 INFO  Meta_Website_Master_Code - 54-Valid URL:https://forteefied.com/
+2025-07-16 18:06:38,261 INFO  Meta_Website_Master_Code - Data written successfully: https://drunch.in/
+2025-07-16 18:06:38,279 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:06:38,345 INFO  Meta_Website_Master_Code - 55-Valid URL:https://drunch.in/
+2025-07-16 18:06:40,258 INFO  Meta_Website_Master_Code - Data written successfully: https://forteefied.com/
+2025-07-16 18:06:40,276 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:06:40,294 INFO  Meta_Website_Master_Code - 56-Valid URL:https://forteefied.com/
+2025-07-16 18:06:45,899 INFO  Meta_Website_Master_Code - Data written successfully: https://fabcurate.com/
+2025-07-16 18:06:45,910 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:06:45,926 INFO  Meta_Website_Master_Code - 57-Valid URL:https://fabcurate.com/
+2025-07-16 18:06:49,519 INFO  Meta_Website_Master_Code - Data written successfully: https://peeperly.in/
+2025-07-16 18:06:49,542 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:06:49,562 INFO  Meta_Website_Master_Code - 58-Valid URL:https://peeperly.in/
+2025-07-16 18:06:52,800 INFO  Meta_Website_Master_Code - Data written successfully: https://ionesports.store/
+2025-07-16 18:06:52,816 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:06:52,828 INFO  Meta_Website_Master_Code - 59-Valid URL:https://ionesports.store/
+2025-07-16 18:06:56,367 INFO  Meta_Website_Master_Code - Data written successfully: https://gxqo.shop/
+2025-07-16 18:06:56,379 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:06:56,389 INFO  Meta_Website_Master_Code - 60-Valid URL:https://gxqo.shop/
+2025-07-16 18:06:58,619 INFO  Meta_Website_Master_Code - Duplicate entry skipped: https://gxqo.shop/
+2025-07-16 18:06:58,651 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:06:58,671 INFO  Meta_Website_Master_Code - 61-Valid URL:https://gxqo.shop/
+2025-07-16 18:07:00,652 INFO  Meta_Website_Master_Code - Duplicate entry skipped: https://gxqo.shop/
+2025-07-16 18:07:00,667 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:07:00,718 INFO  Meta_Website_Master_Code - 62-Valid URL:https://gxqo.shop/
+2025-07-16 18:07:04,951 INFO  Meta_Website_Master_Code - Data written successfully: https://touch925.com/
+2025-07-16 18:07:04,966 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:07:04,977 INFO  Meta_Website_Master_Code - 63-Valid URL:https://touch925.com/
+2025-07-16 18:07:10,460 INFO  Meta_Website_Master_Code - Data written successfully: https://whysobluelove.com/
+2025-07-16 18:07:10,484 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:07:10,494 INFO  Meta_Website_Master_Code - 64-Valid URL:https://whysobluelove.com/
+2025-07-16 18:07:14,049 INFO  Meta_Website_Master_Code - Data written successfully: https://special-rwds.in/
+2025-07-16 18:07:14,062 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:07:14,075 INFO  Meta_Website_Master_Code - 65-Valid URL:https://special-rwds.in/
+2025-07-16 18:07:18,099 INFO  Meta_Website_Master_Code - Data written successfully: https://touch925.com/
+2025-07-16 18:07:18,113 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:07:18,135 INFO  Meta_Website_Master_Code - 67-Valid URL:https://touch925.com/
+2025-07-16 18:07:21,467 INFO  Meta_Website_Master_Code - Data written successfully: https://whysobluelove.com/
+2025-07-16 18:07:21,480 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:07:21,495 INFO  Meta_Website_Master_Code - 68-Valid URL:https://whysobluelove.com/
+2025-07-16 18:07:24,496 INFO  Meta_Website_Master_Code - Data written successfully: https://voguemine.com/
+2025-07-16 18:07:24,510 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:07:24,520 INFO  Meta_Website_Master_Code - 69-Valid URL:https://voguemine.com/
+2025-07-16 18:07:28,104 INFO  Meta_Website_Master_Code - Data written successfully: https://vedix.com/
+2025-07-16 18:07:28,115 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:07:28,124 INFO  Meta_Website_Master_Code - 71-Valid URL:https://vedix.com/
+2025-07-16 18:07:29,737 INFO  Meta_Website_Master_Code - Data written successfully: https://alvo.chat/
+2025-07-16 18:07:29,750 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:07:29,762 INFO  Meta_Website_Master_Code - 72-Valid URL:https://alvo.chat/
+2025-07-16 18:07:31,557 INFO  Meta_Website_Master_Code - Data written successfully: https://vedix.com/
+2025-07-16 18:07:31,568 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:07:31,579 INFO  Meta_Website_Master_Code - 73-Valid URL:https://vedix.com/
+2025-07-16 18:07:36,908 INFO  Meta_Website_Master_Code - Data written successfully: https://soulstruck.in/
+2025-07-16 18:07:36,938 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:07:36,952 INFO  Meta_Website_Master_Code - 74-Valid URL:https://soulstruck.in/
+2025-07-16 18:07:39,089 INFO  Meta_Website_Master_Code - Data written successfully: https://whysobluelove.com/
+2025-07-16 18:07:39,106 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:07:39,116 INFO  Meta_Website_Master_Code - 75-Valid URL:https://whysobluelove.com/
+2025-07-16 18:07:41,994 INFO  Meta_Website_Master_Code - Data written successfully: https://soulstruck.in/
+2025-07-16 18:07:42,079 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:07:42,133 INFO  Meta_Website_Master_Code - 76-Valid URL:https://soulstruck.in/
+2025-07-16 18:07:45,318 INFO  Meta_Website_Master_Code - Data written successfully: https://enfants.in/
+2025-07-16 18:07:45,334 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:07:45,350 INFO  Meta_Website_Master_Code - 77-Valid URL:https://enfants.in/
+2025-07-16 18:07:46,696 INFO  Meta_Website_Master_Code - Data written successfully: https://fksupermart.shop/
+2025-07-16 18:07:46,704 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:07:46,714 INFO  Meta_Website_Master_Code - 78-Valid URL:https://fksupermart.shop/
+2025-07-16 18:07:50,000 INFO  Meta_Website_Master_Code - Data written successfully: https://urbanscape.in/
+2025-07-16 18:07:50,014 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:07:50,029 INFO  Meta_Website_Master_Code - 80-Valid URL:https://urbanscape.in/
+2025-07-16 18:07:54,073 INFO  Meta_Website_Master_Code - Data written successfully: https://www.pokonut.com/
+2025-07-16 18:07:54,096 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:07:54,117 INFO  Meta_Website_Master_Code - 81-Valid URL:https://www.pokonut.com/
+2025-07-16 18:07:55,545 INFO  Meta_Website_Master_Code - Data written successfully: https://urbanscape.in/
+2025-07-16 18:07:55,556 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:07:55,568 INFO  Meta_Website_Master_Code - 82-Valid URL:https://urbanscape.in/
+2025-07-16 18:07:56,853 INFO  Meta_Website_Master_Code - Duplicate entry skipped: https://urbanscape.in/
+2025-07-16 18:07:56,861 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:07:56,872 INFO  Meta_Website_Master_Code - 83-Valid URL:https://urbanscape.in/
+2025-07-16 18:07:58,231 INFO  Meta_Website_Master_Code - Duplicate entry skipped: https://urbanscape.in/
+2025-07-16 18:07:58,248 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:07:58,265 INFO  Meta_Website_Master_Code - 84-Valid URL:https://urbanscape.in/
+2025-07-16 18:07:59,570 INFO  Meta_Website_Master_Code - Duplicate entry skipped: https://urbanscape.in/
+2025-07-16 18:07:59,588 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:07:59,601 INFO  Meta_Website_Master_Code - 85-Valid URL:https://urbanscape.in/
+2025-07-16 18:08:00,903 INFO  Meta_Website_Master_Code - Duplicate entry skipped: https://urbanscape.in/
+2025-07-16 18:08:00,919 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:08:00,934 INFO  Meta_Website_Master_Code - 86-Valid URL:https://urbanscape.in/
+2025-07-16 18:08:02,224 INFO  Meta_Website_Master_Code - Duplicate entry skipped: https://urbanscape.in/
+2025-07-16 18:08:02,241 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:08:02,257 INFO  Meta_Website_Master_Code - 87-Valid URL:https://urbanscape.in/
+2025-07-16 18:08:03,548 INFO  Meta_Website_Master_Code - Duplicate entry skipped: https://urbanscape.in/
+2025-07-16 18:08:03,563 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:08:03,574 INFO  Meta_Website_Master_Code - 88-Valid URL:https://urbanscape.in/
+2025-07-16 18:08:04,854 INFO  Meta_Website_Master_Code - Duplicate entry skipped: https://urbanscape.in/
+2025-07-16 18:08:04,866 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:08:04,876 INFO  Meta_Website_Master_Code - 89-Valid URL:https://urbanscape.in/
+2025-07-16 18:08:09,784 INFO  Meta_Website_Master_Code - Data written successfully: https://secret-descount.shop/
+2025-07-16 18:08:09,795 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:08:09,804 INFO  Meta_Website_Master_Code - 90-Valid URL:https://secret-descount.shop/
+2025-07-16 18:08:12,811 INFO  Meta_Website_Master_Code - Data written successfully: https://lenstrack.com/
+2025-07-16 18:08:12,826 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:08:12,839 INFO  Meta_Website_Master_Code - 91-Valid URL:https://lenstrack.com/
+2025-07-16 18:08:29,260 INFO  Meta_Website_Master_Code - Data written successfully: https://newwoffer.gtatens.com/
+2025-07-16 18:08:29,270 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:08:29,279 INFO  Meta_Website_Master_Code - 92-Valid URL:https://newwoffer.gtatens.com/
+2025-07-16 18:08:33,032 INFO  Meta_Website_Master_Code - Data written successfully: https://www.independenct.com/
+2025-07-16 18:08:33,045 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:08:33,053 INFO  Meta_Website_Master_Code - 93-Valid URL:https://www.independenct.com/
+2025-07-16 18:08:35,080 INFO  Meta_Website_Master_Code - Duplicate entry skipped: https://www.independenct.com/
+2025-07-16 18:08:35,106 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:08:35,126 INFO  Meta_Website_Master_Code - 94-Valid URL:https://www.independenct.com/
+2025-07-16 18:08:36,780 INFO  Meta_Website_Master_Code - Duplicate entry skipped: https://www.independenct.com/
+2025-07-16 18:08:36,789 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:08:36,798 INFO  Meta_Website_Master_Code - 95-Valid URL:https://www.independenct.com/
+2025-07-16 18:08:38,367 INFO  Meta_Website_Master_Code - Duplicate entry skipped: https://www.independenct.com/
+2025-07-16 18:08:38,376 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:08:38,388 INFO  Meta_Website_Master_Code - 96-Valid URL:https://www.independenct.com/
+2025-07-16 18:08:42,548 INFO  Meta_Website_Master_Code - Data written successfully: https://secret-descont.shop/
+2025-07-16 18:08:42,561 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:08:42,574 INFO  Meta_Website_Master_Code - 98-Valid URL:https://secret-descont.shop/
+2025-07-16 18:08:45,197 INFO  Meta_Website_Master_Code - Data written successfully: https://groviaindia.shop/
+2025-07-16 18:08:45,209 INFO  Meta_Website_Master_Code - Data Written in Mastersheet - https://groviaindia.shop/
+2025-07-16 18:08:45,227 INFO  Meta_Website_Master_Code - Data written at row index: 17
+2025-07-16 18:08:45,240 INFO  Meta_Website_Master_Code - 99-Valid URL:https://groviaindia.shop/
+2025-07-16 18:08:47,523 INFO  Meta_Website_Master_Code - Data written successfully: https://everlasting.shop/
+2025-07-16 18:08:47,543 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:08:47,554 INFO  Meta_Website_Master_Code - 100-Valid URL:https://everlasting.shop/
+2025-07-16 18:09:09,738 INFO  Meta_Website_Master_Code - Data written successfully: https://worldbeautycare.in/
+2025-07-16 18:09:09,754 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:09:09,768 INFO  Meta_Website_Master_Code - 101-Valid URL:https://worldbeautycare.in/
+2025-07-16 18:09:12,027 INFO  Meta_Website_Master_Code - Duplicate entry skipped: https://worldbeautycare.in/
+2025-07-16 18:09:12,036 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:09:12,046 INFO  Meta_Website_Master_Code - 102-Valid URL:https://worldbeautycare.in/
+2025-07-16 18:09:14,086 INFO  Meta_Website_Master_Code - Duplicate entry skipped: https://worldbeautycare.in/
+2025-07-16 18:09:14,102 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:09:14,118 INFO  Meta_Website_Master_Code - 103-Valid URL:https://worldbeautycare.in/
+2025-07-16 18:09:19,075 INFO  Meta_Website_Master_Code - Data written successfully: https://crestekids.com/
+2025-07-16 18:09:19,100 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:09:19,117 INFO  Meta_Website_Master_Code - 104-Valid URL:https://crestekids.com/
+2025-07-16 18:09:22,523 INFO  Meta_Website_Master_Code - Data written successfully: https://www.lavieworld.com/
+2025-07-16 18:09:22,539 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:09:22,552 INFO  Meta_Website_Master_Code - 105-Valid URL:https://www.lavieworld.com/
+2025-07-16 18:09:24,842 INFO  Meta_Website_Master_Code - Duplicate entry skipped: https://www.lavieworld.com/
+2025-07-16 18:09:24,851 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:09:24,861 INFO  Meta_Website_Master_Code - 106-Valid URL:https://www.lavieworld.com/
+2025-07-16 18:09:26,929 INFO  Meta_Website_Master_Code - Data written successfully: https://worldbeautycare.in/
+2025-07-16 18:09:26,943 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:09:26,954 INFO  Meta_Website_Master_Code - 107-Valid URL:https://worldbeautycare.in/
+2025-07-16 18:09:29,642 INFO  Meta_Website_Master_Code - Data written successfully: https://www.onlinebigsalesislive7.shop/
+2025-07-16 18:09:29,651 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:09:29,660 INFO  Meta_Website_Master_Code - 108-Valid URL:https://www.onlinebigsalesislive7.shop/
+2025-07-16 18:09:31,883 INFO  Meta_Website_Master_Code - Data written successfully: https://www.rainthreads.com/
+2025-07-16 18:09:31,892 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:09:31,904 INFO  Meta_Website_Master_Code - 109-Valid URL:https://www.rainthreads.com/
+2025-07-16 18:09:36,002 INFO  Meta_Website_Master_Code - Data written successfully: https://secret-descont.shop/
+2025-07-16 18:09:36,013 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:09:36,020 INFO  Meta_Website_Master_Code - 110-Valid URL:https://secret-descont.shop/
+2025-07-16 18:09:37,281 INFO  Meta_Website_Master_Code - Data written successfully: https://www.rainthreads.com/
+2025-07-16 18:09:37,295 INFO  Meta_Website_Master_Code - Duplicate entry in the Mastersheet
+2025-07-16 18:09:37,309 INFO  Meta_Website_Master_Code - 111-Valid URL:https://www.rainthreads.com/

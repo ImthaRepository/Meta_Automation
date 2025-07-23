@@ -1,0 +1,257 @@
+2025-07-14 11:05:35,562 INFO  Meta_Master_Code - The number of Runs input is - 4
+2025-07-14 11:05:35,563 INFO  Meta_Master_Code - ----- Running TestNG Suite: Run #1 -----
+2025-07-14 11:05:41,040 INFO  Meta_Master_Code - URL Entered
+2025-07-14 11:05:41,225 INFO  Meta_Master_Code - Entered country is - India
+2025-07-14 11:05:41,225 INFO  Meta_Master_Code - India has been Choosen
+2025-07-14 11:05:41,468 INFO  Meta_Master_Code - Data Found
+2025-07-14 11:05:41,480 INFO  Meta_Master_Code - The Number of Scroll count Entered is - 20
+2025-07-14 11:05:41,480 INFO  Meta_Master_Code - Scroll: 0
+2025-07-14 11:05:47,514 INFO  Meta_Master_Code - Scroll: 1
+2025-07-14 11:05:53,618 INFO  Meta_Master_Code - Scroll: 2
+2025-07-14 11:05:59,669 INFO  Meta_Master_Code - Scroll: 3
+2025-07-14 11:06:05,795 INFO  Meta_Master_Code - Scroll: 4
+2025-07-14 11:06:13,255 INFO  Meta_Master_Code - Scroll: 5
+2025-07-14 11:06:19,347 INFO  Meta_Master_Code - Scroll: 6
+2025-07-14 11:06:25,395 INFO  Meta_Master_Code - Scroll: 7
+2025-07-14 11:06:31,589 INFO  Meta_Master_Code - Scroll: 8
+2025-07-14 11:06:37,931 INFO  Meta_Master_Code - Scroll: 9
+2025-07-14 11:06:44,086 INFO  Meta_Master_Code - Scroll: 10
+2025-07-14 11:06:50,234 INFO  Meta_Master_Code - Scroll: 11
+2025-07-14 11:06:56,466 INFO  Meta_Master_Code - Scroll: 12
+2025-07-14 11:07:02,929 INFO  Meta_Master_Code - Scroll: 13
+2025-07-14 11:07:09,887 INFO  Meta_Master_Code - Scroll: 14
+2025-07-14 11:07:17,110 INFO  Meta_Master_Code - Scroll: 15
+2025-07-14 11:07:23,281 INFO  Meta_Master_Code - Scroll: 16
+2025-07-14 11:07:30,889 INFO  Meta_Master_Code - Scroll: 17
+2025-07-14 11:07:37,008 INFO  Meta_Master_Code - Scroll: 18
+2025-07-14 11:07:43,067 INFO  Meta_Master_Code - Scroll: 19
+2025-07-14 11:07:49,195 INFO  Meta_Master_Code - Scroll: 20
+2025-07-14 11:07:56,091 INFO  Meta_Master_Code - 2025.07.14.11.05.35 - Excel file created successfully!
+2025-07-14 11:07:56,126 INFO  Meta_Master_Code - Total link is 4
+2025-07-14 11:07:56,330 INFO  Meta_Master_Code - 1 - Data written successfully.
+2025-07-14 11:07:56,401 INFO  Meta_Master_Code - 2 - Data written successfully.
+2025-07-14 11:07:56,464 INFO  Meta_Master_Code - 3 - Data written successfully.
+2025-07-14 11:07:56,529 INFO  Meta_Master_Code - 4 - Data written successfully.
+2025-07-14 11:07:56,543 INFO  Meta_Master_Code - Excel file has sheets, not deleted.
+2025-07-14 11:07:56,559 INFO  Meta_Master_Code - 2025.07.14.11.05.35-India- New sheet - Excel file created successfully!
+2025-07-14 11:07:58,790 INFO  Meta_Master_Code - 0-The downloads Count is -100000000
+2025-07-14 11:07:58,790 INFO  Meta_Master_Code - 0 - The Downloads is more than 1M
+2025-07-14 11:08:00,396 INFO  Meta_Master_Code - 1-The downloads Count is -1000000
+2025-07-14 11:08:00,424 INFO  Meta_Master_Code - Parsed rating: 4.8
+2025-07-14 11:08:00,424 INFO  Meta_Master_Code - 1 - The Rating Count is Greater than 4.5
+2025-07-14 11:08:01,845 INFO  Meta_Master_Code - 2-The downloads Count is -1000000
+2025-07-14 11:08:01,875 INFO  Meta_Master_Code - Parsed rating: 3.5
+2025-07-14 11:08:01,915 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.location.sharing.fwhere.mapswithme.android
+2025-07-14 11:08:02,046 INFO  Meta_Master_Code - Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.location.sharing.fwhere.mapswithme.android
+2025-07-14 11:08:02,095 INFO  Meta_Master_Code - Data written at row index: 0
+2025-07-14 11:08:02,177 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:08:02,177 INFO  Meta_Master_Code - 2 - link in written
+2025-07-14 11:08:03,609 INFO  Meta_Master_Code - 3-The downloads Count is -10000
+2025-07-14 11:08:03,639 INFO  Meta_Master_Code - Parsed rating: 4.5
+2025-07-14 11:08:03,696 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=io.carx.CarX
+2025-07-14 11:08:03,794 INFO  Meta_Master_Code - Data Written in Mastersheet - https://play.google.com/store/apps/details?id=io.carx.CarX
+2025-07-14 11:08:03,869 INFO  Meta_Master_Code - Data written at row index: 1
+2025-07-14 11:08:03,943 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:08:03,943 INFO  Meta_Master_Code - 3 - link in written
+2025-07-14 11:08:03,982 INFO  Meta_Master_Code - Excel file has sheets, not deleted.
+2025-07-14 11:08:04,025 INFO  Meta_Master_Code - Total filtered Link count: 2
+2025-07-14 11:08:04,540 INFO  Meta_Master_Code - ----- Completed Run #1 -----
+
+2025-07-14 11:08:04,540 INFO  Meta_Master_Code - ----- Running TestNG Suite: Run #2 -----
+2025-07-14 11:08:07,914 INFO  Meta_Master_Code - URL Entered
+2025-07-14 11:08:08,016 INFO  Meta_Master_Code - Entered country is - India
+2025-07-14 11:08:08,016 INFO  Meta_Master_Code - India has been Choosen
+2025-07-14 11:08:08,248 INFO  Meta_Master_Code - Data Found
+2025-07-14 11:08:08,254 INFO  Meta_Master_Code - The Number of Scroll count Entered is - 20
+2025-07-14 11:08:08,254 INFO  Meta_Master_Code - Scroll: 0
+2025-07-14 11:08:14,783 INFO  Meta_Master_Code - Scroll: 1
+2025-07-14 11:08:21,015 INFO  Meta_Master_Code - Scroll: 2
+2025-07-14 11:08:27,187 INFO  Meta_Master_Code - Scroll: 3
+2025-07-14 11:08:33,540 INFO  Meta_Master_Code - Scroll: 4
+2025-07-14 11:08:39,976 INFO  Meta_Master_Code - Scroll: 5
+2025-07-14 11:08:46,214 INFO  Meta_Master_Code - Scroll: 6
+2025-07-14 11:08:52,765 INFO  Meta_Master_Code - Scroll: 7
+2025-07-14 11:08:59,265 INFO  Meta_Master_Code - Scroll: 8
+2025-07-14 11:09:05,373 INFO  Meta_Master_Code - Scroll: 9
+2025-07-14 11:09:11,524 INFO  Meta_Master_Code - Scroll: 10
+2025-07-14 11:09:17,660 INFO  Meta_Master_Code - Scroll: 11
+2025-07-14 11:09:23,755 INFO  Meta_Master_Code - Scroll: 12
+2025-07-14 11:09:29,879 INFO  Meta_Master_Code - Scroll: 13
+2025-07-14 11:09:36,006 INFO  Meta_Master_Code - Scroll: 14
+2025-07-14 11:09:42,075 INFO  Meta_Master_Code - Scroll: 15
+2025-07-14 11:09:48,136 INFO  Meta_Master_Code - Scroll: 16
+2025-07-14 11:09:54,296 INFO  Meta_Master_Code - Scroll: 17
+2025-07-14 11:10:00,565 INFO  Meta_Master_Code - Scroll: 18
+2025-07-14 11:10:06,723 INFO  Meta_Master_Code - Scroll: 19
+2025-07-14 11:10:12,787 INFO  Meta_Master_Code - Scroll: 20
+2025-07-14 11:10:18,928 INFO  Meta_Master_Code - 2025.07.14.11.05.35 - Excel file created successfully!
+2025-07-14 11:10:18,959 INFO  Meta_Master_Code - Total link is 5
+2025-07-14 11:10:19,015 INFO  Meta_Master_Code - 1 - Data written successfully.
+2025-07-14 11:10:19,067 INFO  Meta_Master_Code - 2 - Data written successfully.
+2025-07-14 11:10:19,119 INFO  Meta_Master_Code - 3 - Data written successfully.
+2025-07-14 11:10:19,191 INFO  Meta_Master_Code - 4 - Data written successfully.
+2025-07-14 11:10:19,255 INFO  Meta_Master_Code - 5 - Data written successfully.
+2025-07-14 11:10:19,291 INFO  Meta_Master_Code - Excel file has sheets, not deleted.
+2025-07-14 11:10:19,329 INFO  Meta_Master_Code - 2025.07.14.11.05.35-India- New sheet - Excel file created successfully!
+2025-07-14 11:10:21,910 INFO  Meta_Master_Code - 4 - The link is App store or other site
+2025-07-14 11:10:24,002 INFO  Meta_Master_Code - 5-The downloads Count is -100000000
+2025-07-14 11:10:24,002 INFO  Meta_Master_Code - 5 - The Downloads is more than 1M
+2025-07-14 11:10:25,627 INFO  Meta_Master_Code - 6-The downloads Count is -1000000
+2025-07-14 11:10:25,650 INFO  Meta_Master_Code - Parsed rating: 4.8
+2025-07-14 11:10:25,650 INFO  Meta_Master_Code - 6 - The Rating Count is Greater than 4.5
+2025-07-14 11:10:27,017 INFO  Meta_Master_Code - 7-The downloads Count is -1000000
+2025-07-14 11:10:27,043 INFO  Meta_Master_Code - Parsed rating: 3.5
+2025-07-14 11:10:27,075 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.location.sharing.fwhere.mapswithme.android
+2025-07-14 11:10:27,139 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:10:27,168 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:10:27,168 INFO  Meta_Master_Code - 7 - link in written
+2025-07-14 11:10:28,477 INFO  Meta_Master_Code - 8-The downloads Count is -10000
+2025-07-14 11:10:28,502 INFO  Meta_Master_Code - Parsed rating: 4.5
+2025-07-14 11:10:28,539 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=io.carx.CarX
+2025-07-14 11:10:28,619 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:10:28,652 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:10:28,652 INFO  Meta_Master_Code - 8 - link in written
+2025-07-14 11:10:28,683 INFO  Meta_Master_Code - Excel file deleted as it contains no sheets.
+2025-07-14 11:10:29,244 INFO  Meta_Master_Code - ----- Completed Run #2 -----
+
+2025-07-14 11:10:29,244 INFO  Meta_Master_Code - ----- Running TestNG Suite: Run #3 -----
+2025-07-14 11:10:32,658 INFO  Meta_Master_Code - URL Entered
+2025-07-14 11:10:32,715 INFO  Meta_Master_Code - Entered country is - India
+2025-07-14 11:10:32,715 INFO  Meta_Master_Code - India has been Choosen
+2025-07-14 11:10:33,024 INFO  Meta_Master_Code - Data Found
+2025-07-14 11:10:33,034 INFO  Meta_Master_Code - The Number of Scroll count Entered is - 20
+2025-07-14 11:10:33,034 INFO  Meta_Master_Code - Scroll: 0
+2025-07-14 11:10:39,892 INFO  Meta_Master_Code - Scroll: 1
+2025-07-14 11:10:45,972 INFO  Meta_Master_Code - Scroll: 2
+2025-07-14 11:10:52,058 INFO  Meta_Master_Code - Scroll: 3
+2025-07-14 11:10:58,149 INFO  Meta_Master_Code - Scroll: 4
+2025-07-14 11:11:05,508 INFO  Meta_Master_Code - Scroll: 5
+2025-07-14 11:11:12,258 INFO  Meta_Master_Code - Scroll: 6
+2025-07-14 11:11:18,895 INFO  Meta_Master_Code - Scroll: 7
+2025-07-14 11:11:25,112 INFO  Meta_Master_Code - Scroll: 8
+2025-07-14 11:11:31,481 INFO  Meta_Master_Code - Scroll: 9
+2025-07-14 11:11:37,897 INFO  Meta_Master_Code - Scroll: 10
+2025-07-14 11:11:43,958 INFO  Meta_Master_Code - Scroll: 11
+2025-07-14 11:11:50,105 INFO  Meta_Master_Code - Scroll: 12
+2025-07-14 11:11:56,233 INFO  Meta_Master_Code - Scroll: 13
+2025-07-14 11:12:02,285 INFO  Meta_Master_Code - Scroll: 14
+2025-07-14 11:12:08,417 INFO  Meta_Master_Code - Scroll: 15
+2025-07-14 11:12:14,490 INFO  Meta_Master_Code - Scroll: 16
+2025-07-14 11:12:20,572 INFO  Meta_Master_Code - Scroll: 17
+2025-07-14 11:12:26,689 INFO  Meta_Master_Code - Scroll: 18
+2025-07-14 11:12:32,793 INFO  Meta_Master_Code - Scroll: 19
+2025-07-14 11:12:39,062 INFO  Meta_Master_Code - Scroll: 20
+2025-07-14 11:12:45,175 INFO  Meta_Master_Code - 2025.07.14.11.05.35 - Excel file created successfully!
+2025-07-14 11:12:45,208 INFO  Meta_Master_Code - Total link is 6
+2025-07-14 11:12:45,261 INFO  Meta_Master_Code - 1 - Data written successfully.
+2025-07-14 11:12:45,313 INFO  Meta_Master_Code - 2 - Data written successfully.
+2025-07-14 11:12:45,367 INFO  Meta_Master_Code - 3 - Data written successfully.
+2025-07-14 11:12:45,420 INFO  Meta_Master_Code - 4 - Data written successfully.
+2025-07-14 11:12:45,494 INFO  Meta_Master_Code - 5 - Data written successfully.
+2025-07-14 11:12:45,554 INFO  Meta_Master_Code - 6 - Data written successfully.
+2025-07-14 11:12:45,570 INFO  Meta_Master_Code - Excel file has sheets, not deleted.
+2025-07-14 11:12:45,590 INFO  Meta_Master_Code - 2025.07.14.11.05.35-India- New sheet - Excel file created successfully!
+2025-07-14 11:12:47,588 INFO  Meta_Master_Code - 9 - The link is App store or other site
+2025-07-14 11:12:49,523 INFO  Meta_Master_Code - 10-The downloads Count is -1000000
+2025-07-14 11:12:49,543 INFO  Meta_Master_Code - Parsed rating: 4.8
+2025-07-14 11:12:49,543 INFO  Meta_Master_Code - 10 - The Rating Count is Greater than 4.5
+2025-07-14 11:12:51,099 INFO  Meta_Master_Code - 11-The downloads Count is -1000000
+2025-07-14 11:12:51,126 INFO  Meta_Master_Code - Parsed rating: 3.5
+2025-07-14 11:12:51,150 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.location.sharing.fwhere.mapswithme.android
+2025-07-14 11:12:51,191 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:12:51,225 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:12:51,226 INFO  Meta_Master_Code - 11 - link in written
+2025-07-14 11:12:52,688 INFO  Meta_Master_Code - 12-The downloads Count is -10000
+2025-07-14 11:12:52,715 INFO  Meta_Master_Code - Parsed rating: 4.5
+2025-07-14 11:12:52,741 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=io.carx.CarX
+2025-07-14 11:12:52,768 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:12:52,788 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:12:52,788 INFO  Meta_Master_Code - 12 - link in written
+2025-07-14 11:12:54,219 INFO  Meta_Master_Code - 13-The downloads Count is -1000000
+2025-07-14 11:12:54,245 INFO  Meta_Master_Code - Parsed rating: 4.3
+2025-07-14 11:12:54,276 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.zudo
+2025-07-14 11:12:54,355 INFO  Meta_Master_Code - Data Written in Mastersheet - https://play.google.com/store/apps/details?id=com.zudo
+2025-07-14 11:12:54,389 INFO  Meta_Master_Code - Data written at row index: 0
+2025-07-14 11:12:54,435 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:12:54,435 INFO  Meta_Master_Code - 13 - link in written
+2025-07-14 11:12:55,956 INFO  Meta_Master_Code - 14-The downloads Count is -1000000
+2025-07-14 11:12:55,982 INFO  Meta_Master_Code - Parsed rating: 4.3
+2025-07-14 11:12:56,002 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.zudo
+2025-07-14 11:12:56,054 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:12:56,074 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:12:56,074 INFO  Meta_Master_Code - 14 - link in written
+2025-07-14 11:12:56,097 INFO  Meta_Master_Code - Excel file has sheets, not deleted.
+2025-07-14 11:12:56,128 INFO  Meta_Master_Code - Total filtered Link count: 1
+2025-07-14 11:12:56,583 INFO  Meta_Master_Code - ----- Completed Run #3 -----
+
+2025-07-14 11:12:56,583 INFO  Meta_Master_Code - ----- Running TestNG Suite: Run #4 -----
+2025-07-14 11:12:58,568 INFO  Meta_Master_Code - URL Entered
+2025-07-14 11:12:59,280 INFO  Meta_Master_Code - Entered country is - India
+2025-07-14 11:12:59,281 INFO  Meta_Master_Code - India has been Choosen
+2025-07-14 11:12:59,612 INFO  Meta_Master_Code - Data Found
+2025-07-14 11:12:59,622 INFO  Meta_Master_Code - The Number of Scroll count Entered is - 20
+2025-07-14 11:12:59,622 INFO  Meta_Master_Code - Scroll: 0
+2025-07-14 11:13:05,900 INFO  Meta_Master_Code - Scroll: 1
+2025-07-14 11:13:12,071 INFO  Meta_Master_Code - Scroll: 2
+2025-07-14 11:13:18,328 INFO  Meta_Master_Code - Scroll: 3
+2025-07-14 11:13:24,607 INFO  Meta_Master_Code - Scroll: 4
+2025-07-14 11:13:31,551 INFO  Meta_Master_Code - Scroll: 5
+2025-07-14 11:13:37,951 INFO  Meta_Master_Code - Scroll: 6
+2025-07-14 11:13:44,234 INFO  Meta_Master_Code - Scroll: 7
+2025-07-14 11:13:50,693 INFO  Meta_Master_Code - Scroll: 8
+2025-07-14 11:13:57,049 INFO  Meta_Master_Code - Scroll: 9
+2025-07-14 11:14:03,457 INFO  Meta_Master_Code - Scroll: 10
+2025-07-14 11:14:09,573 INFO  Meta_Master_Code - Scroll: 11
+2025-07-14 11:14:15,633 INFO  Meta_Master_Code - Scroll: 12
+2025-07-14 11:14:21,757 INFO  Meta_Master_Code - Scroll: 13
+2025-07-14 11:14:27,845 INFO  Meta_Master_Code - Scroll: 14
+2025-07-14 11:14:33,989 INFO  Meta_Master_Code - Scroll: 15
+2025-07-14 11:14:40,168 INFO  Meta_Master_Code - Scroll: 16
+2025-07-14 11:14:46,377 INFO  Meta_Master_Code - Scroll: 17
+2025-07-14 11:14:52,634 INFO  Meta_Master_Code - Scroll: 18
+2025-07-14 11:14:58,854 INFO  Meta_Master_Code - Scroll: 19
+2025-07-14 11:15:05,083 INFO  Meta_Master_Code - Scroll: 20
+2025-07-14 11:15:11,223 INFO  Meta_Master_Code - 2025.07.14.11.05.35 - Excel file created successfully!
+2025-07-14 11:15:11,261 INFO  Meta_Master_Code - Total link is 7
+2025-07-14 11:15:11,307 INFO  Meta_Master_Code - 1 - Data written successfully.
+2025-07-14 11:15:11,352 INFO  Meta_Master_Code - 2 - Data written successfully.
+2025-07-14 11:15:11,398 INFO  Meta_Master_Code - 3 - Data written successfully.
+2025-07-14 11:15:11,448 INFO  Meta_Master_Code - 4 - Data written successfully.
+2025-07-14 11:15:11,491 INFO  Meta_Master_Code - 5 - Data written successfully.
+2025-07-14 11:15:11,538 INFO  Meta_Master_Code - 6 - Data written successfully.
+2025-07-14 11:15:11,608 INFO  Meta_Master_Code - 7 - Data written successfully.
+2025-07-14 11:15:11,617 INFO  Meta_Master_Code - Excel file has sheets, not deleted.
+2025-07-14 11:15:11,626 INFO  Meta_Master_Code - 2025.07.14.11.05.35-India- New sheet - Excel file created successfully!
+2025-07-14 11:15:13,479 INFO  Meta_Master_Code - 15 - The link is App store or other site
+2025-07-14 11:15:15,480 INFO  Meta_Master_Code - 16-The downloads Count is -100000000
+2025-07-14 11:15:15,480 INFO  Meta_Master_Code - 16 - The Downloads is more than 1M
+2025-07-14 11:15:16,948 INFO  Meta_Master_Code - 17-The downloads Count is -1000000
+2025-07-14 11:15:16,973 INFO  Meta_Master_Code - Parsed rating: 4.8
+2025-07-14 11:15:16,974 INFO  Meta_Master_Code - 17 - The Rating Count is Greater than 4.5
+2025-07-14 11:15:18,307 INFO  Meta_Master_Code - 18-The downloads Count is -1000000
+2025-07-14 11:15:18,332 INFO  Meta_Master_Code - Parsed rating: 3.5
+2025-07-14 11:15:18,357 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.location.sharing.fwhere.mapswithme.android
+2025-07-14 11:15:18,395 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:15:18,412 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:15:18,412 INFO  Meta_Master_Code - 18 - link in written
+2025-07-14 11:15:19,863 INFO  Meta_Master_Code - 19-The downloads Count is -10000
+2025-07-14 11:15:19,887 INFO  Meta_Master_Code - Parsed rating: 4.5
+2025-07-14 11:15:19,911 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=io.carx.CarX
+2025-07-14 11:15:19,934 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:15:19,952 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:15:19,953 INFO  Meta_Master_Code - 19 - link in written
+2025-07-14 11:15:21,335 INFO  Meta_Master_Code - 20-The downloads Count is -1000000
+2025-07-14 11:15:21,358 INFO  Meta_Master_Code - Parsed rating: 4.3
+2025-07-14 11:15:21,383 INFO  Meta_Master_Code - Data written successfully: https://play.google.com/store/apps/details?id=com.zudo
+2025-07-14 11:15:21,408 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:15:21,472 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:15:21,473 INFO  Meta_Master_Code - 20 - link in written
+2025-07-14 11:15:22,761 INFO  Meta_Master_Code - 21-The downloads Count is -1000000
+2025-07-14 11:15:22,791 INFO  Meta_Master_Code - Parsed rating: 4.3
+2025-07-14 11:15:22,801 INFO  Meta_Master_Code - Duplicate entry skipped: https://play.google.com/store/apps/details?id=com.zudo
+2025-07-14 11:15:22,827 INFO  Meta_Master_Code - Duplicate entry in the Mastersheet
+2025-07-14 11:15:22,856 INFO  Meta_Master_Code - The rating is less than 4.5
+2025-07-14 11:15:22,856 INFO  Meta_Master_Code - 21 - link in written
+2025-07-14 11:15:22,925 INFO  Meta_Master_Code - Excel file deleted as it contains no sheets.
+2025-07-14 11:15:23,304 INFO  Meta_Master_Code - ----- Completed Run #4 -----
+

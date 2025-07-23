@@ -3,15 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Test_Case.Meta_Master_Code">
+      <class name="Test_Case.Meta_Website_Master_Code">
         <methods>
+          <include name="closebroser"/>
+          <include name="Fetchdata"/>
+          <include name="analyseURLs" invocation-numbers="102 92"/>
           <include name="deleteExcelIfNoSheet"/>
           <include name="browseropen"/>
-          <include name="analyseURLs"/>
-          <include name="Fetchdata"/>
-          <include name="closebroser"/>
         </methods>
-      </class> <!-- Test_Case.Meta_Master_Code -->
+      </class> <!-- Test_Case.Meta_Website_Master_Code -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
